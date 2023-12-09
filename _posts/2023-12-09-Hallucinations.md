@@ -7,5 +7,5 @@ https://github.com/vectara/hallucination-leaderboard
 
 Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents!
 
-![[Git-obsidian/Screenshot_20231209_162619_Brave.jpg]]
+![[Git-obsidian/_asset/Screenshot_20231209_162619_Brave.jpg]]
 
