@@ -1,6 +1,9 @@
 ---
 Title: 
-tags: 
+tags:
+  - LLM
+  - Robotics
+  - AI
 Date: 2023-12-09
 ---
 https://github.com/GT-RIPL/Awesome-LLM-Robotics#simulation-frameworks
