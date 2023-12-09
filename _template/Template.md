@@ -1,8 +1,7 @@
 ---
 tags: 
 Title: 
-Date:
-  "{ date }":
+Date: {{ date }} 
 ---
 
 # 

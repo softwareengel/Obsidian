@@ -12,5 +12,5 @@ Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizi
 
 **bold**
 
-![[2023-12-09 1]]
+![[Git-obsidian/_posts/2023-12-09 networkx]]
 
