@@ -1,7 +1,10 @@
 ---
 tags: 
 Title: 
-Date: {{date}}
+Date:
+  "{ date }":
 ---
 
 # 
+
+https://networkx.org/
