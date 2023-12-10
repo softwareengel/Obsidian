@@ -6,3 +6,6 @@ Date: 2023-12-10
 https://github.com/lxe/simple-llm-finetuner
 
 Simple UI for LLM Model Finetuning
+
+https://news.ycombinator.com/item?id=35256769
+
