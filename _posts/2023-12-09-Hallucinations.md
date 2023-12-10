@@ -1,6 +1,8 @@
 ---
-Title: 
-tags: 
+Title: Hallucinations
+tags:
+  - LLM
+  - Benchmark
 Date: 2023-12-09T14:03:00
 ---
 https://github.com/vectara/hallucination-leaderboard
