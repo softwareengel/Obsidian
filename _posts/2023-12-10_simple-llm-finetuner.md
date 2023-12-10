@@ -6,9 +6,12 @@ tags:
   - Mistral
 Date: 2023-12-10
 ---
+
+## Simple UI for LLM Model Finetuning
 https://github.com/lxe/simple-llm-finetuner
 
-Simple UI for LLM Model Finetuning
+
+
 
 ## Mistral 7B
 https://news.ycombinator.com/item?id=35256769
