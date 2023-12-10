@@ -1,6 +1,9 @@
 ---
 Title: simple-llm-finetuner
-tags: LLM, ui, 
+tags:
+  - LLM
+  - ui
+  - Mistral
 Date: 2023-12-10
 ---
 https://github.com/lxe/simple-llm-finetuner
@@ -40,3 +43,5 @@ https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF
 https://huggingface.co/LoneStriker/zephyr-7b-alpha-4.0bpw-h6-exl2
 
 https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
+### Workers AI Update: Hello Mistral 7B
+https://blog.cloudflare.com/workers-ai-update-hello-mistral-7b/
