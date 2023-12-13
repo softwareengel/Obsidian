@@ -3,6 +3,7 @@ Title: Visual Anagrams
 tags:
   - AI
   - GAN
+  - Visual
 Date: 2023-12-10
 ---
 
