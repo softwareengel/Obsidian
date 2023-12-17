@@ -15,4 +15,6 @@ Super Productivity is an advanced todo list app with integrated Timeboxing and t
 
 https://super-productivity.com/
 
-L
+Leider zu früh gefreut, Android app veraltet, web app test tbd 
+
+Q: **werden die Zeiten auch wieder auf die repo-Tickets aufgeschrieben (sync) **? 
