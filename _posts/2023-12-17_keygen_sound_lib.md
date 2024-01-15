@@ -18,7 +18,7 @@ Keygen Library Player (4504 files)
 
 HN: https://news.ycombinator.com/item?id=36378137
 
-Wo ist die playlist? 
+Where ist the playlist? 
 
 ## essential-keygen-music
 

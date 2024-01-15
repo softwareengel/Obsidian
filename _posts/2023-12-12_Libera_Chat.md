@@ -3,6 +3,7 @@ Title: Libera Chat
 tags:
   - Chat
   - OSS
+  - irc
 Date: 2023-12-12
 ---
 
