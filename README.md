@@ -1,6 +1,4 @@
 
 # Obsidian git repo
 
-
-
-https://github.com/softwareengel/Obsidian
+<https://github.com/softwareengel/Obsidian>
