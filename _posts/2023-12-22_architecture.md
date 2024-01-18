@@ -1,6 +1,7 @@
 ---
-Title: 
-tags: 
+Title: Software Architecture Pitfalls
+tags:
+  - EAM
 Date: 2023-12-22
 ---
 https://www.infoq.com/articles/avoid-architecture-pitfalls/
