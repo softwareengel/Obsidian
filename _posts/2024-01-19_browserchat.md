@@ -1,5 +1,5 @@
 ---
-Title: 
+Title: Run a chat model entirely on your browser
 tags:
   - LLM
   - AI
