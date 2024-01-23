@@ -1,6 +1,7 @@
 ---
-Title: 
-tags: 
+Title: ArchiveBox
+tags:
+  - Archive
 Date: 2024-01-12
 ---
 https://github.com/ArchiveBox/ArchiveBox
@@ -8,6 +9,3 @@ https://github.com/ArchiveBox/ArchiveBox
 ArchiveBox is a powerful, self-hosted internet archiving solution to collect, save, and view websites offline.
 
 
-https://www.turingpost.com/p/llm-applications-tools
-
-10 open-source tools for LLM applications development
