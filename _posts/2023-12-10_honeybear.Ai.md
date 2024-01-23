@@ -12,7 +12,7 @@ PDF Chat
 
 Document reading made easy
 
-![[Pasted image 20240118182637.png]]
+![[../_asset/Pasted image 20240118182637.png]]
 
 
 ![](../_asset/Screenshot_20231210_210055_Kiwi%20Browser.jpg)![](../_asset/Screenshot_20231210_205957_Kiwi%20Browser.jpg)
