@@ -13,4 +13,4 @@ https://airflow.apache.org/
 https://github.com/apache/airflow/
 
 
-![[Pasted image 20240118181701.png]]
+![[../_asset/Pasted image 20240118181701.png]]
