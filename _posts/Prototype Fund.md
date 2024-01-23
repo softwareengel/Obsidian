@@ -1,6 +1,9 @@
 ---
 created: 2023-12-08T08:09:24+01:00
 modified: 2023-12-08T08:10:33+01:00
+Title: Prototype Fund
+tags: 
+Date: 2024-01-23
 ---
 
 # Prototype Fund
