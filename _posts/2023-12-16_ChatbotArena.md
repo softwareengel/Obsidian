@@ -16,3 +16,4 @@ https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
 
 ![](../_asset/Screenshot_20231217_174242_Brave.jpg)
 
+![](../_asset/Screenshot_20240123_230644_Brave.jpg)
