@@ -1,14 +1,15 @@
 ---
 created: 2023-09-18T18:30:25+02:00
 modified: 2023-09-18T18:30:31+02:00
-Title: wordpress-playground
+Title: wordpress-Playground
 tags:
   - wordpress
   - playground
+  - Wasm
 Date: 2024-01-24
 ---
 
-# wordpress-playground
+# Wordpress-Playground
 
 ![](../_asset/Pasted%20image%2020240124093903.png)
 
