@@ -2,8 +2,14 @@
 created: 2023-09-18T18:18:57+02:00
 modified: 2023-09-18T18:20:29+02:00
 title: How the most successful B2B startups came up with their original idea
+Title: How the most successful B2B startups came up with their original idea
+tags:
+  - ideation
+  - startups
+Date: 2024-01-24
 ---
 
+# 
 # How the most successful B2B startups came up with their original idea
 
 https://www.lennysnewsletter.com/p/finding-product-market-fit
