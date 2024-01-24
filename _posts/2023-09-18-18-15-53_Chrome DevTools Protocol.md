@@ -1,6 +1,10 @@
 ---
 created: 2023-09-18T18:15:53+02:00
 modified: 2023-09-18T18:15:55+02:00
+Title: Chrome DevTools Protocol
+tags:
+  - Chrome
+Date: 2024-01-24
 ---
 # Chrome DevTools Protocol
 
