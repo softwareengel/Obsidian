@@ -1,6 +1,10 @@
 ---
 created: 2023-10-17T19:59:48+02:00
 modified: 2023-10-17T20:06:04+02:00
+Title: Sparplan
+tags:
+  - Sparplan
+Date: 2024-01-24
 ---
 
 # Sparplan
