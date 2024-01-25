@@ -4,10 +4,11 @@ tags:
   - LLM
   - JS
   - Python
+  - Lib
 Date: 2024-01-25
 ---
 
-# Ollama py js
+# Ollama PY JS Libs
 https://ollama.ai/blog/python-javascript-libraries
 
 The initial versions of the Ollama Python and JavaScript libraries are now available:
