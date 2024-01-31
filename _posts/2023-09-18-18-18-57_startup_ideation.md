@@ -9,7 +9,7 @@ tags:
 Date: 2024-01-24
 ---
 
-# 
+
 # How the most successful B2B startups came up with their original idea
 
 https://www.lennysnewsletter.com/p/finding-product-market-fit
