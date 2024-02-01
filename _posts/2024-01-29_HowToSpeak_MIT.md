@@ -1,7 +1,6 @@
 ---
 Title: How to Speak
-tags:
-  - speaking
+tags: 
 Date: 2024-01-29
 ---
 
