@@ -4,6 +4,7 @@ tags:
   - Gpt
   - Gemini
   - AI
+  - GenAI
 Date: 2023-12-13
 ---
 https://github.com/gregsadetsky/sagittarius
