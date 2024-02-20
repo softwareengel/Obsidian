@@ -12,7 +12,7 @@ Date: 2024-02-13
 # Browsercraft
 
 This is a proof of concept of Minecraft running unmodified in the browser, using CheerpJ.
-
+![](Pasted%20image%2020240220163604.png)
 See the website for a live demo and more information.
 
 https://github.com/leaningtech/browsercraft
@@ -28,4 +28,5 @@ CheerpJ is the only solution which can run any large-scale, unmodified Java appl
 https://cheerpj.com/ 
 
 ![](../_asset/Pasted%20image%2020240213135826.png)
+
 https://caniuse.com/wasm
