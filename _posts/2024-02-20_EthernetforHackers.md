@@ -1,8 +1,9 @@
 ---
 Title: Ethernet for Hackers
-tags: 
+tags: []
 Date: 2024-02-20
 ---
+# Ethernet for Hackers
 
 ![](Screenshot_20240220_154531_Kiwi%20Browser.jpg)
 
