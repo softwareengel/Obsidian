@@ -4,6 +4,8 @@ tags:
   - mermaid
   - Editor
   - WebApp
+  - Generator
+  - diagrams
 Date: 2024-02-08
 ---
 
