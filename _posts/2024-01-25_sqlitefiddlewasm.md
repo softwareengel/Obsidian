@@ -4,6 +4,7 @@ tags:
   - Sqlite
   - Fiddle
   - Wasm
+  - database
 Date: 2024-01-25
 ---
 
