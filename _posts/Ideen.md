@@ -12,13 +12,14 @@ type: Checklist
 - [ ] Ford Turneo Custom l1
 - [x] Super Mario Kinofilm
 
+- [ ] Marke Shirt Prblm Slvr
 
 - [ ] .Dst Datei Format, Base cap
-- [ ] Bade Poncho
-- [ ] Zipgate? Telefon Festnetz 
+- [x] Bade Poncho
+- [x] Zipgate? Telefon Festnetz 
 - [ ] Zug nach Enschede mit Verena & co
 - [ ] Leasingmarkt. De
 - [x] Koffer, Trolli
 - [ ] Versteigerung Immobilien Website crawler
 - [ ] Klodeckel dg
-- [ ] Wb moves repo
+- [ ] Wb movies repo
