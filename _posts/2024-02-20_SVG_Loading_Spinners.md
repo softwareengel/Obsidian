@@ -5,7 +5,7 @@ tags:
   - spinners
 Date: 2024-02-20
 ---
-![](Screenshot_20240220_160250_Kiwi%20Browser.jpg)
+![](_asset/2024-02-20_SVG_Loading_Spinners_image_1.jpg)
 
 Making SVG Loading Spinners
 # Making SVG Loading Spinners: An Interactive Guide
@@ -15,3 +15,5 @@ SVG spinners: you've seen them all over, giving us as a visual cue when elements
 
 
 https://fffuel.co/svg-spinner/
+
+![](_asset/2024-02-20_SVG_Loading_Spinners_image_2.png)
