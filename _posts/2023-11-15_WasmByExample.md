@@ -8,9 +8,8 @@ tags:
 Date: 2024-02-20
 ---
 
-
 # Wasm By Example
 
-![](Pasted%20image%2020240220171042.png)
+![](_asset/2023-11-15_WasmByExample_image_1.png)
 
 https://wasmbyexample.dev/home.en-us.html

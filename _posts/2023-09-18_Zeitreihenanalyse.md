@@ -13,4 +13,4 @@ Date: 2024-02-21
 
 https://github.com/ix-magazin/Zeitreihenanalyse_mit_Python/blob/main/Zeitreihenanalyse_mit_Python.ipynb
 
-![](Pasted%20image%2020240221105631.png)
+![](_asset/2023-09-18_Zeitreihenanalyse_image_1.png)
