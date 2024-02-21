@@ -7,7 +7,7 @@ tags:
   - hacking
 Date: 2024-02-02
 ---
-![](../_asset/Pasted%20image%2020240202103033.png)
+![](_asset/2023-09-18-20-04-31_Radware%20Live%20Threat%20Map_image_1.png)
 
 # Radware Live Threat Map
 ## What is the Radware Live Threat Map?
