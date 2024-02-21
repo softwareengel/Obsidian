@@ -7,7 +7,7 @@ tags:
 Date: 2024-01-31
 ---
 
-![](../_asset/Pasted%20image%2020240131150049.png)
+![](20240131150049_wasmrecompile.png)
 
 # x86 virtualization in your browser, recompiling x86 to wasm on the fly
 
