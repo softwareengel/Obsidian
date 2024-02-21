@@ -12,7 +12,7 @@ Date: 2024-02-20
 
 # Introduction to modern web application development with JavaScript
 
-![](Pasted%20image%2020240220171828.png)
+![](_asset/2023-09-28_modernWebApplicationDevelopmentJavaScript_image_1.png)
 # 
 
 https://fullstackopen.com/en/about/

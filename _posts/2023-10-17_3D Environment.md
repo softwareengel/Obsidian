@@ -10,7 +10,7 @@ Date: 2024-02-20
 ---
 # Learn Programming in 3D Environment
 
-![](Pasted%20image%2020240220163828.png)
+![](_asset/2023-10-17_3D%20Environment_image_1.png)
 
 
 This environment is called MineREPL. We're going to learn to program with it.
