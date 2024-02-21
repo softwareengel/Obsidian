@@ -11,7 +11,7 @@ Date: 2024-01-24
 
 # Wordpress-Playground
 
-![](../_asset/Pasted%20image%2020240124093903.png)
+![](20240124093903wpplay.png)
 
 https://wordpress.github.io/wordpress-playground/
 
