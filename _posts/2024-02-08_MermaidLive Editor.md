@@ -11,12 +11,12 @@ Date: 2024-02-08
 
 
 
-![](../_asset/Pasted%20image%2020240208130441.png)
+![](_asset/2024-02-08_MermaidLive%20Editor_image_1.png)
 # Mermaidv10.8.0 Live Editor
 
-![](../_asset/Pasted%20image%2020240208130514.png)
+![](_asset/2024-02-08_MermaidLive%20Editor_image_2.png)
 
-![](../_asset/Pasted%20image%2020240208130541.png)
+![](_asset/2024-02-08_MermaidLive%20Editor_image_3.png)
 
 https://diagrams.helpful.dev/s/s:fpy8knNn
 
