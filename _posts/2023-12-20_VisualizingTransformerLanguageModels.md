@@ -7,6 +7,9 @@ tags:
   - numpy
 Date: 2023-12-20
 ---
+
+# The Illustrated GPT-2 (Visualizing Transformer Language Models)
+
 https://jalammar.github.io/illustrated-gpt2/
 
 [Jay Alammar – Visualizing machine learning one concept at a time. (jalammar.github.io)](https://jalammar.github.io/)
@@ -14,10 +17,10 @@ https://jalammar.github.io/illustrated-gpt2/
 
 
 The Illustrated GPT-2 (Visualizing Transformer Language Models)
-![](../_asset/Screenshot_20231220_010856_Kiwi%20Browser.jpg)![](../_asset/Screenshot_20231220_010915_Kiwi%20Browser.jpg)x
+![](_asset/2023-12-20_VisualizingTransformerLanguageModels_image_1.jpg)![](_asset/2023-12-20_VisualizingTransformerLanguageModels_image_2.jpg)x
 
 ## A Visual Intro to NumPy and Data Representation
 
-![](../_asset/Pasted%20image%2020240204144403.png)
+![](_asset/2023-12-20_VisualizingTransformerLanguageModels_image_3.png)
 [A Visual Intro to NumPy and Data Representation – Jay Alammar – Visualizing machine learning one concept at a time. (jalammar.github.io)](https://jalammar.github.io/visual-numpy/)
 
