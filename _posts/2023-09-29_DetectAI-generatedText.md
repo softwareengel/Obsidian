@@ -12,7 +12,7 @@ Date: 2024-02-20
 
 # Detect AI-generated text [relatively] quickly via compression ratios
 
-![](Pasted%20image%2020240220164354.png)
+![](_asset/2023-09-29_DetectAI-generatedText_image_1.png)
 
 # 
 https://github.com/thinkst/zippy

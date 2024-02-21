@@ -7,9 +7,14 @@ tags:
   - arduino
 Date: 2024-01-07
 ---
+# Tiny Sorter
+
+### A DIY experiment connecting **Arduino** + **Teachable Machine**
+
+
 https://experiments.withgoogle.com/tiny-sorter/view
 
-![](../_asset/Pasted%20image%2020240210165535.png)
+![](_asset/2024-01-07_TeachableMachine_image_1.png)
 
 Tiny Sorter
 A DIY experiment connecting Arduino + Teachable Machine

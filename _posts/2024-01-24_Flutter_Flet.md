@@ -11,14 +11,14 @@ tags:
   - VSCode
 Date: 2024-01-24
 ---
-[] Checked
+
 # Flutter & Flet
 
 ## Debug Flet-APP in VS Code 
 
-![](../_asset/Pasted%20image%2020240124162530.png)
+![](_asset/2024-01-24_Flutter_Flet_image_1.png)
 
 ## Flet-Web Debug in VS-Code 
 
-![](../_asset/Pasted%20image%2020240124162954.png)
+![](_asset/2024-01-24_Flutter_Flet_image_2.png)
 
