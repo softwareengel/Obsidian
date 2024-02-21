@@ -12,4 +12,4 @@ Date: 2024-02-13
  
 https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html
 
-![](Pasted%20image%2020240221110644.png)
+![](_asset/2024-02-13_python_search_80Lines_image_1.png)
