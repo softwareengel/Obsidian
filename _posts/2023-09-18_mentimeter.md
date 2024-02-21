@@ -11,6 +11,6 @@ Date: 2024-02-20
 # mentimeter
 
 
-![](Pasted%20image%2020240220151548.png)
+![](2023-09-18_mentimeter_image_1.png)
 
 https://www.mentimeter.com/
