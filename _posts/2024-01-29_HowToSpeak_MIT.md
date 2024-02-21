@@ -1,12 +1,14 @@
 ---
 Title: How to Speak
-tags: 
+tags:
+  - speaking
+  - Learn
 Date: 2024-01-29
 ---
 
 Erinnern an Stories 
 
-![](../_asset/Pasted%20image%2020240129112539.png)
+![](_asset/2024-01-29_HowToSpeak_MIT_image_1.png)
 
 
 https://www.youtube.com/watch?v=Unzc731iCUY

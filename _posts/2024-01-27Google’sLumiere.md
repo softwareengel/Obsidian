@@ -9,7 +9,7 @@ tags:
 Date: 2024-01-27
 ---
 
-![](../_asset/Pasted%20image%2020240131144637.png)
+![](_asset/2024-01-27Google’sLumiere_image_1.png)
 
 https://www.theverge.com/2024/1/27/24052140/google-lumiere-ai-video-generation-runway-pika
 

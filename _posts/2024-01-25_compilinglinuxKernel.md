@@ -7,7 +7,7 @@ tags:
 Date: 2024-01-25
 ---
 # A Guide to Compiling the Linux Kernel All By Yourself
-![](../_asset/Pasted%20image%2020240131151440.png)
+![](_asset/2024-01-25_compilinglinuxKernel_image_1.png)
 
 You may be interested in compiling the Linux kernel yourself, for many reasons. It might be, but not limited to, one of the following:
 
