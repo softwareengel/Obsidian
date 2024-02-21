@@ -9,7 +9,7 @@ Date: 2024-02-13
 ---
 # Tiny Quadrotor Learns to Fly in 18 Seconds
 
-![](../_asset/Pasted%20image%2020240220100224.png)
+![](_asset/2024-02-10_droneFylLearnung18s_image_1.png)
 
  https://spectrum.ieee.org/drone-quadrotor
 

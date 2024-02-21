@@ -6,7 +6,7 @@ tags:
   - Video
 Date: 2024-01-25
 ---
-![](../_asset/Pasted%20image%2020240131145718.png)
+![](_asset/2024-01-25ml-lib_videos_image_1.png)
 
 https://work.caltech.edu/library/
 
