@@ -5,8 +5,8 @@ tags:
 Date: 2024-02-20
 ---
 
-![](Screenshot_20240220_160731_Kiwi%20Browser.jpg)
+![](_asset/2024-02-20_TheNeuralNetworkZoo_image_1.jpg)
 # The Neural Network Zoo
 https://www.asimovinstitute.org/neural-network-zoo/#
 
-![](Pasted%20image%2020240220161745.png)
+![](_asset/2024-02-20_TheNeuralNetworkZoo_image_2.png)
