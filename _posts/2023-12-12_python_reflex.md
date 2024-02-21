@@ -1,11 +1,12 @@
 ---
-Title: Python Reflex
+Title: Python Reflex -Web apps in pure Python
 tags:
   - Python
   - WebApp
   - Web
 Date: 2023-12-12
 ---
+# Web apps in pure Python
 
 Build web apps in minutes. Deploy with a single command. 
 
@@ -14,6 +15,8 @@ Create your whole app in a single language. Don't worry about writing APIs to co
 https://reflex.dev/
 
 https://github.com/reflex-dev/reflex
+
+![](Pasted%20image%2020240221110355.png)
 
 https://reflex.dev/docs/library/
 
