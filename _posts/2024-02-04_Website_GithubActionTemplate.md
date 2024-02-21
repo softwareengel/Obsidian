@@ -9,7 +9,7 @@ tags:
 Date: 2024-02-04
 ---
 
-![](../_asset/Pasted%20image%2020240204141003.png)
+![](_asset/2024-02-04_Website_GithubActionTemplate_image_1.png)
 # Thomas Rørvik Skjølberg Github Action HTML 
 
 https://skjolber.github.io/
