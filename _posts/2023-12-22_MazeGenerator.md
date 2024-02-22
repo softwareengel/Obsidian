@@ -1,6 +1,9 @@
 ---
-Title: 
-tags: 
+Title: Maze Generator
+tags:
+  - Maze
+  - Generator
+  - kids
 Date: 2023-12-22
 ---
 https://mazegenerator.net/
