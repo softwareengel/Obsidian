@@ -1,10 +1,18 @@
 ---
 created: 2023-09-18T20:44:24+02:00
 modified: 2023-09-21T15:22:50+02:00
+Title: WebTorrent
+tags:
+  - Torrent
+  - WebApp
+  - WebRTC
+Date: 2024-02-21
 ---
+
 
 # WebTorrent
 
+![](_asset/2023-09-21_WebTorrent_image_1.png)
 WebTorrent is a streaming torrent client for the web browser and the desktop
 WebTorrent is written completely in JavaScript – the language of the web – and uses WebRTC for peer-to-peer transport whenever possible. No browser plugins, extensions, or installation is required to use WebTorrent in your browser.
 Why?
