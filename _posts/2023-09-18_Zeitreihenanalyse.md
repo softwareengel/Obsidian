@@ -8,7 +8,7 @@ tags:
 Date: 2024-02-21
 ---
 
-# Zeitreihenanalyse_mit_Python
+# Zeitreihenanalyse mit Python
 
 
 https://github.com/ix-magazin/Zeitreihenanalyse_mit_Python/blob/main/Zeitreihenanalyse_mit_Python.ipynb
