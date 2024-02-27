@@ -3,6 +3,7 @@ Title: SVG Loading Spinners
 tags:
   - SVG
   - spinners
+  - animation
 Date: 2024-02-20
 ---
 ![](_asset/2024-02-20_SVG_Loading_Spinners_image_1.jpg)
