@@ -8,7 +8,7 @@ tags:
 Date: 2024-02-20
 ---
 
-# mentimeter
+# Mentimeter
 
 
 ![](2023-09-18_mentimeter_image_1.png)
