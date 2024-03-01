@@ -1,10 +1,11 @@
 ---
 created: 2023-09-18T20:41:58+02:00
 modified: 2023-09-18T20:41:59+02:00
-Title: Zeitreihenanalyse_mit_Python
+Title: Zeitreihenanalyse mit Python
 tags:
   - Python
   - TimeSeries
+  - Jupyter
 Date: 2024-02-21
 ---
 
