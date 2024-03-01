@@ -2,7 +2,7 @@
 Title: scikit-learn - Machine Learning in Python
 tags:
   - AI
-  - Ml
+  - ML
   - Python
   - Lib
 Date: 2024-01-25
