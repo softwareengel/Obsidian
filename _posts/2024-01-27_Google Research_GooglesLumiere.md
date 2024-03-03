@@ -1,5 +1,5 @@
 ---
-Title: Google’s Lumiere
+Title: Google’s Lumiere Text-to-Video, Image-to-Video
 tags:
   - LLM
   - Google
@@ -9,7 +9,7 @@ tags:
 Date: 2024-01-27
 ---
 
-![](_asset/2024-01-27Google’sLumiere_image_1.png)
+![](_asset/2024-01-27_Google’sLumiere_image_1.png)
 
 https://www.theverge.com/2024/1/27/24052140/google-lumiere-ai-video-generation-runway-pika
 
@@ -21,3 +21,6 @@ Google’s Lumiere
 brings AI video closer to real than unreal
 
 https://youtu.be/wxLr02Dz2Sc
+
+https://lumiere-video.github.io/ 
+
