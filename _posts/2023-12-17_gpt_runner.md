@@ -1,5 +1,5 @@
 ---
-Title: 
+Title: gpt runner
 tags:
   - gpt4all
   - Mistral
@@ -30,11 +30,7 @@ GPT4All Website and Models
 
 GPT4All Documentation
 
-Discord
 
-🦜️🔗 Official Langchain Backend
-
-GPT4All is made possible by our compute partner Paperspace.
 https://github.com/nomic-ai/gpt4all
 
 -------
