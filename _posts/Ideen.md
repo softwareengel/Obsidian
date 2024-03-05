@@ -18,7 +18,7 @@ type: Checklist
 - [x] Bade Poncho
 - [x] Zipgate? Telefon Festnetz 
 - [ ] Zug nach Enschede mit Verena & co
-- [ ] Leasingmarkt. De
+- [ ] Leasingmarkt.De
 - [x] Koffer, Trolli
 - [ ] Versteigerung Immobilien Website crawler
 - [ ] Klodeckel dg
