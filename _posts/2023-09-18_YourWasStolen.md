@@ -1,7 +1,12 @@
 ---
 created: 2023-09-18T19:20:37+02:00
 modified: 2023-09-18T19:20:56+02:00
+Title: Your attention didn’t collapse. It was stolen
+tags:
+  - Focustime
+Date: 2024-03-05
 ---
+
 
 # Your attention didn’t collapse. It was stolen
 
