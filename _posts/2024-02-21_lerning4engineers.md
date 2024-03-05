@@ -1,6 +1,8 @@
 ---
 Title: lerning4engineers
-tags: 
+tags:
+  - progamming
+  - Coding
 Date: 2024-02-21
 ---
 https://github.com/charlax/professional-programming
