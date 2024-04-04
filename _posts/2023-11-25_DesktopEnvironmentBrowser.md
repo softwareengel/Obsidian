@@ -9,7 +9,6 @@ tags:
 Date: 2024-02-13
 ---
 
-
 # Desktop environment in the browser
 
 ![](_asset/2023-11-25_DesktopEnvironmentBrowser_image_1.png)
