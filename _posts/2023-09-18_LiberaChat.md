@@ -8,7 +8,6 @@ tags:
 Date: 2024-03-05
 ---
 
-
 # Libera Chat
 
 [Libera.Chat](https://libera.chat) is the IRC network for free & open-source software and peer directed projects.
