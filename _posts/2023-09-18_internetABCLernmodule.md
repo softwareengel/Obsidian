@@ -9,8 +9,8 @@ tags:
 Date: 2024-02-22
 ---
 
-
+ 
 # Lernmodule
 
-![](_asset/Pasted%20image%2020240222093744.png)
+![](_asset/2023-09-18_internetABCLernmodule_image_1.png)
 https://www.internet-abc.de/kinder/lernen-schule/lernmodule/
