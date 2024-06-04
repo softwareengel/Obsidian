@@ -7,12 +7,15 @@ tags:
   - clipboard
   - security
   - crypting
-Date: 2024-02-21
 ---
 
 # CryptBoard - encrypted anonymous internet clipboard
 
-![](_asset/2023-09-18_CryptBoard_image_1.png)
+![](_asset/2023-09-18-CryptBoard_image_1.png)
 
-https://cryptboard.io/
-![](_asset/2023-09-18_CryptBoard_image_2.png)
+
+![](_asset/2023-09-18-CryptBoard_image_2.png)
+
+## Links
+
+<https://cryptboard.io/>
