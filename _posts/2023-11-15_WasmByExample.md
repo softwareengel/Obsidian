@@ -1,7 +1,7 @@
 ---
 created: 2023-11-15T18:45:59+01:00
 modified: 2023-11-15T18:46:05+01:00
-Title: Wasm By Example
+title: Wasm By Example
 tags:
   - Wasm
   - Example

@@ -1,7 +1,7 @@
 ---
 created: 2023-10-13T08:59:03+02:00
 modified: 2023-10-13T08:59:55+02:00
-Title: Clippings
+title: Clippings
 tags:
   - Archive
   - ads

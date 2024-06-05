@@ -1,5 +1,5 @@
 ---
-Title: Thomas Rørvik Skjølberg
+title: Thomas Rørvik Skjølberg
 tags:
   - Web
   - GithubActions

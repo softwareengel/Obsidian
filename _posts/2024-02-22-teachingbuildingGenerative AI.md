@@ -1,5 +1,5 @@
 ---
-Title: 12 Lesson course building Generative AI
+title: 12 Lesson course building Generative AI
 tags:
   - Learn
   - LLM

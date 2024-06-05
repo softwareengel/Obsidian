@@ -1,5 +1,5 @@
 ---
-Title: SVG Loading Spinners
+title: SVG Loading Spinners
 tags:
   - SVG
   - spinners

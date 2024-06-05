@@ -1,5 +1,5 @@
 ---
-Title: time-series forecasting
+title: time-series forecasting
 tags:
   - TimeSeries
   - Forecasts

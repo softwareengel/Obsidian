@@ -1,5 +1,5 @@
 ---
-Title: A search engine in 80 lines of Python
+title: A search engine in 80 lines of Python
 tags:
   - Python
   - Search

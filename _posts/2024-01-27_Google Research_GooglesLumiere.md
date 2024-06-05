@@ -1,5 +1,5 @@
 ---
-Title: Googles Lumiere Text-to-Video, Image-to-Video
+title: Googles Lumiere Text-to-Video, Image-to-Video
 tags:
   - LLM
   - Google

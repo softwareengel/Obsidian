@@ -1,5 +1,5 @@
 ---
-Title: open ai logo creator
+title: open ai logo creator
 tags:
   - openai
   - Generator

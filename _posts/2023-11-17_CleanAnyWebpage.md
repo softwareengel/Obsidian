@@ -1,7 +1,7 @@
 ---
 created: 2023-11-17T10:14:18+01:00
 modified: 2023-11-17T10:14:22+01:00
-Title: Clean any webpage
+title: Clean any webpage
 tags:
   - hacking
   - adguard

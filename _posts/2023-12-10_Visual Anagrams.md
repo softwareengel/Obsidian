@@ -1,5 +1,5 @@
 ---
-Title: Visual Anagrams
+title: Visual Anagrams
 tags:
   - AI
   - GAN
