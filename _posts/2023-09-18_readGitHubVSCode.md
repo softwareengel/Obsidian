@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T18:33:08+02:00
 modified: 2023-09-18T18:33:12+02:00
-Title: One second to read GitHub code with VS Code
+title: One second to read GitHub code with VS Code
 tags:
   - github
   - VSCode

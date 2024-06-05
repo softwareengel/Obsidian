@@ -1,5 +1,5 @@
 ---
-Title: Learn web development
+title: Learn web development
 tags:
   - Learn
   - Dev

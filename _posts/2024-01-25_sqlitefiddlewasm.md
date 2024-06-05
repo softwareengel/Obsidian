@@ -1,5 +1,5 @@
 ---
-Title: SQLite fiddle
+title: SQLite fiddle
 tags:
   - Sqlite
   - Fiddle

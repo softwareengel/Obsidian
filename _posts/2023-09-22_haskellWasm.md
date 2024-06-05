@@ -4,7 +4,7 @@ modified: 2023-09-22T08:04:19+02:00
 tags:
   - Wasm
   - Haskell
-Title: Haskell webassembly in the browser
+title: Haskell webassembly in the browser
 Date: 2024-02-20
 ---
 

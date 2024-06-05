@@ -1,5 +1,5 @@
 ---
-Title: State of WebAssembly
+title: State of WebAssembly
 tags: 
 Date: 2024-01-25
 ---

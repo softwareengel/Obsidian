@@ -1,5 +1,5 @@
 ---
-Title: Video Poet
+title: Video Poet
 tags:
   - AI
   - Video

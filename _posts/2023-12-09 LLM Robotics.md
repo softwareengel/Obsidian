@@ -1,5 +1,5 @@
 ---
-Title: Awesome-LLM-Robotics
+title: Awesome-LLM-Robotics
 tags:
   - LLM
   - Robotics

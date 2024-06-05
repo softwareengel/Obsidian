@@ -1,7 +1,7 @@
 ---
 created: 2023-10-14T10:39:55+02:00
 modified: 2023-10-14T10:40:00+02:00
-Title: GraphQL for .NET
+title: GraphQL for .NET
 tags:
   - GraphQL
   - DotNet

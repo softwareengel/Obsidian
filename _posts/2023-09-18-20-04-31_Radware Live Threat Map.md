@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T20:04:31+02:00
 modified: 2023-09-18T20:04:33+02:00
-Title: Radware Live Threat Map
+title: Radware Live Threat Map
 tags:
   - Map
   - hacking

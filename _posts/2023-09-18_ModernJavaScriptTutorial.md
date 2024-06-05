@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T19:31:46+02:00
 modified: 2023-09-18T19:31:52+02:00
-Title: The Modern JavaScript Tutorial
+title: The Modern JavaScript Tutorial
 tags:
   - JS
   - Learn

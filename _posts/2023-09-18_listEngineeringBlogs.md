@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T20:41:27+02:00
 modified: 2023-09-18T20:41:30+02:00
-Title: A curated list of Software engineering blogs
+title: A curated list of Software engineering blogs
 tags:
   - softwareengineering
   - Linklist

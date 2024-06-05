@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T20:28:38+02:00
 modified: 2023-09-18T20:28:43+02:00
-Title: Internet ABC
+title: Internet ABC
 tags:
   - Learn
   - internet

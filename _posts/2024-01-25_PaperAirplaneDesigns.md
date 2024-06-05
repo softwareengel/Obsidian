@@ -1,5 +1,5 @@
 ---
-Title: Paper Airplane Designs
+title: Paper Airplane Designs
 tags:
   - Diy
   - kids

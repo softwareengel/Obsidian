@@ -1,7 +1,7 @@
 ---
 created: 2023-11-30T00:05:47+01:00
 modified: 2023-11-30T00:05:51+01:00
-Title: REPL in Python
+title: REPL in Python
 tags:
   - Python
   - repl
