@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T20:41:58+02:00
 modified: 2023-09-18T20:41:59+02:00
-Title: Zeitreihenanalyse mit Python
+title: Zeitreihenanalyse mit Python
 tags:
   - Python
   - TimeSeries

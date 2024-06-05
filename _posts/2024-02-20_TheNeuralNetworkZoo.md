@@ -1,5 +1,5 @@
 ---
-Title: The Neural Network Zoo
+title: The Neural Network Zoo
 tags:
   - DNN
 Date: 2024-02-20

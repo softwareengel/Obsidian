@@ -1,5 +1,5 @@
 ---
-Title: StarCoder 2
+title: StarCoder 2
 tags:
   - GenAI
   - Coding

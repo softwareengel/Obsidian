@@ -1,5 +1,5 @@
 ---
-Title: Caltech Machine Learning Video Library
+title: Caltech Machine Learning Video Library
 tags:
   - Ml
   - Lib

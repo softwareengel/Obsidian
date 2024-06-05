@@ -1,6 +1,6 @@
 ---
-Title: 
-Tags: 
+title: 
+tags: 
 Date: {{date}}
 ---
 

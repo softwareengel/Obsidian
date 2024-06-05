@@ -1,7 +1,7 @@
 ---
 created: 2023-10-11T11:48:07+02:00
 modified: 2023-10-11T11:48:40+02:00
-Title: Red Blob Games
+title: Red Blob Games
 tags:
   - games
   - algorithm

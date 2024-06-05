@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T20:32:48+02:00
 modified: 2023-09-18T20:32:51+02:00
-Title: "# wat2wasm demo"
+title: "# wat2wasm demo"
 tags:
   - Wasm
 Date: 2024-02-20

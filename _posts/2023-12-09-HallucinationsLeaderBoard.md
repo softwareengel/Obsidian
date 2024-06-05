@@ -1,5 +1,5 @@
 ---
-Title: Leaderboard Producing Hallucinations when Summarizing Short Documents
+title: Leaderboard Producing Hallucinations when Summarizing Short Documents
 tags:
   - LLM
   - Benchmark

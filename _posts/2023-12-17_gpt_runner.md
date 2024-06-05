@@ -1,5 +1,5 @@
 ---
-Title: gpt runner
+title: gpt runner
 tags:
   - gpt4all
   - Mistral

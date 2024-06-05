@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T20:27:01+02:00
 modified: 2023-09-18T20:27:06+02:00
-Title: A BLAZINGLY FAST HUGO CMS APP
+title: A BLAZINGLY FAST HUGO CMS APP
 tags:
   - hugo
   - Cms

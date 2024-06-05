@@ -1,7 +1,7 @@
 ---
 created: 2023-11-11T11:20:50+01:00
 modified: 2023-11-11T11:21:12+01:00
-Title: Bitcoin in Python
+title: Bitcoin in Python
 tags:
   - Python
   - bitcoin

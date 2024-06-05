@@ -1,5 +1,5 @@
 ---
-Title: Teachable Machine
+title: Teachable Machine
 tags:
   - Ml
   - sorter

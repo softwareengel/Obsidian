@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T18:27:54+02:00
 modified: 2023-09-18T18:27:57+02:00
-Title: ghidra-plays-mario
+title: ghidra-plays-mario
 tags:
   - ghidra
   - emulator
