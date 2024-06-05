@@ -1,5 +1,5 @@
 ---
-Title: Sandspiel
+title: Sandspiel
 tags:
   - sandspiel
   - webgl

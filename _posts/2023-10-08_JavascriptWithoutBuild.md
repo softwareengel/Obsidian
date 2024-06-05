@@ -1,7 +1,7 @@
 ---
 created: 2023-10-08T12:28:58+02:00
 modified: 2023-11-17T20:32:15+01:00
-Title: Writing Javascript without a build system
+title: Writing Javascript without a build system
 tags:
   - JS
 Date: 2024-03-08

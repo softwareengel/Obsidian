@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T18:57:11+02:00
 modified: 2023-09-18T18:57:13+02:00
-Title: TLauncher
+title: TLauncher
 tags:
   - Minecraft
 Date: 2024-02-20

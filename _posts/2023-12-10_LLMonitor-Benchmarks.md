@@ -1,5 +1,5 @@
 ---
-Title: LLMonitor Benchmarks
+title: LLMonitor Benchmarks
 tags:
   - LLM
   - Benchmark

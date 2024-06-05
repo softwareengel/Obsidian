@@ -1,5 +1,5 @@
 ---
-Title: Python Data Science Handbook
+title: Python Data Science Handbook
 tags:
   - Python
   - Datascience

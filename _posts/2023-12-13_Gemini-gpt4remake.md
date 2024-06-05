@@ -1,5 +1,5 @@
 ---
-Title: Gemini gpt4 remake
+title: Gemini gpt4 remake
 tags:
   - Gpt
   - Gemini

@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T20:16:04+02:00
 modified: 2023-09-18T20:16:13+02:00
-Title: Briefcase
+title: Briefcase
 tags:
   - Python
   - App

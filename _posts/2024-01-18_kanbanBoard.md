@@ -1,5 +1,5 @@
 ---
-Title: Kanban board
+title: Kanban board
 tags:
   - kanban
   - WebApp
