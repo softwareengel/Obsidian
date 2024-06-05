@@ -1,7 +1,7 @@
 ---
 created: 2023-09-29T08:03:10+02:00
 modified: 2023-09-29T08:03:13+02:00
-Title: classify text as AI or human-generated
+title: classify text as AI or human-generated
 tags:
   - AI
   - detection

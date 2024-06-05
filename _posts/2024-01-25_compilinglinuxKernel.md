@@ -1,5 +1,5 @@
 ---
-Title: Compiling the Linux Kernel All By Yourself
+title: Compiling the Linux Kernel All By Yourself
 tags:
   - Linux
   - Kernel

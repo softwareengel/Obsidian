@@ -1,5 +1,5 @@
 ---
-Title: gpt3 Level AI on Laptop
+title: gpt3 Level AI on Laptop
 tags:
   - LLM
   - Dev

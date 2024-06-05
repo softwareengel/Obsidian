@@ -1,7 +1,7 @@
 ---
 created: 2023-10-16T23:26:03+02:00
 modified: 2023-10-16T23:27:16+02:00
-Title: aft - file transfer done easily
+title: aft - file transfer done easily
 tags:
   - Tool
   - filetransfer

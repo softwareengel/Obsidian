@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T18:46:13+02:00
 modified: 2023-09-18T18:46:33+02:00
-Title: " Cool Science Tricks"
+title: " Cool Science Tricks"
 tags:
   - kids
   - Diy

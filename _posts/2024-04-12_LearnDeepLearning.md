@@ -1,5 +1,5 @@
 ---
-Title: How I got into deep learning
+title: How I got into deep learning
 tags:
   - AI
   - DNN

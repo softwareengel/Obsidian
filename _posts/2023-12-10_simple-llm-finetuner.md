@@ -1,5 +1,5 @@
 ---
-Title: simple-llm-finetuner
+title: simple-llm-finetuner
 tags:
   - LLM
   - ui

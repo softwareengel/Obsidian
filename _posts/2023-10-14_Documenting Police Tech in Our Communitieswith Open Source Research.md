@@ -1,7 +1,7 @@
 ---
 created: 2023-10-14T00:55:29+02:00
 modified: 2023-10-14T00:55:35+02:00
-Title: Atlas of Surveillance
+title: Atlas of Surveillance
 tags: 
 Date: 2024-02-20
 ---

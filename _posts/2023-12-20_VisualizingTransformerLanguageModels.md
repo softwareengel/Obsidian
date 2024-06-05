@@ -1,5 +1,5 @@
 ---
-Title: Visualizing Transformer Language Models - Visualizing machine learning one concept at a time
+title: Visualizing Transformer Language Models - Visualizing machine learning one concept at a time
 tags:
   - LLM
   - ML

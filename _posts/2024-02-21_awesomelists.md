@@ -1,5 +1,5 @@
 ---
-Title: awesome lists
+title: awesome lists
 tags: 
 Date: 2024-02-22
 ---
