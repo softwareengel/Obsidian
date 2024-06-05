@@ -1,5 +1,5 @@
 ---
-Title: Browsercraft
+title: Browsercraft
 tags:
   - Minecraft
   - CheerpJ

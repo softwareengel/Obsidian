@@ -1,5 +1,5 @@
 ---
-Title: Chatbot Arena Leaderboard
+title: Chatbot Arena Leaderboard
 tags:
   - LLM
   - Chat

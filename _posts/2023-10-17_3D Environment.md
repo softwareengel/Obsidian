@@ -1,7 +1,7 @@
 ---
 created: 2023-10-17T22:10:53+02:00
 modified: 2023-10-17T22:10:53+02:00
-Title: Learn Programming in 3D Environment
+title: Learn Programming in 3D Environment
 tags:
   - 3d
   - Learn

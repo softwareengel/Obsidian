@@ -1,7 +1,7 @@
 ---
 created: 2023-11-13T18:01:21+01:00
 modified: 2023-11-13T18:01:38+01:00
-Title: "Open, rigorous and reproducible research: A practitioners handbook"
+title: "Open, rigorous and reproducible research: A practitioners handbook"
 tags: 
 Date: 2024-06-04
 ---

@@ -1,5 +1,5 @@
 ---
-Title: llmsherpa
+title: llmsherpa
 tags:
   - AI
   - LLM

@@ -1,5 +1,5 @@
 ---
-Title: Software Architecture Pitfalls
+title: Software Architecture Pitfalls
 tags:
   - EAM
 Date: 2023-12-22

@@ -1,5 +1,5 @@
 ---
-Title: Mermaidv10.8.0 Live Editor
+title: Mermaidv10.8.0 Live Editor
 tags:
   - mermaid
   - Editor

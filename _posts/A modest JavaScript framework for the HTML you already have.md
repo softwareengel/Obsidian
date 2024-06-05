@@ -1,7 +1,7 @@
 ---
 created: 2023-11-14T19:55:06+01:00
 modified: 2023-11-14T19:55:10+01:00
-Title: A modest JavaScript framework for the HTML you already have
+title: A modest JavaScript framework for the HTML you already have
 tags:
   - JS
 Date: 2024-01-23
