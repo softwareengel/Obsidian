@@ -1,5 +1,5 @@
 ---
-Title: Tiny Quadrotor Learns to Fly in 18 Seconds
+title: Tiny Quadrotor Learns to Fly in 18 Seconds
 tags:
   - Ml
   - drone

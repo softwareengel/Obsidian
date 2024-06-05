@@ -1,5 +1,5 @@
 ---
-Title: Glogg
+title: Glogg
 tags:
   - logging
   - viewer

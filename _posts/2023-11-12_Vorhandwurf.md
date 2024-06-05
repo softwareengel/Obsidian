@@ -1,7 +1,7 @@
 ---
 created: 2023-11-12T13:50:49+01:00
 modified: 2023-11-12T13:50:49+01:00
-Title: "Wasserball – Balltechniken: Vorhandwurf"
+title: "Wasserball – Balltechniken: Vorhandwurf"
 tags:
   - waterpolo
   - Teaching

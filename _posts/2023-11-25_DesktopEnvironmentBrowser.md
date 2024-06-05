@@ -1,7 +1,7 @@
 ---
 created: 2023-11-25T18:13:06+01:00
 modified: 2023-11-25T18:13:40+01:00
-Title: Desktop environment in the browser
+title: Desktop environment in the browser
 tags:
   - VM
   - Wasm

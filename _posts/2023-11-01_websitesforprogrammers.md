@@ -1,7 +1,7 @@
 ---
 created: 2023-11-01T14:20:19+01:00
 modified: 2023-11-01T14:20:38+01:00
-Title: Some useful websites for programmers
+title: Some useful websites for programmers
 tags:
   - Linklist
   - progamming

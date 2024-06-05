@@ -1,5 +1,5 @@
 ---
-Title: scikit-learn - Machine Learning in Python
+title: scikit-learn - Machine Learning in Python
 tags:
   - AI
   - ML

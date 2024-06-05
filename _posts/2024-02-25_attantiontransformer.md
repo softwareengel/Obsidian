@@ -1,5 +1,5 @@
 ---
-Title: Annotated Transformer
+title: Annotated Transformer
 tags:
   - GenAI
   - AI

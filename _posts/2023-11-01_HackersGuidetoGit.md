@@ -1,7 +1,7 @@
 ---
 created: 2023-11-01T14:19:42+01:00
 modified: 2023-11-01T14:20:39+01:00
-Title: A Hacker’s Guide to Git
+title: A Hacker’s Guide to Git
 tags:
   - HowTo
   - git

@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T18:18:32+02:00
 modified: 2023-09-18T18:21:49+02:00
-Title: Prof Weitz HAW
+title: Prof Weitz HAW
 tags:
   - Teaching
   - Learn

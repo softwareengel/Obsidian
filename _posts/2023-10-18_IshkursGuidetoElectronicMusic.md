@@ -1,7 +1,7 @@
 ---
 created: 2023-10-18T22:02:24+02:00
 modified: 2023-10-18T22:02:51+02:00
-Title: Ishkurs Guide to Electronic Music
+title: Ishkurs Guide to Electronic Music
 tags:
   - music
   - electronic

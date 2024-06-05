@@ -1,5 +1,5 @@
 ---
-Title: Libera Chat
+title: Libera Chat
 tags:
   - Chat
   - OSS
