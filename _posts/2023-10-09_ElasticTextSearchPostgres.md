@@ -1,7 +1,7 @@
 ---
 created: 2023-10-09T16:47:55+02:00
 modified: 2023-10-09T16:48:00+02:00
-Title: Elastic-Quality Full Text Search Inside Postgres
+title: Elastic-Quality Full Text Search Inside Postgres
 tags:
   - ELK
   - Search

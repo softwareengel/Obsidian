@@ -1,7 +1,7 @@
 ---
 created: 2023-10-16T23:21:30+02:00
 modified: 2023-10-16T23:24:26+02:00
-Title: Navidrome
+title: Navidrome
 tags:
   - MP3
   - player

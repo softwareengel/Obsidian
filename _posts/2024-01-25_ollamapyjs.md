@@ -1,5 +1,5 @@
 ---
-Title: Ollama py js
+title: Ollama py js
 tags:
   - LLM
   - JS

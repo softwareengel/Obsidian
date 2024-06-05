@@ -1,7 +1,7 @@
 ---
 created: 2023-11-25T10:53:02+01:00
 modified: 2023-11-25T10:53:08+01:00
-Title: Minecraft reimplementation
+title: Minecraft reimplementation
 tags:
   - Minecraft
 Date: 2024-02-20

@@ -1,5 +1,5 @@
 ---
-Title: Maze Generator
+title: Maze Generator
 tags:
   - Maze
   - Generator

@@ -1,7 +1,7 @@
 ---
 created: 2023-11-11T11:06:28+01:00
 modified: 2023-11-11T11:06:28+01:00
-Title: Browser Debugging Tricks
+title: Browser Debugging Tricks
 tags: 
 Date: 2024-02-22
 ---

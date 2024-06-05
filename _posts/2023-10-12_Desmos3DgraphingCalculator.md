@@ -1,7 +1,7 @@
 ---
 created: 2023-10-12T23:23:20+02:00
 modified: 2023-10-12T23:24:08+02:00
-Title: Desmos 3D graphing calculator
+title: Desmos 3D graphing calculator
 tags:
   - WebApp
   - 3d

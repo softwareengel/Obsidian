@@ -1,7 +1,7 @@
 ---
 created: 2023-11-14T21:54:38+01:00
 modified: 2023-11-25T17:44:17+01:00
-Title: "# Project Euler"
+title: "# Project Euler"
 tags:
   - math
   - algorithm

@@ -1,5 +1,5 @@
 ---
-Title: PGlite - Postgres in WASM
+title: PGlite - Postgres in WASM
 tags:
   - Postgres
   - Wasm

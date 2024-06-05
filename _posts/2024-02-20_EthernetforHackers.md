@@ -1,5 +1,5 @@
 ---
-Title: Ethernet for Hackers
+title: Ethernet for Hackers
 tags:
   - Network
   - ethernet

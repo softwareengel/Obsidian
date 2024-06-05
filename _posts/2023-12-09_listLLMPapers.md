@@ -1,7 +1,7 @@
 ---
 created: 2023-12-09T18:09:34+01:00
 modified: 2023-12-13T08:45:10+01:00
-Title: comprehensive list of llm Papers
+title: comprehensive list of llm Papers
 tags:
   - Papers
 Date: 2024-02-22

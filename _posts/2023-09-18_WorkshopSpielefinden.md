@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T18:48:27+02:00
 modified: 2023-09-18T18:48:51+02:00
-Title: Workshop Spiele finden
+title: Workshop Spiele finden
 tags:
   - workshop
   - games

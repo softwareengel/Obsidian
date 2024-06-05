@@ -1,7 +1,7 @@
 ---
 created: 2023-11-22T21:10:49+01:00
 modified: 2023-11-22T21:15:14+01:00
-Title: "# Wasm Systems"
+title: "# Wasm Systems"
 tags:
   - Wasm
   - Example
