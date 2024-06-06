@@ -15,8 +15,8 @@ type: Checklist
 - [ ] Marke Shirt Prblm Slvr
 
 - [ ] .Dst Datei Format, Base cap
-- [x] Bade Poncho
-- [x] Zipgate? Telefon Festnetz 
+- [x] Bade / Schwimm - Poncho
+- [x] Sipgate? Telefon Festnetz 
 - [ ] Zug nach Enschede mit Verena & co
 - [ ] Leasingmarkt.De
 - [x] Koffer, Trolli
