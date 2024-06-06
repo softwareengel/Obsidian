@@ -7,7 +7,10 @@ tags:
 Date: 2024-03-05
 ---
 
-
+![](../_asset/2023-09-18_YourAttentionWasStolen_image_1.png)
 # Your attention didn’t collapse. It was stolen
+
+
+![](../_asset/2023-09-18_YourAttentionWasStolen_image_2.png)
 
 <https://www.theguardian.com/science/2022/jan/02/attention-span-focus-screens-apps-smartphones-social-media>
