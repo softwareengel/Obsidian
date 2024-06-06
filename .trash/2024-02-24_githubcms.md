@@ -1,1 +1,1 @@
-https://github.com/pages-cms/pages-cms
+<https://github.com/pages-cms/pages-cms>

@@ -15,4 +15,4 @@ Date: 2024-03-05
 
 ## Templates 
 ![](../_asset/2023-09-18_BLAZINGLYFASTHUGOCMSAPP_image_2.png)
-https://quiqr.org/
+<https://quiqr.org/>

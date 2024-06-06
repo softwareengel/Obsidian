@@ -11,4 +11,4 @@ Date: 2024-02-21
 
 ![](../_asset/2023-12-09_GoogleChat_image_1.png)
 
-https://bard.google.com/?hl=de
+<https://bard.google.com/?hl=de>

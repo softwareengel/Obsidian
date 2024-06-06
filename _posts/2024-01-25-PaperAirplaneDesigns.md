@@ -8,7 +8,7 @@ Date: 2024-02-21
 
 # Paper Airplane Designs
 
-https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2
+<https://www.foldnfly.com/#/1-1-1-1-1-1-1-1-2>
 
 ![](../_asset/2024-01-25_PaperAirplaneDesigns_image_1.png)
 # Paper Airplane Designs

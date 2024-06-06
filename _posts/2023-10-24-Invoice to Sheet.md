@@ -15,4 +15,4 @@ Zero-configuration invoice data capture for Gmail. Extract data in one click fro
 
 
 
-https://workspace.google.com/marketplace/app/invoice_to_sheet/160876364353?hl=de
+<https://workspace.google.com/marketplace/app/invoice_to_sheet/160876364353?hl=de>

@@ -11,7 +11,7 @@ Date: 2024-03-12
 
 # Red Blob Games
 
-https://www.redblobgames.com/
+<https://www.redblobgames.com/>
 
 Hi! I make interactive visual explanations of math and algorithms, using motivating examples from computer games.
 

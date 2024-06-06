@@ -5,7 +5,7 @@ tags:
   - Benchmark
 Date: 2023-12-10
 ---
-https://benchmarks.llmonitor.com/compare/gpt-4-vs-gpt-3.5-turbo
+<https://benchmarks.llmonitor.com/compare/gpt-4-vs-gpt-3.5-turbo>
 
 # LLMonitor Benchmarks
 
