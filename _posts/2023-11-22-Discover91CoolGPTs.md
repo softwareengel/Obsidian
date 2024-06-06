@@ -12,4 +12,4 @@ Date: 2024-02-22
 
 ![](../_asset/2023-11-22_Discover91CoolGPTs_image_1.png)
 
-https://coolgpts.ai/
+<https://coolgpts.ai/>

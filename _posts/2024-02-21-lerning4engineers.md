@@ -5,7 +5,7 @@ tags:
   - Coding
 Date: 2024-02-21
 ---
-https://github.com/charlax/professional-programming
+<https://github.com/charlax/professional-programming>
 
 A collection of learning resources for curious software engineers
 

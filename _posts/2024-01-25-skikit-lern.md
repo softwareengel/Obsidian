@@ -16,4 +16,4 @@ Date: 2024-01-25
 
 
 ![](../_asset/2024-01-25_skikit_lern_image_1.png)
-https://scikit-learn.org/1.4/index.html
+<https://scikit-learn.org/1.4/index.html>

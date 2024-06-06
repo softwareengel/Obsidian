@@ -17,5 +17,5 @@ You may be interested in compiling the Linux kernel yourself, for many reasons. 
 
 This guide will show you how you can compile the Linux kernel yourself, with the commands that you should run, why run these commands and explain what it does. This is a long one, so brace yourself!
 
-https://itsfoss.com/compile-linux-kernel/
+<https://itsfoss.com/compile-linux-kernel/>
 

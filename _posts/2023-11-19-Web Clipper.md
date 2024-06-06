@@ -11,6 +11,6 @@ Date: 2024-02-20
 
 # Web Clipper for Markdown 
 
-https://github.com/deathau/markdownload
+<https://github.com/deathau/markdownload>
 
 A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.

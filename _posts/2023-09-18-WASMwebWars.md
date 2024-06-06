@@ -45,7 +45,7 @@ We have a [vision](https://bytecodealliance.org/articles/announcing-the-bytecode
 <https://github.com/bytecodealliance/>
 ## WebAssembly Micro Runtime
 
-https://github.com/bytecodealliance/wasm-micro-runtime
+<https://github.com/bytecodealliance/wasm-micro-runtime>
 
 ## WasmEdge
 

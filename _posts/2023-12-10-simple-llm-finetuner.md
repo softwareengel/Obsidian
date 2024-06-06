@@ -8,25 +8,25 @@ Date: 2023-12-10
 ---
 
 ## Simple UI for LLM Model Finetuning
-https://github.com/lxe/simple-llm-finetuner
+<https://github.com/lxe/simple-llm-finetuner>
 
 
 
 
 ## Mistral 7B
-https://news.ycombinator.com/item?id=35256769
+<https://news.ycombinator.com/item?id=35256769>
 
-https://news.ycombinator.com/item?id=37842618
+<https://news.ycombinator.com/item?id=37842618>
 
 ## Getting Started with Mistral-7b-Instruct-v0.1
-https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/
+<https://www.secondstate.io/articles/mistral-7b-instruct-v0.1/>
 
 ## Zephyr 
 ```
 Frage wie ein call Center agent nach den wesentlichen Informationen bei einer Meldung eines Sachschadens
 ```
 ![](../_asset/Screenshot_20231210_135443_Kiwi%20Browser.jpg)
-https://huggingface.co/spaces/HuggingFaceH4/zephyr-chat
+<https://huggingface.co/spaces/HuggingFaceH4/zephyr-chat>
 
 ```
 Hier ist eine mögliche Antwort:
@@ -41,10 +41,10 @@ Hier ist eine mögliche Antwort:
 8. Sollten Sie weitere Fragen haben oder etwas anderes brauchen, stehe ich Ihrem Anliegen zur Verfügung. Bitte informieren Sie mich immer dann, wenn Neuigkeiten vorhanden sind, damit wir unsererseits weitere Maßnahmen tragen können. Danke für Ihren Verständnis und ich freue mich, Ihnen weiterzuhelfen!
 ```
 
-https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF
+<https://huggingface.co/TheBloke/zephyr-7B-alpha-GGUF>
 
-https://huggingface.co/LoneStriker/zephyr-7b-alpha-4.0bpw-h6-exl2
+<https://huggingface.co/LoneStriker/zephyr-7b-alpha-4.0bpw-h6-exl2>
 
-https://huggingface.co/HuggingFaceH4/zephyr-7b-beta
+<https://huggingface.co/HuggingFaceH4/zephyr-7b-beta>
 ### Workers AI Update: Hello Mistral 7B
-https://blog.cloudflare.com/workers-ai-update-hello-mistral-7b/
+<https://blog.cloudflare.com/workers-ai-update-hello-mistral-7b/>
