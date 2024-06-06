@@ -13,4 +13,4 @@ https://fullosint.com/
 Full OSINT focused on the most popular web-based Open Source Intelligence and Cybersecurity Tools.
 130 Web-enabled OSINT and Cybersecurity Tools.
 
-![](_asset/2024-02-25_OpenSourceIntelligence_image_1.png)
+![](../_asset/2024-02-25_OpenSourceIntelligence_image_1.png)

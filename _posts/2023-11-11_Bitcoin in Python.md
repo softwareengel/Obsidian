@@ -16,4 +16,4 @@ http://karpathy.github.io/2021/06/21/blockchain/
 
 A from-scratch tour of Bitcoin in Python
 
-![](_asset/2023-11-11_Bitcoin%20in%20Python_image_1.png)
+![](../_asset/2023-11-11_Bitcoin%20in%20Python_image_1.png)
