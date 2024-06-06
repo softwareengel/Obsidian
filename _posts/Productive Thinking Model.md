@@ -5,4 +5,4 @@ modified: 2023-09-18T20:08:25+02:00
 
 # Productive Thinking Model
 
-https://untools.co/productive-thinking-model
+<https://untools.co/productive-thinking-model>

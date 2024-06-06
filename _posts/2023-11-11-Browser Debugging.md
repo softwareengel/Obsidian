@@ -10,4 +10,4 @@ Date: 2024-02-22
 
 ![](../_asset/2023-11-11_Browser%20Debugging_image_1.png)
 
-https://alan.norbauer.com/articles/browser-debugging-tricks
+<https://alan.norbauer.com/articles/browser-debugging-tricks>

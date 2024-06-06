@@ -16,7 +16,7 @@ Date: 2024-01-07
 ### A DIY experiment connecting **Arduino** + **Teachable Machine**
 
 
-https://experiments.withgoogle.com/tiny-sorter/view
+<https://experiments.withgoogle.com/tiny-sorter/view>
 
 ![](../_asset/2024-01-07_TeachableMachine_image_1.png)
 
@@ -26,11 +26,11 @@ A DIY experiment connecting Arduino + Teachable Machine
 
 
 
-https://teachablemachine.withgoogle.com/
+<https://teachablemachine.withgoogle.com/>
 
 ![](../_asset/2024-01-07_TeachableMachine_image_2.png)
 # coral.Ai
-https://coral.ai/
+<https://coral.ai/>
 A local AI platform to strengthen society, improve the environment, and enrich lives
 
-https://github.com/google-coral/project-posenet
+<https://github.com/google-coral/project-posenet>

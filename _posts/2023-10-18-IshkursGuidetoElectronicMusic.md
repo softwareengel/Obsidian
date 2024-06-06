@@ -17,4 +17,4 @@ Date: 2024-03-05
 
 ![](../_asset/2023-10-18_IshkursGuidetoElectronicMusic_image_3.png)
 
-https://music.ishkur.com/
+<https://music.ishkur.com/>

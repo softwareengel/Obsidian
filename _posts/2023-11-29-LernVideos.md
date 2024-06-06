@@ -14,5 +14,5 @@ Date: 2024-03-05
 
 ![](../_asset/2023-11-29_LernVideos_image_1.png)
 
-https://video.medienzentrum-harburg.de/video-channels/bildungsfernsehen
+<https://video.medienzentrum-harburg.de/video-channels/bildungsfernsehen>
 

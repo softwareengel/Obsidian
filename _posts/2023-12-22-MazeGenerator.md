@@ -6,7 +6,7 @@ tags:
   - kids
 Date: 2023-12-22
 ---
-https://mazegenerator.net/
+<https://mazegenerator.net/>
 
 # Maze Generator
 

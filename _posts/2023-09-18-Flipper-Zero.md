@@ -15,7 +15,7 @@ Date: 2024-04-14
 
 # Multi-tool Device for Geeks
 
-https://flipperzero.one/
+<https://flipperzero.one/>
 
 # Flipper Zero Multi-tool Device for Geeks
 

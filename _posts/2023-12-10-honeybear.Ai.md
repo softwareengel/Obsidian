@@ -6,7 +6,7 @@ tags:
   - AI
 Date: 2023-12-10
 ---
-https://www.honeybear.ai/pdf/6138fd77-3e16-4170-baeb-015592b1defe
+<https://www.honeybear.ai/pdf/6138fd77-3e16-4170-baeb-015592b1defe>
 
 PDF Chat 
 

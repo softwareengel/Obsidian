@@ -12,4 +12,4 @@ Date: 2024-03-05
 
 
 ![](../_asset/2023-11-01_HackersGuidetoGit_image_1.png)
-https://wildlyinaccurate.com/a-hackers-guide-to-git
+<https://wildlyinaccurate.com/a-hackers-guide-to-git>

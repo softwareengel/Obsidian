@@ -12,6 +12,6 @@ Date: 2024-02-22
 ![](../_asset/2023-10-13_Clippings_image_1.png)
 # 
 
-https://clippings.june07.com/home
+<https://clippings.june07.com/home>
 
 Clippings is your modern-day archival tool for online classified ads... like Craigslist

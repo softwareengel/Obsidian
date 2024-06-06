@@ -12,7 +12,7 @@ Date: 2024-02-20
 
 # Bitcoin in Python
 
-http://karpathy.github.io/2021/06/21/blockchain/
+<http://karpathy.github.io/2021/06/21/blockchain/>
 
 A from-scratch tour of Bitcoin in Python
 

@@ -13,6 +13,6 @@ Date: 2024-02-13
 
 ![](../_asset/2023-11-25_DesktopEnvironmentBrowser_image_1.png)
 
-https://dustinbrett.com/
+<https://dustinbrett.com/>
 
-https://github.com/DustinBrett/daedalOS
+<https://github.com/DustinBrett/daedalOS>

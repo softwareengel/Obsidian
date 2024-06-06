@@ -10,7 +10,7 @@ Date: 2023-12-20
 
 # The Illustrated GPT-2 (Visualizing Transformer Language Models)
 
-https://jalammar.github.io/illustrated-gpt2/
+<https://jalammar.github.io/illustrated-gpt2/>
 
 [Jay Alammar – Visualizing machine learning one concept at a time. (jalammar.github.io)](https://jalammar.github.io/)
 
