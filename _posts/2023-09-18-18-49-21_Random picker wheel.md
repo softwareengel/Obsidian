@@ -1,7 +1,7 @@
 ---
 created: 2023-09-18T18:49:21+02:00
 modified: 2023-09-18T18:49:27+02:00
-title: Random picker wheel
+title: Random Picker Wheel
 tags:
   - WebApp
 Date: 2024-02-20
@@ -9,6 +9,6 @@ Date: 2024-02-20
 
 # Random picker wheel
 
-![](20240220095908rndWheel.png)
+![](_asset/2023-09-18-18-49-21_Random%20picker%20wheel_image_1.png)
 
-https://tools-unite.com/tools/random-picker-wheel
+<https://tools-unite.com/tools/random-picker-wheel>
