@@ -10,9 +10,9 @@ Date: 2023-12-16
 
 # Chatbot Arena, Leaderboard 
 
-https://chat.lmsys.org/?arena
+<https://chat.lmsys.org/?arena>
 
-https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard
+<https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard>
 
 ![](../_asset/Screenshot_20231217_174242_Brave.jpg)
 

@@ -13,7 +13,7 @@ Date: 2024-03-05
 # Hallucinations Leaderboard
 
 
-https://github.com/vectara/hallucination-leaderboard
+<https://github.com/vectara/hallucination-leaderboard>
 
 Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
 

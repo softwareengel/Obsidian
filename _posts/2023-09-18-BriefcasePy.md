@@ -14,4 +14,4 @@ Date: 2024-02-21
 ![](../_asset/2023-09-18_BriefcasePy_image_1.png)
 
 
-https://briefcase.readthedocs.io/en/stable/
+<https://briefcase.readthedocs.io/en/stable/>
