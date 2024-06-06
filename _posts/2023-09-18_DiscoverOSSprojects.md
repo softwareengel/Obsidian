@@ -8,6 +8,6 @@ Date: 2024-02-22
 ---
 # Discover trending open-source projects and their alternatives
 
-![](_asset/2023-09-18_DiscoverOSSprojects_image_1.png)
+![](../_asset/2023-09-18_DiscoverOSSprojects_image_1.png)
 # 
 https://www.libhunt.com/

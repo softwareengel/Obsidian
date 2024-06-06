@@ -14,4 +14,4 @@ https://blog.ovalerio.net/archives/2615
 
 
 
-![](_asset/2023-09-19_ImprovingPrivacy_image_1.png)
+![](../_asset/2023-09-19_ImprovingPrivacy_image_1.png)

@@ -11,8 +11,8 @@ Date: 2024-03-05
 
 # A BLAZINGLY FAST HUGO CMS APP
 
-![](_asset/2023-09-18_BLAZINGLYFASTHUGOCMSAPP_image_1.png)
+![](../_asset/2023-09-18_BLAZINGLYFASTHUGOCMSAPP_image_1.png)
 
 ## Templates 
-![](_asset/2023-09-18_BLAZINGLYFASTHUGOCMSAPP_image_2.png)
+![](../_asset/2023-09-18_BLAZINGLYFASTHUGOCMSAPP_image_2.png)
 https://quiqr.org/

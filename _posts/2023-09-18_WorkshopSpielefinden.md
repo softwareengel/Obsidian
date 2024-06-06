@@ -13,4 +13,4 @@ Date: 2024-03-12
 
 https://www.workshop-spiele.de/
 
-![](_asset/2023-09-18_WorkshopSpielefinden_image_1.png)
+![](../_asset/2023-09-18_WorkshopSpielefinden_image_1.png)

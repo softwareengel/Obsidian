@@ -13,4 +13,4 @@ Date: 2024-03-09
 https://github.com/stacksize/Best-websites-a-programmer-should-visit
 
 
-![](_asset/2023-11-01_websitesforprogrammers_image_1.png)
+![](../_asset/2023-11-01_websitesforprogrammers_image_1.png)
