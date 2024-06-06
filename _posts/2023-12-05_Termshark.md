@@ -10,7 +10,7 @@ Date: 2024-03-05
 
 
 # 
-![](_asset/2023-12-05_Termshark_image_1.png)
+![](../_asset/2023-12-05_Termshark_image_1.png)
 
 https://termshark.io/
 

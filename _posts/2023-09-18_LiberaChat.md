@@ -12,9 +12,9 @@ Date: 2024-03-05
 
 [Libera.Chat](https://libera.chat) is the IRC network for free & open-source software and peer directed projects.
 
-![](_asset/2023-09-18_LiberaChat_image_1.png)
+![](../_asset/2023-09-18_LiberaChat_image_1.png)
 
 
-![](_asset/2023-09-18_LiberaChat_image_2.png)
+![](../_asset/2023-09-18_LiberaChat_image_2.png)
 
 https://web.libera.chat/#libreboot

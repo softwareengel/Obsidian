@@ -12,7 +12,7 @@ Date: 2024-03-08
 
 https://jvns.ca/blog/2023/02/16/writing-javascript-without-a-build-system/
 
-![](_asset/2023-10-08_JavascriptWithoutBuild_image_1.png)
+![](../_asset/2023-10-08_JavascriptWithoutBuild_image_1.png)
 tiny vue 3 template
 
 https://github.com/jvns/vue3-tiny-template

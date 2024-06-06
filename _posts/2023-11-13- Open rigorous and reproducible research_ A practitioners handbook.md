@@ -11,6 +11,6 @@ Date: 2024-06-04
 # Open, rigorous and reproducible research: A practitioner’s handbook
 
 
-![](_asset/2023-11-13-%20Open%20rigorous%20and%20reproducible%20research_%20A%20practitioners%20handbook_image_1.png)
+![](../_asset/2023-11-13-%20Open%20rigorous%20and%20reproducible%20research_%20A%20practitioners%20handbook_image_1.png)
 
 <https://stanforddatascience.github.io/best-practices/index.html>

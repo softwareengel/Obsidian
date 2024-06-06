@@ -14,7 +14,7 @@ Date: 2024-01-07
 
 https://experiments.withgoogle.com/tiny-sorter/view
 
-![](_asset/2024-01-07_TeachableMachine_image_1.png)
+![](../_asset/2024-01-07_TeachableMachine_image_1.png)
 
 Tiny Sorter
 A DIY experiment connecting Arduino + Teachable Machine
