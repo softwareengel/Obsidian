@@ -6,10 +6,10 @@ tags:
   - Landingpage
 Date: 2024-06-06
 ---
-![](_asset/2024-06-06-Create%20a%20landing%20page%20in%20seconds_image_1.png)
+![](../_asset/2024-06-06-Create%20a%20landing%20page%20in%20seconds_image_1.png)
 # Create a landing page in seconds
 
 https://lampbuilder.com/
 ## Beispiel 
 
-![](_asset/2024-06-06-Create%20a%20landing%20page%20in%20seconds_image_2.png)
+![](../_asset/2024-06-06-Create%20a%20landing%20page%20in%20seconds_image_2.png)
