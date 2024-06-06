@@ -10,7 +10,7 @@ This repo provides the server side code for llmsherpa API to connect. It include
 
 LLM Sherpa provides strategic APIs to accelerate large language model (LLM) use cases.
 
-https://github.com/nlmatics/nlm-ingestor
+<https://github.com/nlmatics/nlm-ingestor>
 
 ![](../_asset/2024-01-25_llmsherpa_image_1.png)
 

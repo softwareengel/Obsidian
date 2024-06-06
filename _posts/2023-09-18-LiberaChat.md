@@ -17,4 +17,4 @@ Date: 2024-03-05
 
 ![](../_asset/2023-09-18_LiberaChat_image_2.png)
 
-https://web.libera.chat/#libreboot
+<https://web.libera.chat/#libreboot>

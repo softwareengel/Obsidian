@@ -12,7 +12,7 @@ Date: 2024-01-31
 
 # prettymaps
 
-https://github.com/marceloprates/prettymaps
+<https://github.com/marceloprates/prettymaps>
 
  small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.
 

@@ -12,6 +12,6 @@ Date: 2024-01-24
 ![](20240204141508_ipgeo.png)
 # Geolocation
 
-https://ipapi.is/geolocation.html
+<https://ipapi.is/geolocation.html>
 
 Geolocation is the process of mapping IP addresses to a geographical location defined by latitude and longitude.

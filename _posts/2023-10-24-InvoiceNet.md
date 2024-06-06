@@ -13,6 +13,6 @@ Date: 2024-02-05
 # InvoiceNet
 
 ![](../_asset/2023-10-24_InvoiceNet_image_1.png)
-https://github.com/naiveHobo/InvoiceNet
+<https://github.com/naiveHobo/InvoiceNet>
 
 Deep neural network to extract intelligent information from invoice documents.

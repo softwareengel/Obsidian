@@ -13,4 +13,4 @@ Date: 2024-02-21
 
 # Going Paperless with Paperless-ngx
 
-https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/
+<https://nerdyarticles.com/a-clutter-free-life-with-paperless-ngx/>

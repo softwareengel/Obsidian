@@ -10,12 +10,12 @@ Date: 2024-03-05
 # The Annotated Transformer
 
 
-https://nlp.seas.harvard.edu/annotated-transformer/
+<https://nlp.seas.harvard.edu/annotated-transformer/>
 
 ![](../_asset/2024-02-25_attantiontransformer_image_1.png)
 
 # Attention Is All You Need
-https://arxiv.org/abs/1706.03762
+<https://arxiv.org/abs/1706.03762>
 
 
 

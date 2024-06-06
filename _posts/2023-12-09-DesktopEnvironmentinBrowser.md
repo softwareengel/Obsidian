@@ -9,4 +9,4 @@ Date: 2024-03-12
 # 
 # Desktop environment in the browser
 
-https://github.com/DustinBrett/daedalOS
+<https://github.com/DustinBrett/daedalOS>

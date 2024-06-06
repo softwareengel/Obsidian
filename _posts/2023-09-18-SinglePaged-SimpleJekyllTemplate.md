@@ -9,4 +9,4 @@ Date: 2024-03-05
 # 
 # SinglePaged - Simple Jekyll template
 
-https://github.com/t413/SinglePaged
+<https://github.com/t413/SinglePaged>

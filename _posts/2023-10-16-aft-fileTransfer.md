@@ -10,7 +10,7 @@ Date: 2024-01-23
 
 # aft - file transfer done easily
 
-https://github.com/dd-dreams/aft
+<https://github.com/dd-dreams/aft>
 
 aft (Advanced File Transfer) is a minimal and secure tool for sharing files between two parties easily and efficiently. Works in Windows, Linux and macOS.
 

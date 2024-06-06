@@ -9,4 +9,4 @@ Date: 2024-03-05
 # 
 # Things Every Hacker Once Knew
 
-http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/
+<http://www.catb.org/~esr/faqs/things-every-hacker-once-knew/>

@@ -11,7 +11,7 @@ Date: 2024-01-27
 
 ![](../_asset/2024-01-27_Google%20Research_GooglesLumiere_image_1.png)
 
-https://www.theverge.com/2024/1/27/24052140/google-lumiere-ai-video-generation-runway-pika
+<https://www.theverge.com/2024/1/27/24052140/google-lumiere-ai-video-generation-runway-pika>
 
 Google’s Lumiere
 # Google’s Lumiere
@@ -20,7 +20,7 @@ Google’s Lumiere
 
 brings AI video closer to real than unreal
 
-https://youtu.be/wxLr02Dz2Sc
+<https://youtu.be/wxLr02Dz2Sc>
 
-https://lumiere-video.github.io/ 
+<https://lumiere-video.github.io/> 
 

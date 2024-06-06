@@ -12,4 +12,4 @@ Wasm powered Jupyter running in the browser
 ![](../_asset/2024-02-27_jupyterLite_image_1.png)
 
 
-https://github.com/jupyterlite/jupyterlite
+<https://github.com/jupyterlite/jupyterlite>

@@ -12,4 +12,4 @@ PGlite is a WASM Postgres build packaged into a TypeScript client library that e
 
 ![](../_asset/2024-02-24_PGlitePostgresWASM_image_1.png)
 
-https://github.com/electric-sql/pglite
+<https://github.com/electric-sql/pglite>
