@@ -4,6 +4,8 @@ tags:
   - SoftSkill
 Date: 2024-03-08
 toc: true
+toc_sticky: true
+```
 ---
 
 # Dale Carnegie, How to Win Friends and Influence People
@@ -78,5 +80,5 @@ Dale Carnegie’s book, “How to Win Friends and Influence People”, was first
 
 
 
-![](../_asset/2024-03-08_DaleCanegie_image_1.png)
+![](../_asset/2024-03-08-DaleCanegie_image_1.png)
 <https://geoffbcampbell.com/2012/06/23/dale-carnegies-how-to-win-friends-and-influence-people-in-a-nutshell/>
