@@ -12,7 +12,7 @@ Date: 2024-02-21
 
 # # Project Euler
 
-![](_asset/2023-11-14_projecteuler_image_1.png)
+![](../_asset/2023-11-14_projecteuler_image_1.png)
 
 # Project Euler
 ## What is Project Euler?

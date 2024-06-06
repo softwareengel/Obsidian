@@ -10,6 +10,6 @@ Date: 2024-03-05
 
 # GraphQL for .NET
 
-![](_asset/2023-10-14_GraphQL%20for%20.NET_image_1.png)
+![](../_asset/2023-10-14_GraphQL%20for%20.NET_image_1.png)
 
 https://github.com/graphql-dotnet/graphql-dotnet
