@@ -9,13 +9,13 @@ Date: 2024-03-08
 
 Dale Carnegie’s book, “How to Win Friends and Influence People”, was first published in 1936. The key advice, in a nutshell is below. After reading the book, I can say most of it seems very relevant in 2012. However I think people are less likely to respond as positively to this and they may have 70 years ago what do you think?
 
-**Fundamental Techniques in Handling People**
+## **Fundamental Techniques in Handling People**
 
 | **Fundamental Techniques in Handling People** | **Grundlegende Techniken im Umgang mit Menschen** |
 | --- | --- |
 | 1. Don’t criticize, condemn or complain.<br><br>2. Give honest and sincere appreciation.<br><br>3. Arouse in the other person an eager want. | 1. Kritisieren, verurteilen oder beschweren Sie sich nicht.<br>    <br>2. Geben Sie ehrliche und aufrichtige Anerkennung.<br>    <br>3. Wecken Sie in der anderen Person ein sehnsüchtiges Verlangen. |
 
-**Six Ways to Make People Like You**
+## **Six Ways to Make People Like You**
 
 1. Become genuinely interested in other people.
 
@@ -29,7 +29,7 @@ Dale Carnegie’s book, “How to Win Friends and Influence People”, was first
 
 6. Make the other person feel important – and do it sincerely.
 
-**Win People to Your Way of Thinking**
+## **Win People to Your Way of Thinking**
 
 1. The only way to get the best of an argument is to avoid it.
 
@@ -78,4 +78,4 @@ Dale Carnegie’s book, “How to Win Friends and Influence People”, was first
 
 
 ![](../_asset/2024-03-08_DaleCanegie_image_1.png)
-https://geoffbcampbell.com/2012/06/23/dale-carnegies-how-to-win-friends-and-influence-people-in-a-nutshell/
+<https://geoffbcampbell.com/2012/06/23/dale-carnegies-how-to-win-friends-and-influence-people-in-a-nutshell/>
