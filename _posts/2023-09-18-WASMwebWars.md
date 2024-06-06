@@ -4,6 +4,9 @@ modified: 2023-09-18T18:39:43+02:00
 title: Will WASM win the web wars?
 tags:
   - Wasm
+  - Web
+  - OS
+  - Browser
 Date: 2024-01-24
 date: 2024-06-06
 toc: true
