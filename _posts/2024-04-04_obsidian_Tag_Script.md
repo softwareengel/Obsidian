@@ -7,7 +7,7 @@ Date: 2024-04-04
 
 # Obsidian Skript to get all Tags 
 
-![](_asset/2024-04-04_obsidian%20Script_image_1.png)
+![](../_asset/2024-04-04_obsidian%20Script_image_1.png)
 
 
 ```javascript
@@ -37,6 +37,6 @@ const allTags = getAllTags();
 console.log(allTags);
 ```
 
-![](_asset/2024-04-04_obsidian%20Script_image_2.png)
+![](../_asset/2024-04-04_obsidian%20Script_image_2.png)
 
 # 

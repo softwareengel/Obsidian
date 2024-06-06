@@ -11,7 +11,7 @@ Date: 2024-02-21
 
 # Briefcase is a tool for converting a Python project into a standalone native application
 
-![](_asset/2023-09-18_BriefcasePy_image_1.png)
+![](../_asset/2023-09-18_BriefcasePy_image_1.png)
 
 
 https://briefcase.readthedocs.io/en/stable/
