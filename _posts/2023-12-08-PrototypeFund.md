@@ -9,7 +9,7 @@ Date: 2024-01-23
 
 # Prototype Fund
 ![](../_asset/2023-12-08_PrototypeFund_image_1.png)
-https://prototypefund.de/bewerbung/faq/
+<https://prototypefund.de/bewerbung/faq/>
 
 Der Prototype Fund ist das erste niedrigschwellige Förderprogramm für freie Entwickler*innen, die in Deutschland innovative Open-Source-Software aus der Gesellschaft und für die Gesellschaft entwickeln.
 

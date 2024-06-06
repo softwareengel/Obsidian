@@ -13,6 +13,6 @@ Providing a community platform for free and open-source software and peer direct
 
 Connect by pointing your IRC client to irc.libera.chat:6697 (TLS)
 
-https://web.libera.chat/#libreboot
+<https://web.libera.chat/#libreboot>
 
 ![](../_asset/Screenshot_20231212_195852_Brave.jpg)

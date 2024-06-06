@@ -8,7 +8,7 @@ Date: 2024-01-24
 ---
 # Chrome DevTools Protocol
 
-https://chromedevtools.github.io/devtools-protocol/
+<https://chromedevtools.github.io/devtools-protocol/>
 
 The Chrome DevTools Protocol allows for tools to instrument, inspect, debug and profile Chromium, Chrome and other Blink-based browsers. Many existing projects currently use the protocol. The Chrome DevTools uses this protocol and the team maintains its API.
 

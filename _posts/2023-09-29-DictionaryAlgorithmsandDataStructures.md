@@ -9,4 +9,4 @@ Date: 2024-03-05
 # 
 # Dictionary of Algorithms and Data Structures
 
-https://xlinux.nist.gov/dads/
+<https://xlinux.nist.gov/dads/>

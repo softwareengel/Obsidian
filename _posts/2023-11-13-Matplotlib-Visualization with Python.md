@@ -14,4 +14,4 @@ Date: 2024-03-05
 
 Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible.
 
-https://matplotlib.org/
+<https://matplotlib.org/>

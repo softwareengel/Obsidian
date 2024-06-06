@@ -11,4 +11,4 @@ Date: 2024-02-20
 
 # SP7: Surface Pro 7 does not thermal throttle correctly
 
-https://github.com/linux-surface/linux-surface/issues/221
+<https://github.com/linux-surface/linux-surface/issues/221>

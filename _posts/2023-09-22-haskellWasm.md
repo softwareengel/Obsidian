@@ -12,4 +12,4 @@ Date: 2024-02-20
 
 ![](../_asset/2023-09-22_haskellWasm_image_1.png)
 
-https://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/
+<https://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/>

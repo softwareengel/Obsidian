@@ -14,7 +14,7 @@ Enter WebAssembly text in the textarea on the left. The right side will either s
 
 # 
 ![](PastedImage20240220162230.png)
-https://webassembly.github.io/wabt/demo/wat2wasm/index.html
+<https://webassembly.github.io/wabt/demo/wat2wasm/index.html>
 
 # WAT Text Format 
 

@@ -10,6 +10,6 @@ Date: 2024-02-21
 
 # SQL Reserved Words
 
-https://modern-sql.com/reserved-words-empirical-list
+<https://modern-sql.com/reserved-words-empirical-list>
 
 ![](../_asset/2023-10-11_SQLReservedWords_image_1.png)

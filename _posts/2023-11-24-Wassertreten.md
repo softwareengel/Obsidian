@@ -11,8 +11,8 @@ Date: 2024-03-07
 
 Wasserball – Körpertechniken Wassertreten
 
-https://www.youtube.com/watch?v=3vQe81nlGS4
+<https://www.youtube.com/watch?v=3vQe81nlGS4>
 
 Water Polo: ODP Eggbeater
 
-https://m.youtube.com/watch?v=9LBF9DnZTF0
+<https://m.youtube.com/watch?v=9LBF9DnZTF0>
