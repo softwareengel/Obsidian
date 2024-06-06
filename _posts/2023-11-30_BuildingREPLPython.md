@@ -10,6 +10,6 @@ Date: 2024-02-20
 
 # Building a small REPL in Python
 
-![](_asset/2023-11-30_BuildingREPLPython_image_1.png)
+![](../_asset/2023-11-30_BuildingREPLPython_image_1.png)
 
 https://bernsteinbear.com/blog/simple-python-repl/

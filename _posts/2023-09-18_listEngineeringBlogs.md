@@ -9,5 +9,5 @@ Date: 2024-03-05
 ---
 # Software Engineering Blogs
 
-![](_asset/2023-09-18_listEngineeringBlogs_image_1.png)
+![](../_asset/2023-09-18_listEngineeringBlogs_image_1.png)
 https://github.com/kilimchoi/engineering-blogs

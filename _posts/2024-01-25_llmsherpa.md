@@ -12,5 +12,5 @@ LLM Sherpa provides strategic APIs to accelerate large language model (LLM) use 
 
 https://github.com/nlmatics/nlm-ingestor
 
-![](_asset/2024-01-25_llmsherpa_image_1.png)
+![](../_asset/2024-01-25_llmsherpa_image_1.png)
 
