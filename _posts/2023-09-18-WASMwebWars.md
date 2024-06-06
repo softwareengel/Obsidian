@@ -59,9 +59,9 @@ WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime.
 
 The WasmEdge Runtime provides a well-defined execution sandbox for its contained WebAssembly bytecode program. The runtime offers isolation and protection for operating system resources (e.g., file system, sockets, environment variables, processes) and memory space. The most important use case for WasmEdge is to safely execute user-defined or community-contributed code as plug-ins in a software product (e.g., SaaS, software-defined vehicles, edge nodes, or even blockchain nodes). It enables third-party developers, vendors, suppliers, and community members to extend and customize the software product. **[Learn more here](https://wasmedge.org/docs/contribute/users)**
 
-https://www.secondstate.io/articles/wasm-runtime-agi/
+<https://www.secondstate.io/articles/wasm-runtime-agi/>
 
-Overview: https://wasmedge.org/docs/embed/overview/
+Overview: <https://wasmedge.org/docs/embed/overview/>
 
-https://wasmedge.org/
-https://github.com/WasmEdge/WasmEdge
+<https://wasmedge.org/>
+<https://github.com/WasmEdge/WasmEdge>
