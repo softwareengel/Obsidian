@@ -5,4 +5,4 @@ modified: 2023-09-18T20:38:01+02:00
 
 # An Introduction to Computer Networks
 
-https://intronetworks.cs.luc.edu/current1/html/index.html
+<https://intronetworks.cs.luc.edu/current1/html/index.html>

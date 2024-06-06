@@ -7,6 +7,6 @@ tags:
 Date: 2024-03-05
 ---
 
-https://www.websiteplanet.com/blog/free-icons-for-commercial-use/
+<https://www.websiteplanet.com/blog/free-icons-for-commercial-use/>
 
 # Free Icons 

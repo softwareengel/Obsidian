@@ -10,4 +10,4 @@ Date: 2024-03-09
 
 # Writing a Debugger From Scratch
 
-https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/
+<https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/>

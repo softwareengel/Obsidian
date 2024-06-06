@@ -16,4 +16,4 @@ UPDATED: Jan 2024
 
 ![](../_asset/2023-09-18_BiggestDataHacks_image_1.png)
 
-https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
+<https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/>

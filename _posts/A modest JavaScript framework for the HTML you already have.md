@@ -10,4 +10,4 @@ Date: 2024-01-23
 # A modest JavaScript framework for the HTML you already have
 
 ![[../_asset/Pasted image 20240123224513.png]]
-https://stimulus.hotwired.dev/
+<https://stimulus.hotwired.dev/>

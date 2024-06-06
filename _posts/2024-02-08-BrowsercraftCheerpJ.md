@@ -15,9 +15,9 @@ This is a proof of concept of Minecraft running unmodified in the browser, using
 ![](../_asset/2024-02-08_BrowsercraftCheerpJ_image_1.png)
 See the website for a live demo and more information.
 
-https://github.com/leaningtech/browsercraft
+<https://github.com/leaningtech/browsercraft>
 
-https://browsercraft.cheerpj.com/
+<https://browsercraft.cheerpj.com/>
 
 
 
@@ -25,8 +25,8 @@ https://browsercraft.cheerpj.com/
 # The complete Java runtime for modern browsers
 CheerpJ is the only solution which can run any large-scale, unmodified Java applications, applets, or libraries in the browser. No downloads or plugins required.
 
-https://cheerpj.com/ 
+<https://cheerpj.com/> 
 
 ![](../_asset/2024-02-08_BrowsercraftCheerpJ_image_2.png)
 
-https://caniuse.com/wasm
+<https://caniuse.com/wasm>

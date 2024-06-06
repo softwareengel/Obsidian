@@ -17,4 +17,4 @@ This environment is called MineREPL. We're going to learn to program with it.
 
 We are going to use programming language called Clojure. Here we go!
 
-https://minerepl.com/curriculum/clojure-with-shapes
+<https://minerepl.com/curriculum/clojure-with-shapes>

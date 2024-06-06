@@ -13,4 +13,4 @@ Date: 2024-02-22
 # github1s
 # One second to read GitHub code with VS Code
 
-https://github.com/conwnet/github1s
+<https://github.com/conwnet/github1s>

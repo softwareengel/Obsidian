@@ -9,4 +9,4 @@ Date: 2024-03-05
 # 
 # Online courses
 
-https://news.ycombinator.com/item?id=37599982
+<https://news.ycombinator.com/item?id=37599982>

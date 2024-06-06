@@ -22,4 +22,4 @@ Radware’s Deception Network is comprised of scattered honeypots that collect i
 
 Radware, a market leader in application delivery and data center protection has a global footprint among top enterprises and service providers. These events and incidents are experienced by our cloud and managed security services’ customers.
 
-https://livethreatmap.radware.com/
+<https://livethreatmap.radware.com/>

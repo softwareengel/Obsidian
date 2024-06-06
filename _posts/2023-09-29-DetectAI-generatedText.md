@@ -15,4 +15,4 @@ Date: 2024-02-20
 ![](../_asset/2023-09-29_DetectAI-generatedText_image_1.png)
 
 # 
-https://github.com/thinkst/zippy
+<https://github.com/thinkst/zippy>

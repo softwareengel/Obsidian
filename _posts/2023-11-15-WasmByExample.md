@@ -12,4 +12,4 @@ Date: 2024-02-20
 
 ![](../_asset/2023-11-15_WasmByExample_image_1.png)
 
-https://wasmbyexample.dev/home.en-us.html
+<https://wasmbyexample.dev/home.en-us.html>
