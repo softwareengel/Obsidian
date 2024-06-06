@@ -12,6 +12,6 @@ Date: 2024-04-09
  
 # The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source
 
-https://github.com/gibbok/typescript-book
+<https://github.com/gibbok/typescript-book>
 
 The Concise TypeScript Book provides a comprehensive and succinct overview of TypeScript's capabilities. It offers clear explanations covering all aspects found in the latest version of the language, from its powerful type system to advanced features. Whether you're a beginner or an experienced developer, this book is an invaluable resource to enhance your understanding and proficiency in TypeScript.

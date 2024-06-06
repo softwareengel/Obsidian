@@ -5,4 +5,4 @@ modified: 2023-09-21T15:11:20+02:00
 
 # Counting Ghosts
 
-https://pcmaffey.com/counting-ghosts
+<https://pcmaffey.com/counting-ghosts>

@@ -5,4 +5,4 @@ modified: 2023-10-08T11:52:45+02:00
 
 # Curated List of Bot / Headless Chrome Detection Tests
 
-https://bot.incolumitas.com/
+<https://bot.incolumitas.com/>

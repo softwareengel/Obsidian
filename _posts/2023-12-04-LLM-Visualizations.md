@@ -13,5 +13,5 @@ Date: 2024-01-23
 
 ![](../_asset/2023-12-04_LLM_Visualizations_image_1.png)
 
-https://bbycroft.net/llm
+<https://bbycroft.net/llm>
 

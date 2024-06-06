@@ -14,6 +14,6 @@ Date: 2024-02-21
 
 ![](../_asset/2023-09-18_ScienceTricksKids_image_1.png)
 
-https://daveroot.neocities.org/sciencetricks/
+<https://daveroot.neocities.org/sciencetricks/>
 
 ![](../_asset/2023-09-18_ScienceTricksKids_image_2.png)

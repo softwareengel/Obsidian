@@ -10,6 +10,6 @@ Date: 2024-03-05
 
 # feditrends
 
-https://feditrends.com/
+<https://feditrends.com/>
 
 ![](../_asset/2023-11-13_feditrends_image_1.png)

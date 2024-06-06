@@ -12,4 +12,4 @@ Date: 2024-02-20
 
 ![](../_asset/2023-11-30_BuildingREPLPython_image_1.png)
 
-https://bernsteinbear.com/blog/simple-python-repl/
+<https://bernsteinbear.com/blog/simple-python-repl/>

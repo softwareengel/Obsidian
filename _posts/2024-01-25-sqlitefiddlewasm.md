@@ -14,4 +14,4 @@ Date: 2024-01-25
 
 ![](../_asset/2024-01-25_sqlitefiddlewasm_image_1.png)
 
-https://sqlite.org/fiddle/index.html
+<https://sqlite.org/fiddle/index.html>

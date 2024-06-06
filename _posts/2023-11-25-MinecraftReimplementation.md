@@ -12,4 +12,4 @@ Date: 2024-02-20
 ![](../_asset/2023-11-25_MinecraftReimplementation_image_1.png)
 
 
-https://github.com/Bixilon/Minosoft
+<https://github.com/Bixilon/Minosoft>

@@ -7,7 +7,7 @@ tags:
   - GenAI
 Date: 2023-12-13
 ---
-https://github.com/gregsadetsky/sagittarius
+<https://github.com/gregsadetsky/sagittarius>
 
 A Remake of the Google Gemini Fake Demo, Except Using GPT-4 and It's Real
 
@@ -17,5 +17,5 @@ A Remake of the Google Gemini Fake Demo, Except Using GPT-4 and It's Real
 ## voice
 Make a Graph with your Voice demo
 
-https://m.youtube.com/watch?v=fxS7OKh_4vc
+<https://m.youtube.com/watch?v=fxS7OKh_4vc>
 

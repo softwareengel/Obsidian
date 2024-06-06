@@ -9,6 +9,6 @@ Date: 2024-03-05
 # 
 # Protomaps
 
-https://github.com/protomaps
+<https://github.com/protomaps>
 
 A free and open source map of the world, deployed as a single static file.
