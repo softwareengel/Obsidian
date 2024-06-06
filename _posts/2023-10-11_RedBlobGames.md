@@ -16,4 +16,4 @@ https://www.redblobgames.com/
 Hi! I make interactive visual explanations of math and algorithms, using motivating examples from computer games.
 
 
-# ![](_asset/2023-10-11_Red%20Blob%20Games_1_image_1.png)
+# ![](../_asset/2023-10-11_Red%20Blob%20Games_1_image_1.png)

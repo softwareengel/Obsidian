@@ -16,9 +16,9 @@ Date: 2024-01-24
 
 ## Debug Flet-APP in VS Code 
 
-![](_asset/2024-01-24_Flutter_Flet_image_1.png)
+![](../_asset/2024-01-24_Flutter_Flet_image_1.png)
 
 ## Flet-Web Debug in VS-Code 
 
-![](_asset/2024-01-24_Flutter_Flet_image_2.png)
+![](../_asset/2024-01-24_Flutter_Flet_image_2.png)
 

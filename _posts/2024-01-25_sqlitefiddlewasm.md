@@ -12,6 +12,6 @@ Date: 2024-01-25
 # SqLite Wasm Fiddle
 
 
-![](_asset/2024-01-25_sqlitefiddlewasm_image_1.png)
+![](../_asset/2024-01-25_sqlitefiddlewasm_image_1.png)
 
 https://sqlite.org/fiddle/index.html

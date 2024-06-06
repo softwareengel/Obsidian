@@ -10,7 +10,7 @@ Date: 2024-02-20
 
 
 # Clean any webpage
-![](_asset/2023-11-17_CleanAnyWebpage_image_1.png)
+![](../_asset/2023-11-17_CleanAnyWebpage_image_1.png)
 
 # Browse a cleaner web!
 

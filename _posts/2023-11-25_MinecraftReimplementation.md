@@ -9,7 +9,7 @@ Date: 2024-02-20
 
 # An open source Minecraft reimplementation written from scratch
 
-![](_asset/2023-11-25_MinecraftReimplementation_image_1.png)
+![](../_asset/2023-11-25_MinecraftReimplementation_image_1.png)
 
 
 https://github.com/Bixilon/Minosoft
