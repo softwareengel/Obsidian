@@ -4,7 +4,7 @@ tags:
 date: 2024-06-06
 ---
 
-# 
+# transformer.js
 https://github.com/xenova/transformers.js?tab=readme-ov-file
 
 State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
