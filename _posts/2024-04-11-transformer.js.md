@@ -19,3 +19,10 @@ Transformers.js is designed to be functionally equivalent to Hugging Face's [tr
 Transformers.js uses [ONNX Runtime](https://onnxruntime.ai/) to run models in the browser. The best part about it, is that you can easily [convert](https://github.com/xenova/transformers.js?tab=readme-ov-file#convert-your-models-to-onnx) your pretrained PyTorch, TensorFlow, or JAX models to ONNX using [🤗 Optimum](https://github.com/huggingface/optimum#onnx--onnx-runtime).
 
 For more information, check out the full [documentation](https://huggingface.co/docs/transformers.js).
+
+## Beispiel 
+
+![](../_asset/2024-04-11-transformer.js_image_1.png)
+
+
+![](../_asset/2024-04-11-transformer.js_video_1.mp4)
