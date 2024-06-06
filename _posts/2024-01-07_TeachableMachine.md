@@ -7,6 +7,9 @@ tags:
   - arduino
 Date: 2024-01-07
 ---
+
+```table-of-contents
+```
 # Tiny Sorter
 
 ### A DIY experiment connecting **Arduino** + **Teachable Machine**
@@ -24,8 +27,7 @@ A DIY experiment connecting Arduino + Teachable Machine
 
 https://teachablemachine.withgoogle.com/
 
-
-[[2024-01-18-p5. js]]
+![](../_asset/2024-01-07_TeachableMachine_image_2.png)
 # coral.Ai
 https://coral.ai/
 A local AI platform to strengthen society, improve the environment, and enrich lives
