@@ -2,7 +2,9 @@
 created: 2023-09-18T18:47:46+02:00
 modified: 2023-09-18T18:47:50+02:00
 title: securityheaders
-tags: 
+tags:
+  - Scan
+  - WebScraping
 Date: 2024-02-20
 ---
 
