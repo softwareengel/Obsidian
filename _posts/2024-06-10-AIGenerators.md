@@ -5,12 +5,13 @@ tags:
   - GenAI
   - Generator
   - WebApp
+  - Tool
 date: 2024-06-10
 toc: true
 toc_sticky: true
 ---
 
-#  Boost Your Creativity with AI Generators & AI Tools
+# Boost Your Creativity with AI Generators & AI Tools
 ## Get Your AI Photo Now
 
 Use our AI Photo Studio with just one photo to generate images for CVs, Tinder, or other fashion styles. No model training required. Try it now.
@@ -27,7 +28,7 @@ Custom prompting
 
 https://neural.love/
 
-![](_asset/2024-06-10_image_1.png)
+![](_asset/2024-06-10-AIGenerators_image_1.png)
 
 
-![](_asset/2024-06-10_image_2.png)
+![](_asset/2024-06-10-AIGenerators_image_2.png)
