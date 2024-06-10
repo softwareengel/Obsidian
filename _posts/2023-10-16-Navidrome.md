@@ -15,7 +15,7 @@ Date: 2024-04-29
 
 # Navidrome - open source web-based music collection server
 
-![](../_asset/Navidrome_image_1.png)
+![](../_asset/2023-10-16-Navidrome_image_1.png)
 
 Navidrome allows you to enjoy your music collection from anywhere, by making it available through a modern Web UI and through a wide range of third-party compatible mobile apps, for both iOS and Android devices.
 
