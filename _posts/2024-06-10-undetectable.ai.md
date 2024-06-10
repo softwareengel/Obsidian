@@ -15,8 +15,9 @@ toc_sticky: true
 
 **Rated #1 Best AI Detector by Forbes!** Use our AI detector to check if your text will be flagged as AI-written content. Then, click 'humanize' to remove AI detection and ensure your text will bypass all major AI detectors. Our AI text humanizer does this by enhancing your content to match the quality of human writing.
 
-![](_asset/2024-06-10-undetectable.ai_image_1.png)
+![](../_asset/2024-06-10-undetectable.ai_image_1.png)
 
+![](../_asset/2024-06-10-undetectable.ai_image_2.png)
 
-![](_asset/2024-06-10-undetectable.ai_image_2.png)
-# https://undetectable.ai/
+## Links 
+https://undetectable.ai/
