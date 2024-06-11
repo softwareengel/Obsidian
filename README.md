@@ -1,7 +1,9 @@
 
-# Obsidian git repo
+# Obsidian git Repo
 
 <https://github.com/softwareengel/Obsidian>
+
+<https://github.com/softwareengel/Obsidian/actions>
 
 Simple Yekyll Web 
 
