@@ -16,6 +16,6 @@ Welcome to the seventh edition of the AI Index report. The 2024 Index is our mos
   
 The AI Index report tracks, collates, distills, and visualizes data related to artificial intelligence (AI). Our mission is to provide unbiased, rigorously vetted, broadly sourced data in order for policymakers, researchers, executives, journalists, and the general public to develop a more thorough and nuanced understanding of the complex field of AI.
 
-![](../_asset/2024-06-12_image_1.png)
+![](../_asset/tmp1718183804131_2024-06-12_image_1.png)
 
 https://aiindex.stanford.edu/wp-content/uploads/2024/05/HAI_AI-Index-Report-2024.pdf
