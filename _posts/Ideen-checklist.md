@@ -6,7 +6,7 @@ type: Checklist
 
 # Ideen
 
-- [ ] Fifa23
+- [x] Fifa23
 - [x] Schattendrache
 - [x] Sound Machine
 - [ ] Ford Turneo Custom l1
@@ -18,8 +18,9 @@ type: Checklist
 - [x] Bade / Schwimm - Poncho
 - [x] Sipgate? Telefon Festnetz 
 - [ ] Zug nach Enschede mit Verena & co
-- [ ] Leasingmarkt.De
+- [ ] Leasingmarkt.de
 - [x] Koffer, Trolli
 - [ ] Versteigerung Immobilien Website crawler
-- [ ] Klodeckel dg
-- [ ] Wb movies repo
+- [ ] Klodeckel DG
+- [ ] Wb Movies repo
+
