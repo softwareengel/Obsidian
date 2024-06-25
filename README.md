@@ -8,3 +8,12 @@
 Simple Yekyll Web 
 
 <https://softwareengel.github.io/Obsidian/>
+
+## VE JPG
+![](_asset/README_image_1.png)
+
+
+## VE Jpg 256x256
+![](_asset/README_image_2.jpg)
+## VE Webp
+![](_asset/README_image_3.webp)
