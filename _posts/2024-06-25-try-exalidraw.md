@@ -6,7 +6,8 @@ toc: true
 toc_sticky: true
 ---
 
-# try-exalidraw
+# Try Exalidraw in Markdown and Github Pages 
+
 
 ![2024-03-06 19.25.14.excalidraw](../Excalidraw/2024-03-06%2019.25.14.excalidraw.md)
 ## Excalidraw-PNG
