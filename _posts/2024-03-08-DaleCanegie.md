@@ -2,10 +2,10 @@
 title: Dale Carnegie, How to Win Friends and Influence People
 tags:
   - SoftSkill
+  - Dale-Carnegie
 Date: 2024-03-08
 toc: true
 toc_sticky: true
-
 ---
 
 # Dale Carnegie, How to Win Friends and Influence People
