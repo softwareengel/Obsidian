@@ -8,7 +8,6 @@ toc: true
 toc_sticky: true
 ---
 
-# 
 # AI is a Terrifying Purveyor of Bullshit. Next Up... Fake Science
 
 Chat GPT is not hallucinating, it’s bullshitting
