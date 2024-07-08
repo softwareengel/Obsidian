@@ -1,5 +1,5 @@
 
-# Obsidian git Repo
+# Obsidian Git Repo
 
 <https://github.com/softwareengel/Obsidian>
 
