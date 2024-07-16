@@ -22,6 +22,8 @@ Date: 2024-04-29
 Navidrome allows you to enjoy your music collection from anywhere, by making it available through a modern Web UI and through a wide range of third-party compatible mobile apps, for both iOS and Android devices.
 
 Navidrome is open source software distributed free of charge under the terms of the GNU GPL v3 license
+![](../_asset/2023-10-16-Navidrome_image_3.png)
+
 ## Links 
 
 <https://www.navidrome.org/>
