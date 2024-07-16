@@ -13,17 +13,22 @@ toc_sticky: true
 
 This repo, named LivePortrait, contains the official PyTorch implementation of our paper LivePortrait: Efficient Portrait Animation with Stitching and Retargeting Control. We are actively updating and improving this repository. If you find any bugs or have suggestions, welcome to raise issues or submit pull requests (PR)
 
-<https://github.com/KwaiVGI/LivePortrait>
 
+
+<figure class="video_container">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="../_asset/2024-07-08-liveportrait_video_1.mp4">
+    <source src="../_asset/2024-07-08-liveportrait_video_1.mp4" type="video/mp4">
+  </video>
+</figure>
 ![](../_asset/2024-07-08-liveportrait_video_1.mp4)
 
-
 ![](../_asset/2024-07-08-liveportrait_image_1.png)
-
 
 ![](../_asset/2024-07-08-liveportrait_image_2.jpg)
 
 ## Links 
+
+<https://github.com/KwaiVGI/LivePortrait>
 
 <https://liveportrait.github.io/>
 
