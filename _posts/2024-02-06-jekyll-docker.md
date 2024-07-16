@@ -3,20 +3,14 @@ title:
 tags:
   - jekyll
   - docker
-  - adguard
 Date: 2024-02-13
 ---
 # Jekyll Docker
 
 Jekyll Docker is a software image that has Jekyll and many of its dependencies ready to use for you in an encapsulated format. It includes a default set of gems, different image types with different extra packages, and wrappers to make Jekyll run more smoothly from start to finish for most Jekyll users. If you would like to know more about Docker you can visit [https://docker.com](https://docker.com), and if you would like to know more about Jekyll, you can visit [https://github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
-# 
 <https://github.com/envygeeks/jekyll-docker/blob/master/README.md>
 
 
-# AdGuard Home
-AdGuard Home is a network-wide software for blocking ads and tracking. After you set it up, it'll cover ALL your home devices, and you don't need any client-side software for that.
 
-It operates as a DNS server that re-routes tracking domains to a “black hole”, thus preventing your devices from connecting to those servers. It's based on software we use for our public [AdGuard DNS](https://adguard-dns.io/) servers, and both share a lot of code.
-<https://github.com/AdguardTeam/AdGuardHome>
 
