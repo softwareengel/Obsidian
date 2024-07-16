@@ -31,6 +31,6 @@ For more information, check out the full [documentation](https://huggingface.co
   </video>
 </figure>
 
-<script> document.addEventListener('DOMContentLoaded', (event) => { var video = document.getElementById('myVideo'); video.currentTime = 5; video.play(); }); </script>
+<script> document.addEventListener('DOMContentLoaded', (event) => { var video = document.getElementById('myVideo'); video.currentTime = 3; video.play(); }); </script>
 
 ![](../_asset/2024-04-11-transformer.js_video_1.mp4)
