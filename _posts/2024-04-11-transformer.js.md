@@ -20,9 +20,17 @@ Transformers.js uses [ONNX Runtime](https://onnxruntime.ai/) to run models in 
 
 For more information, check out the full [documentation](https://huggingface.co/docs/transformers.js).
 
-## Beispiel 
+## Beispiel
 
 ![](../_asset/2024-04-11-transformer.js_image_1.png)
 
+
+<figure class="video_container">
+  <video id="myVideo" width="100%"  controls="true" allowfullscreen="true" autoplay poster="../_asset/2024-04-11-transformer.js_video_1.mp4">
+    <source src="../_asset/2024-04-11-transformer.js_video_1.mp4" type="video/mp4">
+  </video>
+</figure>
+
+<script> document.addEventListener('DOMContentLoaded', (event) => { var video = document.getElementById('myVideo'); video.currentTime = 5; video.play(); }); </script>
 
 ![](../_asset/2024-04-11-transformer.js_video_1.mp4)
