@@ -1,8 +1,9 @@
 ---
-title: Linux Backup
+title: Borg + Vorter - Linux Backup
 tags:
   - Linux
   - backup
+  - GUI
 date: 2024-07-01
 toc: true
 toc_sticky: true
@@ -11,7 +12,7 @@ toc_sticky: true
 # Linux Backup
 
 ## Borg Backup 
-![](../_asset/2024-07-01-%20linux_image_1.png)
+![](../_asset/2024-07-01-linux-backup_image_1.png)
 
 <https://borgbackup.readthedocs.io/en/latest/installation.html>
 
@@ -23,7 +24,7 @@ apt install borgbackup
 ```
 ## GUI für Borg: Vorter 
 
-![](../_asset/2024-07-01-%20linux_image_2.png)
+![](../_asset/2024-07-01-linux-backup_image_2.png)
 
 ``
 
