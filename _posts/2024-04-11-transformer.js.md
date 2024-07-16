@@ -1,12 +1,30 @@
 ---
 title: transformer.js
-tags: 
-date: 2024-06-06
+tags:
+  - Ml
+  - speech
+  - recognition
+  - edge-ml
+  - NLP
+date: 2024-07-16
+categories: 
+toc: true
+toc_sticky: true
 ---
 
 # transformer.js
 
-<https://github.com/xenova/transformers.js?tab=readme-ov-file>
+<figure class="video_container">
+  <video id="myVideo" width="100%"  controls="true" allowfullscreen="true" autoplay poster="../_asset/2024-04-11-transformer.js_video_1.mp4">
+    <source src="../_asset/2024-04-11-transformer.js_video_1.mp4" type="video/mp4">
+  </video>
+</figure>
+
+<script> document.addEventListener('DOMContentLoaded', (event) => { var video = document.getElementById('myVideo'); video.currentTime = 3; video.play(); }); </script>
+
+![](../_asset/2024-04-11-transformer.js_video_1.mp4)
+![](../_asset/2024-04-11-transformer.js_image_1.png)
+
 
 State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 
@@ -21,17 +39,31 @@ Transformers.js uses [ONNX Runtime](https://onnxruntime.ai/) to run models in 
 
 For more information, check out the full [documentation](https://huggingface.co/docs/transformers.js).
 
-## Beispiel
+## Examples 
 
-![](../_asset/2024-04-11-transformer.js_image_1.png)
+![](../_asset/2024-04-11-transformer.js_image_2.png)
+## Demo Site 
+
+![](../_asset/2024-04-11-transformer.js_image_3.png)
+## Tasks
+
+## test generation 
+
+![](../_asset/2024-04-11-transformer.js_image_4.png)
+## text summarization 
+
+![](../_asset/2024-04-11-transformer.js_image_5.png)
+
+## image classification 
+![](../_asset/2024-04-11-transformer.js_image_6.png)
+## Translation EN - DEU .. noch Luft nach oben ;-) 
+
+![](../_asset/2024-04-11-transformer.js_image_7.png)
+
+## Links
+
+<https://github.com/xenova/transformers.js?tab=readme-ov-file>
+
+<https://xenova.github.io/transformers.js/ >
 
 
-<figure class="video_container">
-  <video id="myVideo" width="100%"  controls="true" allowfullscreen="true" autoplay poster="../_asset/2024-04-11-transformer.js_video_1.mp4">
-    <source src="../_asset/2024-04-11-transformer.js_video_1.mp4" type="video/mp4">
-  </video>
-</figure>
-
-<script> document.addEventListener('DOMContentLoaded', (event) => { var video = document.getElementById('myVideo'); video.currentTime = 3; video.play(); }); </script>
-
-![](../_asset/2024-04-11-transformer.js_video_1.mp4)
