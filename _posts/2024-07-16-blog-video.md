@@ -16,18 +16,19 @@ toc_sticky: true
 ## Insert in markdown 
 ```html
 <figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="../_asset/2023-09-18-18-41-49-Knots_image_1.png">
-    <source src="../_asset/2023-09-18-18-41-49-Knots_video_1.mp4" type="video/mp4">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="../_asset/2023-09-18-Knots_image_1.png">
+    <source src="../_asset/2023-09-18-Knots_video_1.mp4" type="video/mp4">
   </video>
 </figure>
 
 ```
 
 <figure class="video_container">
-  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="../_asset/2023-09-18-18-41-49-Knots_image_1.png">
-    <source src="../_asset/2023-09-18-18-41-49-Knots_video_1.mp4" type="video/mp4">
+  <video width="100%"  controls="true" allowfullscreen="true" autoplay poster="../_asset/2023-09-18-Knots_image_1.png">
+    <source src="../_asset/2023-09-18-Knots_video_1.mp4" type="video/mp4">
   </video>
 </figure>
 
 
 ![](../_asset/2024-07-16-blog-video_image_1.png)
+![](../_asset/2023-09-18-Knots_video_1.mp4)
