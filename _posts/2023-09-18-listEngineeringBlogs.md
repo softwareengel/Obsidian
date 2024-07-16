@@ -5,7 +5,6 @@ title: A curated list of Software engineering blogs
 tags:
   - softwareengineering
   - Linklist
-categories: 
 date: 2024-03-05
 toc: true
 toc_sticky: true
