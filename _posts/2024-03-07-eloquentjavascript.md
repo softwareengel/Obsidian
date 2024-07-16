@@ -1,3 +1,16 @@
+---
+title: eloquentjavascript
+tags:
+  - E-Book
+date: 2024-07-16
+toc: true
+toc_sticky: true
+---
+
+# eloquentjavascript
+
+![](../_asset/2024-03-07-eloquentjavascript_image_1.png)
+
 https://eloquentjavascript.net/
 
 Eloquent JavaScript
