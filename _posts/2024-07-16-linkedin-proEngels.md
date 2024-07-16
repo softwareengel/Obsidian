@@ -13,6 +13,6 @@ toc_sticky: true
 # Softwareengel - Pro Engels - Solgan "let's craft solutions that lead to real results"
 
 
-![](../_asset/2024-07-16_image_1.png)
+![](../_asset/tmp1721139121434_2024-07-16_image_1.png)
 
-![](../_asset/2024-07-16_image_2.png)
+![](../_asset/tmp1721139230034_2024-07-16_image_2.png)
