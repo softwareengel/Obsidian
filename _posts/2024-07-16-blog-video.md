@@ -29,4 +29,5 @@ toc_sticky: true
   </video>
 </figure>
 
-![](../_asset/Pasted%20image%2020240716165718.png)
+
+![](../_asset/2024-07-16-blog-video_image_1.png)
