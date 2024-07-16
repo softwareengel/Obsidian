@@ -3,6 +3,8 @@ tags:
   - AI
   - piano
   - hand
+  - kids
+  - Diy
 title: Piano on Paper
 date: 2024-03-09
 toc: true
