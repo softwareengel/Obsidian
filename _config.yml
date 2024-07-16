@@ -23,7 +23,7 @@ email:
 #  line in _config.yml. It will appear in your document head meta (for
 #  Google search results) and in your feed.xml site description.
 description: >- # this means to ignore newlines until "baseurl:"
-  Explore HackerNotes for insightful collections of notes, thoughts, and 
+  Explore HackerNotes for insightful collections of notes, thoughts and 
   ideas on software engineering, programming, and the latest in technology. 
   Dive into expert knowledge and innovative solutions to enhance your coding 
   skills and tech understanding.
