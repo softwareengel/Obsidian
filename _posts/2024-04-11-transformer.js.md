@@ -7,7 +7,6 @@ tags:
   - edge-ml
   - NLP
 date: 2024-07-16
-categories: 
 toc: true
 toc_sticky: true
 ---
