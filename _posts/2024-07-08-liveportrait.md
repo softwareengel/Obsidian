@@ -5,7 +5,7 @@ tags:
   - animation
   - Stitching
   - Retargeting
-date: 2024-07-16
+date: 2024-07-08
 toc: true
 toc_sticky: true
 ---
