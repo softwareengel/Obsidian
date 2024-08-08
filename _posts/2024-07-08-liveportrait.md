@@ -5,6 +5,9 @@ tags:
   - animation
   - Stitching
   - Retargeting
+  - GenAI
+  - Generator
+  - computervision
 date: 2024-07-08
 toc: true
 toc_sticky: true
