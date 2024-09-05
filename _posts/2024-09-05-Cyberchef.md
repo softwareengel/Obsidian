@@ -3,6 +3,10 @@ title: CyberChef - The Cyber Swiss Army Knife
 tags:
   - encoding
   - decoding
+  - xor
+  - BAse64
+  - AES
+  - DES
 date: 2024-09-05
 toc: true
 toc_sticky: true
