@@ -5,6 +5,7 @@ tags:
   - AI
   - Prediction
   - Anaytics
+  - ToCheck
 Date: 2024-03-22
 title: chronos-forecasting
 date: 2024-07-16
@@ -16,12 +17,12 @@ toc_sticky: true
 https://github.com/amazon-science/ch
 # chronos-forecasting
 
-![](../_asset/2024-03-22_image_1.png)
+![](../_asset/2024-03-22chronos-forecasting_image_1.png)
 
 
 Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting
 
-![](../_asset/2024-03-22_pdf_1.pdf)
+![](../_asset/2024-03-22chronos-forecasting_pdf_1.pdf)
 
 ## Link
 
