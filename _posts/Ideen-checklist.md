@@ -17,6 +17,7 @@ type: Checklist
 
 
 - [ ] .Dst Datei Format, Base cap
+
 - [x] Bade / Schwimm - Poncho
 - [x] Sipgate? Telefon Festnetz 
 - [ ] Zug nach Enschede mit Verena & co
