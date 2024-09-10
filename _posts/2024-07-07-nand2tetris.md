@@ -1,3 +1,14 @@
+---
+title: from nand 2 tetris
+tags:
+  - course
+  - lecture
+date: 2024-09-05
+toc: true
+toc_sticky: true
+---
+
+# nand2tetris
 https://www.nand2tetris.org/
 
 This website contains all the lectures, project materials and tools necessary for building a general-purpose computer system and a modern software hierarchy from the ground up.
@@ -14,3 +25,5 @@ Nand to Tetris courses are taught at 400+ universities, high schools, and bootca
 Instructors: For additional course materials, contact nand2tetris@gmail.com
 ## petzold
 https://www.charlespetzold.com/code/
+
+![](../_asset/2024-07-07-nand2tetris_image_1.png)
