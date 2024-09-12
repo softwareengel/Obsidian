@@ -15,7 +15,7 @@ toc_sticky: true
 
 #### _The Cyber Swiss Army Knife_
 
-[](https://github.com/gchq/CyberChef#the-cyber-swiss-army-knife)
+
 
 CyberChef is a simple, intuitive web app for carrying out all manner of "cyber" operations within a web browser. These operations include simple encoding like XOR and Base64, more complex encryption like AES, DES and Blowfish, creating binary and hexdumps, compression and decompression of data, calculating hashes and checksums, IPv6 and X.509 parsing, changing character encodings, and much more.
 
@@ -46,3 +46,5 @@ https://gchq.github.io/CyberChef/#input=ZHNmYXNkZmFzZGY
 ## Links
 
 <https://github.com/gchq/CyberChef>
+
+[github](https://github.com/gchq/CyberChef#the-cyber-swiss-army-knife)
