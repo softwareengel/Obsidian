@@ -19,6 +19,7 @@ toc_sticky: true
 ![](../_asset/2024-09-04-fileDowloads_image_2.png)
 
 ## CUII Block List 
+
 ![](../_asset/2024-09-04-fileDowloads_image_3.png)
 ## Domains 
 
@@ -300,7 +301,8 @@ toc_sticky: true
 | www9.kinox.to                    | 2024-08-21    |
 | ziperto.com                      | 2024-04-02    |
 
-## Beispiel DNS Blocker
+## CUII DNS Blocker
+
 ![](../_asset/2024-09-04-fileDowloads_image_4.png)
 
 ### Resolver Status 
@@ -309,11 +311,12 @@ toc_sticky: true
 ## Firefox DNS Schutz 
 ![](../_asset/2024-09-04-fileDowloads_image_6.png)
 
-## Beispiel ohne DNS Blocker 
+## Ohne DNS Blocker 
 
 ![](../_asset/2024-09-04-fileDowloads_image_7.png)
 ## Links 
 ### Artikel 
+
 <https://torrentfreak.com/17-year-old-student-exposes-germanys-secret-pirate-site-blocklist-240822/>
 ### Blocklist + Resolvers 
 
@@ -322,8 +325,21 @@ toc_sticky: true
 
 ### Beispiel -Seite 
 <https://notice.cuii.info/?action=popup&kat_id=11&fileid=645708>
+
 ### Github
 
 <https://github.com/DAMcraft/cuiiliste>
 <https://github.com/DAMcraft/cuiiliste-frontend>
+
+### Soccer - Links 
+
+<https://the.crackstreams.ws/index/ >
+
+<https://football.jokerguide.com/>
+
+<https://www.buffsports.me/> 
+
+<https://live.yalla-shoot-de.com/>
+
+<https://liveball.uno/>
 
