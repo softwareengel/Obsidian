@@ -1,6 +1,8 @@
 ---
-title: 
-tags: 
+title: Shrink Git Repo Size
+tags:
+  - git
+  - Tool
 date: 2024-09-18
 toc: true
 toc_sticky: true
