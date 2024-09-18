@@ -1,3 +1,18 @@
+---
+title: Multimodale LLM
+tags:
+  - LLM
+  - Generator
+  - GenAI
+  - Multimodal
+date: 2024-09-18
+toc: true
+toc_sticky: true
+---
+
+# Multimodale LLM 
+ 
+
 <https://you.com/ >
 
 <https://www.perplexity.ai/ > 
@@ -25,9 +40,12 @@ Sozialer Roboter Navel
 AI Pin
 
 Rabbit R1
-## Navigating the Challenges and Opportunities of Synthetic Voices
+## Navigating the Challeng
 
-<https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices/ >
+
+
+<https://openai.com/index/
+>
 
 
 Challenges and Opportunities of Synthetic Voices
