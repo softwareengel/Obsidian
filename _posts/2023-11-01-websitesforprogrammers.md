@@ -6,11 +6,17 @@ tags:
   - Linklist
   - progamming
 Date: 2024-03-09
+date: 2024-09-18
+toc: true
+toc_sticky: true
 ---
+
 
 # Some useful websites for programmers
 
+
+![2023-11-01_websitesforprogrammers_image_2](../_asset/2023-11-01-websitesforprogrammers_image_1.jpg)
+
+## Links 
+
 <https://github.com/stacksize/Best-websites-a-programmer-should-visit>
-
-
-![](../_asset/2023-11-01_websitesforprogrammers_image_1.png)
