@@ -1,10 +1,11 @@
 ---
-title: Multimodale LLM
+title: Multimodale LLM - Bildgeneratoren
 tags:
   - LLM
   - Generator
   - GenAI
   - Multimodal
+  - Gemini
 date: 2024-09-18
 toc: true
 toc_sticky: true
@@ -17,8 +18,8 @@ toc_sticky: true
 
 <https://www.perplexity.ai/ > 
 
-![](../_asset/2024-05-09_image_1.jpg)
-![](../_asset/2024-05-09_image_2.jpg)
+![](../_asset/2024-05-09-multimodalLLM_image_1.jpg)
+![](../_asset/2024-05-09-multimodalLLM_image_2.jpg)
 
 
 ct.de/yby1
@@ -40,12 +41,9 @@ Sozialer Roboter Navel
 AI Pin
 
 Rabbit R1
-## Navigating the Challeng
+## Navigating the Challenges and Opportunities of Synthetic Voices
 
-
-
-<https://openai.com/index/
->
+<https://openai.com/index/navigating-the-challenges-and-opportunities-of-synthetic-voices/ >
 
 
 Challenges and Opportunities of Synthetic Voices
@@ -58,20 +56,20 @@ Create your first HeyGen avatar video in motion!
 <https://demo.heygen.com/ >
 
 ### Real Person Avatar
-![](../_asset/2024-05-09_image_3.png)
+![](../_asset/2024-05-09-multimodalLLM_image_3.png)
 ### Talking Foto 
 
-![](../_asset/2024-05-09_image_4.png)
+![](../_asset/2024-05-09-multimodalLLM_image_4.png)
 
 
 
-![](../_asset/2024-05-09_image_5.png)
+![](../_asset/2024-05-09-multimodalLLM_image_5.png)
 
 
 ## Create winning ads with AI Actors - arcads.ia
 
 Generate 100s of winning videos from text.
-![](../_asset/2024-05-09_image_6.jpg)
+![](../_asset/2024-05-09-multimodalLLM_image_6.jpg)
 
 
 ## Humanoide Roboter: OpenAI bringt Figure 01 zum Sprechen und "Denken"
@@ -79,7 +77,7 @@ Generate 100s of winning videos from text.
 <https://www.heise.de/news/Humanoide-Roboter-OpenAI-bringt-Figure-01-zum-Sprechen-und-Denken-9655861.html >
 
 
-![](../_asset/2024-05-09_image_7.jpg)
+![](../_asset/2024-05-09-multimodalLLM_image_7.jpg)
 
 
 
@@ -91,12 +89,12 @@ Der soziale Roboter Navel nutzt KI und spricht Menschen an. In einem Pflegeheim 
 
 https://www.heise.de/hintergrund/ChatGPT-im-Pflegeheim-So-schlaegt-sich-der-soziale-Roboter-Navel-9643725.html?seite=all
 
-![](../_asset/2024-05-09_image_8.jpg)
+![](../_asset/2024-05-09-multimodalLLM_image_8.jpg)
 https://humane.com/
-![](../_asset/2024-05-09_image_9.jpg)
+![](../_asset/2024-05-09-multimodalLLM_image_9.jpg)
 
 https://www.rabbit.tech/
-![](../_asset/2024-05-09_image_10.jpg)
+![](../_asset/2024-05-09-multimodalLLM_image_10.jpg)
 
 
 
@@ -150,30 +148,30 @@ Diese Seite mit klickbaren Links: ct.de/ynfp
 ## ChatGPT OpenAI
 <https://chatgpt.com/?oai-dm=1 >
 
-![](../_asset/2024-05-09_image_11.jpg)
+![](../_asset/2024-05-09-multimodalLLM_image_11.jpg)
 
 ## Google Gemini
 https://gemini.google.com/?hl=de
 
-![](../_asset/2024-05-09_image_12.jpg)
+![](../_asset/2024-05-09-multimodalLLM_image_12.jpg)
 
 ## Claude AI 
 
 
 https://claude.ai/login?returnTo=%2F%3F
-![](../_asset/2024-05-09_image_13.jpg)
+![](../_asset/2024-05-09-multimodalLLM_image_13.jpg)
 
 ## Aleph Alpha 
 https://app.aleph-alpha.com/
 
-![](../_asset/2024-05-09_image_14.jpg)
+![](../_asset/2024-05-09-multimodalLLM_image_14.jpg)
 
 
 ## Mata LLama
 
 https://llama.meta.com/docs/get-started/
 
-![](../_asset/2024-05-09_image_15.jpg)
+![](../_asset/2024-05-09-multimodalLLM_image_15.jpg)
 
 
-![](../_asset/2024-05-09_image_16.jpg)
+![](../_asset/2024-05-09-multimodalLLM_image_16.jpg)
