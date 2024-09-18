@@ -15,13 +15,13 @@ toc_sticky: true
 
 ## TF Artikel 
 
-![](../_asset/2024-09-04-fileDowloads_image_1.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_1.png)
 
-![](../_asset/2024-09-04-fileDowloads_image_2.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_2.png)
 
 ## CUII Block List 
 
-![](../_asset/2024-09-04-fileDowloads_image_3.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_3.png)
 ## Domains 
 
 | Domain                           | Blockiert am* |
@@ -304,17 +304,17 @@ toc_sticky: true
 
 ## CUII DNS Blocker
 
-![](../_asset/2024-09-04-fileDowloads_image_4.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_4.png)
 
 ### Resolver Status 
 
-![](../_asset/2024-09-04-fileDowloads_image_5.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_5.png)
 ## Firefox DNS Schutz 
-![](../_asset/2024-09-04-fileDowloads_image_6.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_6.png)
 
 ## Ohne DNS Blocker 
 
-![](../_asset/2024-09-04-fileDowloads_image_7.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_7.png)
 ## Links 
 ### Artikel 
 
@@ -331,6 +331,7 @@ toc_sticky: true
 ### Github
 
 <https://github.com/DAMcraft/cuiiliste>
+
 <https://github.com/DAMcraft/cuiiliste-frontend>
 
 ### Soccer - Links 
@@ -344,4 +345,7 @@ toc_sticky: true
 <https://live.yalla-shoot-de.com/>
 
 <https://liveball.uno/>
+
+### See 
+[2024-09-14-iptv](2024-09-14-iptv.md)
 
