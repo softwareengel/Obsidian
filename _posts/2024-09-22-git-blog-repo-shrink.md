@@ -10,8 +10,7 @@ toc_sticky: true
 
  
 
-# Shrink git repo for obsidian android phone usage - wipback
-
+# Shrink git repo for obsidian android phone usage - wip
 
 
 ## current state
@@ -27,8 +26,12 @@ toc_sticky: true
 ~ 50 % .pack Files 
 ~ 30 % PNG - Files 
 ~ 12 % JPG Files 
-# Find unused Pictures 
+## Find unused Pictures 
 
+- Obsidian Plugin 
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_3.png)
+
+- and delete jpg, png manually 
 ## Shrink .pack ?
 
 https://stackoverflow.com/questions/11050265/remove-large-pack-file-created-by-git
@@ -39,9 +42,9 @@ https://www.geeksforgeeks.org/how-to-remove-a-large-file-from-commit-history-in-
 git verify-pack -v .git/objects/pack/*.idx | sort -k 3 -n | tail -5
 ``` 
 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_3.png)
-
 ![](../_asset/2024-09-22-git-blog-repo-shrink_image_4.png)
+
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_5.png)
 #### Test 2 bfg
 
 https://rtyley.github.io/bfg-repo-cleaner/
@@ -645,15 +648,15 @@ TODO -> PNG -> JPG / Webp + rename all Links
 jpg irfanview default, 80% quality
 
 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_5.png)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_6.png)
 
 Beispiel 2
 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_6.png)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_7.png)
 
 
 ### Problem Webp 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_7.png)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_8.png)
 
 #### Find relevant files
 
@@ -662,7 +665,7 @@ Beispiel 2
 ## check Webp in Obsidian + git yekyll SSG Page - okay working 
 
 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_8.webp)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_9.webp)
 
 
 ## Results
