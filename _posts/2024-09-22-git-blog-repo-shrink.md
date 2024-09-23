@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-
+ 
 
 # Shrink git repo for obsidian android phone usage - wipback
 
