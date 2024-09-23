@@ -11,7 +11,7 @@ toc: true
 toc_sticky: true
 ---
 
-# Transposition cipher with two different keywords, also known as Doppelwürfel or UBCHI. With this little program you can decode and encode Strings.
+# Transposition cipher with two different keywords, also known as Doppelwürfel or UBCHI. With this little program you can decode and encode Strings
 
 <https://github.com/Periculum/Doppelwuerfel>
 
