@@ -27,6 +27,7 @@ toc_sticky: true
 ~ 50 % .pack Files 
 ~ 30 % PNG - Files 
 ~ 12 % JPG Files 
+# Find unused Pictures 
 
 ## Shrink .pack ?
 
