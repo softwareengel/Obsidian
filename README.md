@@ -19,5 +19,3 @@ Simple Yekyll Web
 ## VE Webp
 ![](_asset/README_image_3.webp)
 
-## Test
-Tests 
