@@ -23,7 +23,10 @@ This repo, named LivePortrait, contains the official PyTorch implementation of o
     <source src="../_asset/2024-07-08-liveportrait_video_1.mp4" type="video/mp4">
   </video>
 </figure>
+
+
 ![](../_asset/2024-07-08-liveportrait_video_1.mp4)
+
 
 ![](../_asset/2024-07-08-liveportrait_image_1.png)
 
