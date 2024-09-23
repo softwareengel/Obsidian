@@ -1,0 +1,28 @@
+---
+title: Missuse Analytics genai
+tags:
+  - AI
+  - Missuse
+  - Report
+  - GenAI
+date: 2024-07-16
+toc: true
+toc_sticky: true
+---
+# Missuse of AI
+
+
+
+Die Missbrauchsszenarien und ihre Aufschlüsselung. | Bild: Google Deepmind
+
+
+![](../_asset/2024-07-16-missuseAI_image_1.png)
+
+
+![](../_asset/2024-07-16-missuseAI_image_2.png)
+
+
+## Links
+
+
+<https://the-decoder.de/deepmind-analyse-zeigt-missbrauch-von-generativer-ki-zwischen-2023-und-2024/>
