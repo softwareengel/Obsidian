@@ -639,6 +639,19 @@ engels@DESKTOP-P2OAOQD MINGW64 ~/Downloads/gittest/Obsidian.git (BARE:main)
 $ git push
 Enumerating objects: 4499, done.
 ```
+### BFG 2
+find all unused jpg files 
+
+`git log --all --pretty=format: --name-only --diff-filter=D |grep '\.jpg'| sort >allDeletedFilesJpg.txt`
+
+
+
+`java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie"`
+
+` git reflog expire --expire=now --all && git gc --prune=now --aggressive`
+
+`git push origin --force --all`
+
 
 ## PNG - Shirinking in JPG /  WEBP
 TODO -> PNG -> JPG / Webp + rename all Links 
