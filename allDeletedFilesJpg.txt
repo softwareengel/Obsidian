@@ -1,0 +1,22 @@
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" 1f42694d77cdeeb96d14a8e15ee7ceec.jpg
+java -jar bfg-1.14.0.jar -D 2024-01-13_notes_image_1.jpg "Obsidian - Kopie" 2024-01-13_notes_image_1.jpg
+java -jar bfg-1.14.0.jar -D 2024-09-22-git-blog-repo-shrink_image_2.jpg "Obsidian - Kopie" 2024-09-22-git-blog-repo-shrink_image_2.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" 20240509_115613 1 1.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" 20240509_115613 1.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" 20240509_115613.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" 2e674ad996ff4a98377e7d97f9916c13.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" Screenshot_20231209_162619_Brave 1 1.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" Screenshot_20231209_162619_Brave 1.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" Screenshot_20231209_162619_Brave.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" Screenshot_20231209_163517_Obsidian.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" Screenshot_20231209_164656_Obsidian.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" Screenshot_20240130_194300_Brave.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" Screenshot_20240207_181414_Kiwi Browser 1.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" Screenshot_20240223_181529_Brave 1.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" Screenshot_20240511_104930_Brave 1.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" c538507520e4c2c13dcfcd26d4335bf3.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie"  e227478f61f575e8b95c25a30905c6a9.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" f5fd54f90f685540e94e64a8101606d7.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" tmp1721133091308_2024-05-09_image_4.jpg
+java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie" WhatsApp Bild 2024-06-25 um 14.06.49_54d6d7d1.jpg 
+java -jar bfg-1.14.0.jar -D  bio-photo.jpg.bak.jpg "Obsidian - Kopie"
