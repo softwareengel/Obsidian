@@ -15,7 +15,7 @@ toc_sticky: true
 
 ## Stop fraud, detect bots, or delight customers. Identify good and bad  visitors with industry-leading accuracy - **even if they're anonymous.**
 
-![](../_asset/2024-03-09-fingerprinting_image_1.png)
+![](../_asset/2024-03-09-fingerprinting_image_1.jpg)
 # Audio-fingerprinting-protection - How We Bypassed Safari 17's Advanced Audio Fingerprinting Protection
 
 
@@ -23,7 +23,7 @@ toc_sticky: true
 Bypassed Safari 17's Advanced Audio Fingerprinting
 
 
-![](../_asset/2024-03-09-fingerprinting_image_2.png)
+![](../_asset/2024-03-09-fingerprinting_image_2.jpg)
 ## Links
 <https://fingerprint.com/blog/bypassing-safari-17-audio-fingerprinting-protection/ >
 <https://fingerprint.com/blog/ >

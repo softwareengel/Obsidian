@@ -19,6 +19,6 @@ https://consensus.app/
 
 ## Screenshot
 
-![](../_asset/2024-07-12-consensus_image_1.png)
+![](../_asset/2024-07-12-consensus_image_1.jpg)
 
-![](../_asset/2024-07-12-consensus_image_2.png)
+![](../_asset/2024-07-12-consensus_image_2.jpg)

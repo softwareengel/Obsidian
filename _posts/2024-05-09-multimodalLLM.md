@@ -57,14 +57,14 @@ Create your first HeyGen avatar video in motion!
 
 ### Real Person Avatar
 
-![](../_asset/2024-05-09-multimodalLLM_image_3.png)
+![](../_asset/2024-05-09-multimodalLLM_image_3.jpg)
 ### Talking Foto 
 
-![](../_asset/2024-05-09-multimodalLLM_image_4.png)
+![](../_asset/2024-05-09-multimodalLLM_image_4.jpg)
 
 
 
-![](../_asset/2024-05-09-multimodalLLM_image_5.png)
+![](../_asset/2024-05-09-multimodalLLM_image_5.jpg)
 
 
 ## Create winning ads with AI Actors - arcads.ia

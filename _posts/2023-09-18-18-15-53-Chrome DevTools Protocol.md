@@ -20,4 +20,4 @@ You can also issue your own commands using Protocol Monitor. If the command does
 ```
 
 ## Screenshot 
-![](../_asset/2023-09-18-18-15-53_Chrome%20DevTools%20Protocol_image_1.png)
+![](../_asset/2023-09-18-18-15-53_Chrome%20DevTools%20Protocol_image_1.jpg)

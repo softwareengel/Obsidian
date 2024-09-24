@@ -9,6 +9,6 @@ Date: 2024-02-20
 
 # Random picker wheel
 
-![](../_asset/2023-09-18-18-49-21_Random%20picker%20wheel_image_1.png)
+![](../_asset/2023-09-18-18-49-21_Random%20picker%20wheel_image_1.jpg)
 
 <https://tools-unite.com/tools/random-picker-wheel>

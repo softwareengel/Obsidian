@@ -14,6 +14,6 @@ Date: 2024-02-20
 This guide will take you through the process of installing Linux on a fresh Surface device, installing a patched kernel that will enable more functionality, then addressing device-specific quirks and issues.
 
 
-![](../_asset/2023-09-18-surfaceLinux_image_1.png)
+![](../_asset/2023-09-18-surfaceLinux_image_1.jpg)
 
 <https://github.com/linux-surface/linux-surface/wiki/Installation-and-Setup>

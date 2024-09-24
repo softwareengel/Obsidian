@@ -31,7 +31,7 @@ Custom prompting
 
 https://neural.love/
 
-![](../_asset/2024-06-10-AIGenerators_image_1.png)
+![](../_asset/2024-06-10-AIGenerators_image_1.jpg)
 
 
-![](../_asset/2024-06-10-AIGenerators_image_2.png)
+![](../_asset/2024-06-10-AIGenerators_image_2.jpg)

@@ -14,6 +14,6 @@ toc_sticky: true
 
 A case for abandoning web analytics
 
-![](../_asset/2023-09-21-Counting%20Ghosts_image_1.png)
+![](../_asset/2023-09-21-Counting%20Ghosts_image_1.jpg)
 
 <https://pcmaffey.com/counting-ghosts>

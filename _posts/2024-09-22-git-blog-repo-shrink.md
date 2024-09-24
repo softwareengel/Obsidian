@@ -13,11 +13,11 @@ toc_sticky: true
 
 ## current state
 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_1.png)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_1.jpg)
 
 ## Analysis Files and Sites 
 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_2.png)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_2.jpg)
 
 ## Analysis Result
 
@@ -27,7 +27,7 @@ toc_sticky: true
 ## Find unused Pictures 
 
 - Obsidian Plugin 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_3.png)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_3.jpg)
 
 - and delete jpg, png manually 
 ## Shrink .pack ?
@@ -40,9 +40,9 @@ https://www.geeksforgeeks.org/how-to-remove-a-large-file-from-commit-history-in-
 git verify-pack -v .git/objects/pack/*.idx | sort -k 3 -n | tail -5
 ``` 
 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_4.png)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_4.jpg)
 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_5.png)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_5.jpg)
 #### Test 2 bfg - working
 
 https://rtyley.github.io/bfg-repo-cleaner/
@@ -78,11 +78,11 @@ $ git rev-list --objects --all | grep ^C
 
 engels@DESKTOP-P2OAOQD MINGW64 /c/src/github/Obsidian (main)
 $ git rev-list --objects --all | grep 853a97a054a64173eca02c7479f56cfccbcae6b9
-853a97a054a64173eca02c7479f56cfccbcae6b9 _asset/2023-09-18-18-17-08_illusion pages_image_1.png
+853a97a054a64173eca02c7479f56cfccbcae6b9 _asset/2023-09-18-18-17-08_illusion pages_image_1.jpg
 
 engels@DESKTOP-P2OAOQD MINGW64 /c/src/github/Obsidian (main)
 $ git rev-list --objects --all | grep 853a97a054a64173eca02c7479f56cfccbcae6b9
-853a97a054a64173eca02c7479f56cfccbcae6b9 _asset/2023-09-18-18-17-08_illusion pages_image_1.png
+853a97a054a64173eca02c7479f56cfccbcae6b9 _asset/2023-09-18-18-17-08_illusion pages_image_1.jpg
 
 engels@DESKTOP-P2OAOQD MINGW64 /c/src/github/Obsidian (main)
 $ git rev-list --objects --all | grep
@@ -95,11 +95,11 @@ $ git rev-list --objects --all | grep 1c740decd33c1e163d2c730363c82e0de52fffc8
 
 engels@DESKTOP-P2OAOQD MINGW64 /c/src/github/Obsidian (main)
 $ git rev-list --objects --all | grep 10242d2bea26ed04b0c949352ecfba71df74acda
-10242d2bea26ed04b0c949352ecfba71df74acda _asset/2024-01-13_notes_image_1.png
+10242d2bea26ed04b0c949352ecfba71df74acda _asset/2024-01-13_notes_image_1.jpg
 
 engels@DESKTOP-P2OAOQD MINGW64 /c/src/github/Obsidian (main)
 $ git rev-list --objects --all | grep 49be32b98456494bfb38a0c0b4b57a93a2dff108
-49be32b98456494bfb38a0c0b4b57a93a2dff108 _asset/2024-01-13_notes_image_2.png
+49be32b98456494bfb38a0c0b4b57a93a2dff108 _asset/2024-01-13_notes_image_2.jpg
 
 engels@DESKTOP-P2OAOQD MINGW64 /c/src/github/Obsidian (main)
 $ git rev-list --objects --all | grep 70a3adba63d00c0470e60fadd3f4cf0ce46e7b4b
@@ -660,15 +660,15 @@ TODO -> PNG -> JPG / Webp + rename all Links
 jpg irfanview default, 80% quality
 
 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_6.png)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_6.jpg)
 
 Beispiel 2
 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_7.png)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_7.jpg)
 
 
 ### Problem Webp 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_8.png)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_8.jpg)
 
 #### Find relevant files
 

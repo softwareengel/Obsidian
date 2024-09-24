@@ -12,10 +12,10 @@ toc_sticky: true
 # Software Engineering Blogs
 
 
-![](../_asset/2023-09-18-listEngineeringBlogs_image_1.png)
+![](../_asset/2023-09-18-listEngineeringBlogs_image_1.jpg)
 
 ## Full Pic
-![](../_asset/2023-09-18-listEngineeringBlogs_image_2.png)
+![](../_asset/2023-09-18-listEngineeringBlogs_image_2.jpg)
 ## Links
 
 <https://github.com/kilimchoi/engineering-blogs>

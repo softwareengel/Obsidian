@@ -12,4 +12,4 @@ Date: 2024-03-05
 
 <https://feditrends.com/>
 
-![](../_asset/2023-11-13_feditrends_image_1.png)
+![](../_asset/2023-11-13_feditrends_image_1.jpg)

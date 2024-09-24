@@ -10,7 +10,7 @@ toc_sticky: true
 
 # Visualize Attention in NLP Models
 
-![](../_asset/2024-06-10-Visualize%20Attention_image_1.png)
+![](../_asset/2024-06-10-Visualize%20Attention_image_1.jpg)
 
 
 ![](../_asset/2024-06-10-Visualize%20Attention_video_1.mp4)
@@ -23,7 +23,7 @@ toc_sticky: true
 
 ##  BertViz Interactive Tutorial
 
-![](../_asset/2024-06-10-Visualize%20Attention_image_4.png)
+![](../_asset/2024-06-10-Visualize%20Attention_image_4.jpg)
 ## Links
 
 

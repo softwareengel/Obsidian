@@ -10,7 +10,7 @@ toc_sticky: true
 
 # European_green_deal.pdf
 
-![](../_asset/2024-07-16-European_green_deal.pdf_image_1.png)
+![](../_asset/2024-07-16-European_green_deal.pdf_image_1.jpg)
 
 https://www.circulaw.nl/European_green_deal.pdf
 

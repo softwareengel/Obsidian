@@ -12,4 +12,4 @@ Date: 2024-04-12
 <https://www.vikas.sh/post/how-i-got-into-deep-learning>
 
 
-![](../_asset/2024-04-12_LearnDeepLearning_image_1.png)
+![](../_asset/2024-04-12_LearnDeepLearning_image_1.jpg)

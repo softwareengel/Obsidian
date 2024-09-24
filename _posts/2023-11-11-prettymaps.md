@@ -7,7 +7,7 @@ tags:
 Date: 2024-01-31
 ---
 
-![](../_asset/2023-11-11_prettymaps_image_1.png)
+![](../_asset/2023-11-11_prettymaps_image_1.jpg)
 
 
 # prettymaps

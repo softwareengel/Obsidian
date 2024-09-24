@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 ---
 
-![](../_asset/Productive%20Thinking%20Model_image_1.png)
+![](../_asset/Productive%20Thinking%20Model_image_1.jpg)
 # Tools for better thinking
 
 Thinking tools and frameworks to help you solve problems, make decisions and understand systems.
@@ -21,7 +21,7 @@ Thinking tools and frameworks to help you solve problems, make decisions and und
 
 ## Productive Thinking Model
 
-![](../_asset/Productive%20Thinking%20Model_image_2.png)
+![](../_asset/Productive%20Thinking%20Model_image_2.jpg)
 
 
 ## Links 

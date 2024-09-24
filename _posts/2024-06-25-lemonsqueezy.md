@@ -13,4 +13,4 @@ As your merchant of record, we handle the tax compliance burden so you can focus
 
 https://www.lemonsqueezy.com/
 
-![](../_asset/Pasted%20image%2020240625151258.png)
+![](../_asset/Pasted%20image%2020240625151258.jpg)

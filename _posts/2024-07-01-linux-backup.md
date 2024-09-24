@@ -12,7 +12,7 @@ toc_sticky: true
 # Linux Backup
 
 ## Borg Backup 
-![](../_asset/2024-07-01-linux-backup_image_1.png)
+![](../_asset/2024-07-01-linux-backup_image_1.jpg)
 
 <https://borgbackup.readthedocs.io/en/latest/installation.html>
 
@@ -24,7 +24,7 @@ apt install borgbackup
 ```
 ## GUI für Borg: Vorter 
 
-![](../_asset/2024-07-01-linux-backup_image_2.png)
+![](../_asset/2024-07-01-linux-backup_image_2.jpg)
 
 ``
 

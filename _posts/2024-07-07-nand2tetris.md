@@ -26,4 +26,4 @@ Instructors: For additional course materials, contact nand2tetris@gmail.com
 ## petzold
 https://www.charlespetzold.com/code/
 
-![](../_asset/2024-07-07-nand2tetris_image_1.png)
+![](../_asset/2024-07-07-nand2tetris_image_1.jpg)

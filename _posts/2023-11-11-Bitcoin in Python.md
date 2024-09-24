@@ -16,4 +16,4 @@ Date: 2024-02-20
 
 A from-scratch tour of Bitcoin in Python
 
-![](../_asset/2023-11-11_Bitcoin%20in%20Python_image_1.png)
+![](../_asset/2023-11-11_Bitcoin%20in%20Python_image_1.jpg)

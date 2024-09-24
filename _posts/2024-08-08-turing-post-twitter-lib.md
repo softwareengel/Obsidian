@@ -15,6 +15,6 @@ toc_sticky: true
 
 ## Our most useful threads, bite-sized information for fast learners!
 
-![](../_asset/2024-08-08-turing-post-twitter-lib_image_1.png)
+![](../_asset/2024-08-08-turing-post-twitter-lib_image_1.jpg)
 
 https://www.turingpost.com/t/Twitter-Library

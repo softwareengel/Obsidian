@@ -28,4 +28,4 @@ DevToys works entirely offline! No need to use many untruthful websites to do si
     Hash generator
 
 
-![](../_asset/2023-09-18-swisarmysknife_image_1.png)
+![](../_asset/2023-09-18-swisarmysknife_image_1.jpg)

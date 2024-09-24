@@ -10,7 +10,7 @@ toc_sticky: true
 ---
 # IPTV - Drama-TV 
 
-![](../_asset/2024-09-14-iptvdramatv_image_1.png)
+![](../_asset/2024-09-14-iptvdramatv_image_1.jpg)
 ## Links 
 
 <https://github.com/benhamad/blog/blob/main/2024-04-12-dramalive.md>

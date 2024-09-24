@@ -10,7 +10,7 @@ toc_sticky: true
 
 # The sound of the dialup, pictured
 
-![](../_asset/2023-10-20-sounddialuppictured_image_1.png)
+![](../_asset/2023-10-20-sounddialuppictured_image_1.jpg)
 
 <https://www.windytan.com/2012/11/the-sound-of-dialup-pictured.html>
 

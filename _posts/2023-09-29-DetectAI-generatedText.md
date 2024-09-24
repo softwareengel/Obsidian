@@ -12,7 +12,7 @@ Date: 2024-02-20
 
 # Detect AI-generated text [relatively] quickly via compression ratios
 
-![](../_asset/2023-09-29_DetectAI-generatedText_image_1.png)
+![](../_asset/2023-09-29_DetectAI-generatedText_image_1.jpg)
 
 # Links
 

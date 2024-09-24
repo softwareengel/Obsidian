@@ -9,7 +9,7 @@ Date: 2024-02-22
 ---
 # Clippings
 
-![](../_asset/2023-10-13_Clippings_image_1.png)
+![](../_asset/2023-10-13_Clippings_image_1.jpg)
 # 
 
 <https://clippings.june07.com/home>

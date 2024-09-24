@@ -14,4 +14,4 @@ toc_sticky: true
 
 https://nsa-codebreaker.org/resources
 
-![](../_asset/2024-09-05-NSAToolSlides_image_1.png)
+![](../_asset/2024-09-05-NSAToolSlides_image_1.jpg)

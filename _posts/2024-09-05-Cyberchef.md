@@ -42,7 +42,7 @@ For those comfortable writing code, CyberChef is a quick and efficient way to pr
 
 https://gchq.github.io/CyberChef/#input=ZHNmYXNkZmFzZGY
 
-![](../_asset/2024-09-05-Cyberchef_image_1.png)
+![](../_asset/2024-09-05-Cyberchef_image_1.jpg)
 ## Links
 
 <https://github.com/gchq/CyberChef>

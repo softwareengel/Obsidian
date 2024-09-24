@@ -19,4 +19,4 @@ Piano like no other, Piano on Paper
 
 ![](../_asset/2024-03-09_PianoPaper_image_1.jpg)
 
-![](../_asset/2024-03-09_PianoPaper_image_2.png)
+![](../_asset/2024-03-09_PianoPaper_image_2.jpg)

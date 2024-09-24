@@ -19,4 +19,4 @@ Date: 2024-04-14
 
 # Flipper Zero Multi-tool Device for Geeks
 
-![](../_asset/Pasted%20image%2020240414135825.png)
+![](../_asset/Pasted%20image%2020240414135825.jpg)

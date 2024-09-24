@@ -12,4 +12,4 @@ Date: 2024-02-21
 
 <https://modern-sql.com/reserved-words-empirical-list>
 
-![](../_asset/2023-10-11_SQLReservedWords_image_1.png)
+![](../_asset/2023-10-11_SQLReservedWords_image_1.jpg)

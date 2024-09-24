@@ -9,7 +9,7 @@ toc_sticky: true
 
 # eloquentjavascript
 
-![](../_asset/2024-03-07-eloquentjavascript_image_1.png)
+![](../_asset/2024-03-07-eloquentjavascript_image_1.jpg)
 
 https://eloquentjavascript.net/
 

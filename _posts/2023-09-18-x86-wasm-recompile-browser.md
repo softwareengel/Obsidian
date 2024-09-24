@@ -10,13 +10,13 @@ tags:
 Date: 2024-01-31
 ---
 
-![](../_asset/2023-09-18-x86-wasm-recompile-browser_image_1.png)
+![](../_asset/2023-09-18-x86-wasm-recompile-browser_image_1.jpg)
 
 # x86 virtualization in your browser, recompiling x86 to wasm on the fly
 
 
 
-![](../_asset/2023-09-18-x86-wasm-recompile-browser_image_2.png)
+![](../_asset/2023-09-18-x86-wasm-recompile-browser_image_2.jpg)
 
 
 <https://copy.sh/v86/>
