@@ -648,9 +648,10 @@ find all unused jpg files
 
 `git log --all --pretty=format: --name-only --diff-filter=D |grep '\.jpg'| sort >allDeletedFilesJpg.txt`
 
-find all png files
+find all unused png files
 
 `git log --all --pretty=format: --name-only --diff-filter=D |grep '\.png'| sort >allDeletedFilespng.txt`
+
 
 
 `java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie"`
