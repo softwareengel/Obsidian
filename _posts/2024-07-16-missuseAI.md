@@ -26,3 +26,6 @@ Die Missbrauchsszenarien und ihre Aufschlüsselung. | Bild: Google Deepmind
 
 
 <https://the-decoder.de/deepmind-analyse-zeigt-missbrauch-von-generativer-ki-zwischen-2023-und-2024/>
+
+<https://arxiv.org/pdf/2406.13843>
+
