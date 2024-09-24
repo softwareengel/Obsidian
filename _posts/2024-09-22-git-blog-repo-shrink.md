@@ -8,7 +8,8 @@ toc: true
 toc_sticky: true
 ---
 
-# Shrink git repo for obsidian android phone usage - wip
+# Shrink Git Repo for Obsidian Android Phone usage - WIP
+
 
 
 ## current state
@@ -638,8 +639,7 @@ $ git push
 Enumerating objects: 4499, done.
 ```
 ### BFG 2. Versuch 
-
-git clone bare 
+#### git clone bare 
 
 `git clone --mirror https://github.com/softwareengel/Obsidian.git`
 
@@ -648,15 +648,565 @@ find all unused jpg files
 
 `git log --all --pretty=format: --name-only --diff-filter=D |grep '\.jpg'| sort >allDeletedFilesJpg.txt`
 
-find all unused png files
+#### find all unused png files
 
 `git log --all --pretty=format: --name-only --diff-filter=D |grep '\.png'| sort >allDeletedFilespng.txt`
 
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_6.jpeg)
 
 
+`^.*/(.*)$`
+`"\1"`
+
+---
+
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_7.jpeg)
+
+
+`^(.*)$`
+`java -jar bfg-1.14.0.jar -D \1 Obsidian.git`
+
+#### bfg remove history 
+---
+```
+java -jar bfg-1.14.0.jar -D "2023-09-18 WordPressPlayground_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18 WordPressPlayground_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18 WordPressPlayground_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18 WordPressPlayground_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-18-15-53_Chrome DevTools Protocol_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-18-16-32-PYOBD_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-18-17-08_illusion pages_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-18-31-45_Puckeditor_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-18-47-46_securityheaders_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-18-49-21_Random picker wheel_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-18-50-35_ARSnova_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-18-50-56-tweedback_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-18-50-56-tweedback_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-18-54-07_webvm_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-18-56-53_Devtoolstips_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-19-26-38_WtfPython_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-19-28-30-SweetHome3D_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-20-04-31_Radware Live Threat Map_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-20-30-54_webcam_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-20-34-18_revealjs_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-20-34-18_revealjs_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-CryptBoard_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-CryptBoard_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-Development-of-the-C-Language_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-Exploit Database_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-JSLinux_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-JSLinux_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-JSLinux_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-JSLinux_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-Knots_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-Pytudes_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-listEngineeringBlogs_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-listEngineeringBlogs_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-n8n_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-surfaceLinux_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-swisarmysknife_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-x86-wasm-recompile-browser_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18-x86-wasm-recompile-browser_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_BLAZINGLYFASTHUGOCMSAPP_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_BLAZINGLYFASTHUGOCMSAPP_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_BiggestDataHacks_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_BriefcasePy_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_DiscoverOSSprojects_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_LiberaChat_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_LiberaChat_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_ModernJavaScriptTutorial_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_ModernJavaScriptTutorial_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_OpenMoji_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_ScienceTricksKids_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_ScienceTricksKids_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_TLauncher_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_WorkshopSpielefinden_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_YourAttentionWasStolen_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_YourAttentionWasStolen_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_Zeitreihenanalyse_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_digitalattackmap_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_internetABCLernmodule_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-18_mentimeter_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-19_ImprovingPrivacy_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-21-Counting Ghosts_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-21_WebTorrent_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-22_haskellWasm_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-23-09-51-09_geoTools_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-23-09-51-09_geoTools_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-23-09-51-09_geoTools_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-23-09-51-09_geoTools_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-23-09-51-09_geoTools_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-23-09-51-09_geoTools_image_6.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-23-09-51-09_geoTools_image_7.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-26-Prophet_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-26-Prophet_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-26-Prophet_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-28_modernWebApplicationDevelopmentJavaScript_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-29-xml cheatSheet-Py_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-29-xml cheatSheet-Py_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-29-xml cheatSheet-Py_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-09-29_DetectAI-generatedText_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-03- Local-first Software You own your data, in spite of the cloud_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-08_JavascriptWithoutBuild_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-09_ElasticTextSearchPostgres_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-11_Red Blob Games_1_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-11_SQLReservedWords_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-13_Clippings_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-14_Documenting Police Tech in Our Communitieswith Open Source Research_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-14_GraphQL for .NET_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-15- online version of ffmpeg built on ffmpeg.wasm_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-16-Navidrome_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-16-Navidrome_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-16-Navidrome_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-16-Navidrome_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-16-Navidrome_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-16-Navidrome_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-17_3D Environment_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-18_IshkursGuidetoElectronicMusic_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-18_IshkursGuidetoElectronicMusic_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-18_IshkursGuidetoElectronicMusic_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-20-sounddialuppictured_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-24_Invoice to Sheet_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-10-24_InvoiceNet_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-01-websitesforprogrammers_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-01_HackersGuidetoGit_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-01_websitesforprogrammers_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-01_websitesforprogrammers_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-01_websitesforprogrammers_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-01_websitesforprogrammers_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-11_Bitcoin in Python_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-11_Browser Debugging_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-11_prettymaps_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-13- Open rigorous and reproducible research_ A practitioners handbook_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-13_PostGISDay2023_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-13_PostGISDay2023_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-13_feditrends_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-14-A modest JavaScript framework for the HTML you already have_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-14-A modest JavaScript framework for the HTML you already have_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-14_ FlaskTutorial_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-14_ FlaskTutorial_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-14_projecteuler_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-15_WasmByExample_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-17_CleanAnyWebpage_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-17_tensorli_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-22_Discover91CoolGPTs_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-22_Wasmv86Systems_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-22_Wasmv86Systems_image_10.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-22_Wasmv86Systems_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-22_Wasmv86Systems_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-22_Wasmv86Systems_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-22_Wasmv86Systems_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-22_Wasmv86Systems_image_6.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-22_Wasmv86Systems_image_7.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-22_Wasmv86Systems_image_8.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-22_Wasmv86Systems_image_9.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-25_DesktopEnvironmentBrowser_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-25_MinecraftReimplementation_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-25_dosdeck_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-25_dosdeck_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-25_dosdeck_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-28_HallucinationsLeaderboard_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-28_Maptiler_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-29_LernVideos_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-11-30_BuildingREPLPython_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-03_Excalidraw_sketch2Code_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-03_Excalidraw_sketch2Code_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-03_Excalidraw_sketch2Code_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-04_LLM_Visualizations_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-05_Termshark_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-08_PrototypeFund_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-09-HallucinationsLeaderBoard_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-09-Magicoder.. Source Code Is All You Need_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-09_GoogleChat_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-10-Trippy_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-10-Trippy_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-10-Trippy_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-10-Trippy_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-10_WasmEdge_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-10_bard_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-13_Solo_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-13_Solo_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-13_Solo_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-13_Solo_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-13_Solo_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-13_leafmap_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-13_leafmap_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-13_leafmap_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-13_leafmap_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-13_leafmap_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-14_delphi-ai_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-20_VisualizingTransformerLanguageModels_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-21-wireflow_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-21-wireflow_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-21-wireflow_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2023-12-21-wireflow_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "20231219172353_winampWeb.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "20231219172518_internetArchiveWinamp.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-07_TeachableMachine_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-07_TeachableMachine_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-07_glitch_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-13_notes_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-13_notes_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-18-Artemis_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-18-p5.js_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-18_kanbanBoard_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-19_browserchat_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-24_Flutter_Flet_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-24_Flutter_Flet_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-25_JAVA_JDK_2024_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-25_PaperAirplaneDesigns_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-25_compilinglinuxKernel_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-25_llmsherpa_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-25_ml-lib_videos_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-25_skikit_lern_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-25_sqlitefiddlewasm_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-27_Google Research_GooglesLumiere_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-28_hiscalearchitecture_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-28_placemarkEditor_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-01-29_HowToSpeak_MIT_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-01_Pyodide_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-01_Pyodide_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-02_PageBuilders_WebFlow_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-02_PageBuilders_WebFlow_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-02_PageBuilders_WebFlow_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-04-ioPaint_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-04-ioPaint_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-04-ioPaint_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-04_Website_GithubActionTemplate_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-06-AdGuard_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-06-AdGuard_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-08_BrowsercraftCheerpJ_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-08_BrowsercraftCheerpJ_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-08_MermaidLive Editor_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-08_MermaidLive Editor_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-08_MermaidLive Editor_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-08_openai_logocreator_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-08_openai_logocreator_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-10_droneFylLearnung18s_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-13_Astro_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-13_python_search_80Lines_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_10.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_11.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_12.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_13.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_14.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_15.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_16.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_17.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_6.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_7.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_8.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20-CryptPad_image_9.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20_LM_Studio_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20_LM_Studio_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20_LM_Studio_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20_LM_Studio_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20_SVG_Loading_Spinners_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20_TheNeuralNetworkZoo_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20_gpt4all_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20_gpt4all_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-20_visZoo_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-24-kiMusik_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-24-kiMusik_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-24-kiMusik_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-24-kiMusik_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-24_PGlitePostgresWASM_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-24_codemate_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-25_OpenSourceIntelligence_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-25_attantiontransformer_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-25_attantiontransformer_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-25_cartosvg_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-25_cartosvg_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-25_cartosvg_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-26-wasmdoom_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-26-wasmdoom_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-27-sandspiel_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-02-27_jupyterLite_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-03-01_Testcontainers_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-03-06_ebooks_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-03-06_online  Colab_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-03-06_online  Colab_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-03-06_rubics_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-03-07-eloquentjavascript_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-03-08-DaleCanegie_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-03-09-fingerprinting_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-03-09-fingerprinting_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-03-09_PianoPaper_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-03-22chronos-forecasting_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-03-28-scrapeOpenAi_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-01_py_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-04_obsidian Script_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-04_obsidian Script_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-07-database_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-07-database_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-07-database_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-07-database_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-07-database_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-07-database_image_6.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-07-database_image_7.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-09-The Concise TypeScript Book- A Concise Guide to Effective Development in TypeScript. Free and Open Source_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-09-py-Datascience_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-09-py-Datascience_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-09-py-Datascience_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-11-transformer.js_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-11-transformer.js_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-11-transformer.js_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-11-transformer.js_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-11-transformer.js_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-11-transformer.js_image_6.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-11-transformer.js_image_7.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-04-12_LearnDeepLearning_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-05-09-multimodalLLM_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-05-09-multimodalLLM_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-05-09-multimodalLLM_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-06-Create a landing page in seconds_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-06-Create a landing page in seconds_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-10-AIGenerators_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-10-AIGenerators_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-10-Data-Quality_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-10-Labor Market_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-10-Labor Market_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-10-PDF.ai_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-10-Research_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-10-Visualize Attention_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-10-Visualize Attention_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-10-atlas.nomic.ai_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-10-notbyai.fyi_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-10-undetectable.ai_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-10-undetectable.ai_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-12_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-12_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-12_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-12_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-12_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-18-website-generator_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-18-website-generator_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-18-website-generator_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-18-website-generator_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-18-website-generator_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-18-website-generator_image_6.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-18-website-generator_image_7.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-18-website-generator_image_8.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-18-website-generator_image_9.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-18_gartner_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-25-lemonsqueezy_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-25-lemonsqueezy_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-06-25-try-exalidraw_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-01-linux-backup_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-01-linux-backup_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-05-android-remote_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-05-android-remote_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-05-android-remote_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-05-android-remote_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-05-android-remote_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-07-nand2tetris_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-08-liveportrait_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-09TheDeadlockEmpire_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-12-consensus_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-12-consensus_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-12-suno_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-12-suno_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-12-suno_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-12-suno_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-12-suno_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-12-webvm_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-12-webvm_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-12_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-15-zapier_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-15-zapier_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-16-European_green_deal.pdf_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-16-Overleaf_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-16-Overleaf_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-16-Overleaf_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-16-Overleaf_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-16-blog-video_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-16-linkedin-proEngels_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-16-linkedin-proEngels_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-16-missuseAI_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-16-missuseAI_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-16_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-16_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-18-wargames_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-18-wargames_image_10.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-18-wargames_image_11.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-18-wargames_image_12.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-18-wargames_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-18-wargames_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-18-wargames_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-18-wargames_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-18-wargames_image_6.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-18-wargames_image_7.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-18-wargames_image_8.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-18-wargames_image_9.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-07-20-garage_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-08-08-aider_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-08-08-cursor_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-08-08-turing-post-twitter-lib_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-08-11-udio_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-08-12-pgwasm_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-08-18-pyscript_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-01-qrcode_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-01-qrcode_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-01-qrcode_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-04-fileDowloads-Pirate-block-list_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-04-fileDowloads-Pirate-block-list_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-04-fileDowloads-Pirate-block-list_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-04-fileDowloads-Pirate-block-list_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-04-fileDowloads-Pirate-block-list_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-04-fileDowloads-Pirate-block-list_image_6.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-04-fileDowloads-Pirate-block-list_image_7.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-05-AnythingLLM_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-05-Cyberchef_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-05-NSAToolSlides_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-10-learningProgramming_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-10-learningProgramming_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-10-learningProgramming_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-10-learningProgramming_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-10-learningProgramming_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-10-learningProgramming_image_6.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-10-learningProgramming_image_7.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-12svgedit_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-12svgedit_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-14-dnstool_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-14-iptvdramatv_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-15-scad_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-18-git-reduce-size_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-22-git-blog-repo-shrink_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-22-git-blog-repo-shrink_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-22-git-blog-repo-shrink_image_3.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-22-git-blog-repo-shrink_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-22-git-blog-repo-shrink_image_5.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-22-git-blog-repo-shrink_image_6.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-22-git-blog-repo-shrink_image_7.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "2024-09-22-git-blog-repo-shrink_image_8.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "20240123224120_llm_visualisation.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "20240123224120_llm_visualisation.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "20240124093601ghidraMario.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "20240124093903wpplay.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "20240204141508_ipgeo.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "20240220162413_wa.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "20240220162448wat.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "A collection of videos to showcase the magic alchemy of computation_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted Image 20240304145130_364.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted Image 20240304145130_364.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted Image 20240610203347_770.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted Image 20240610203347_770.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240118181701.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240118182637.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240129111217.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240129111217.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240129112300.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240129112300.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240129112300.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240129112300.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240131145924.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240131145924.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240131145924.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240131145924.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240131172844.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240131172844.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240202102904.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240202102904.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240202102929.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240202102929.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240204140859.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240204140859.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240204140925.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240204140925.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240204140947.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240204140947.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240204143316.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240204143316.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240210164808.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240210164808.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240220162845.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240220162845.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240220165425.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240220165425.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240220165458.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240220165458.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240220170241.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240220170241.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240220170249.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240220170249.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240221105510.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240221105510.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240221120448.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240221120448.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240222095404.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240303142823.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240303142823.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240414135825.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240606093854.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240606093854.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240606095120.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240606095120.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240606095120.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240606095120.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240610203227.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240610203227.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240625151258.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240716085739.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240716085739.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240808143955.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240918093728.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Pasted image 20240918093728.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "PastedImage20240220162230.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "PastedImage20240221110355.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Productive Thinking Model_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "Productive Thinking Model_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "grigora_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1708529325164_2024-01-25_PaperAirplaneDesigns_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1708529325164_2024-01-25_PaperAirplaneDesigns_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1708530238928_2023-11-25_dosdeck_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1708530238928_2023-11-25_dosdeck_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1708530252734_2023-11-25_dosdeck_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1708530252734_2023-11-25_dosdeck_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1708540007028_2023-09-18_CryptBoard_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1708540007028_2023-09-18_CryptBoard_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1708592664044_Clippings_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1708592664044_Clippings_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1709628336625_2024-02-27_sandspiel_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1709628336625_2024-02-27_sandspiel_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1709633988685_2024-02-25_attantiontransformer_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1709633988685_2024-02-25_attantiontransformer_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1709822541728_2023-11-13_PostGISDay2023_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1709822541728_2023-11-13_PostGISDay2023_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1717661471469_2023-09-18-18-17-08_illusion pages_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1717661471469_2023-09-18-18-17-08_illusion pages_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1718019858405_2024-06-10_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1718019858405_2024-06-10_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1718022600145_2024-06-10_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1718183804131_2024-06-12_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1720788272266_2024-07-12_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1720788272266_2024-07-12_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1721121958391_2024-07-01- linux_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1721121958391_2024-07-01- linux_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1721146477880_2024-02-24-kiMusik_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1721146477880_2024-02-24-kiMusik_image_4.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1721150412754_2023-10-16-Navidrome_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1721150412754_2023-10-16-Navidrome_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1725970745056_2024-09-10-learningProgramming_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1725970745056_2024-09-10-learningProgramming_image_2.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1725970773383_2024-09-10-learningProgramming_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1725970773383_2024-09-10-learningProgramming_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1725970787815_2024-09-10-learningProgramming_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "tmp1725970787815_2024-09-10-learningProgramming_image_1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "WhatsApp Bild 2024-06-25 um 14.06.49_54d6d7d1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D "WhatsApp Bild 2024-06-25 um 14.06.49_54d6d7d1.png" Obsidian.git
+java -jar bfg-1.14.0.jar -D  Obsidian.git
+```
+
+
+---
 `java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie"`
 
-bfg read file - not working 
+bfg read file - *not working*
 
 `java -jar bfg.jar --delete-files files-to-delete.txt repository.git`
 
@@ -664,10 +1214,13 @@ sub folder not possible
 
 `java -jar bfg.jar --delete-files Obsidian.git/allDeletedFilesPng.txt Obsidian.git`
 
+### git push update to origin 
 
 `git reflog expire --expire=now --all && git gc --prune=now --aggressive`
 
+
 `git push origin --force --all`
+`git push origin --force`
 
 
 ## PNG - Shirinking in JPG /  WEBP
@@ -678,15 +1231,15 @@ TODO -> PNG -> JPG / Webp + rename all Links
 jpg irfanview default, 80% quality
 
 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_6.jpg)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_8.jpg)
 
 Beispiel 2
 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_7.jpg)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_9.jpg)
 
 
 ### Problem Webp 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_8.jpg)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_10.jpg)
 
 #### Find relevant files
 
@@ -1201,7 +1754,7 @@ C:/src/github/Obsidian - Kopie/_asset\tmp1718183804131_2024-06-12_image_1.png
 ## check Webp in Obsidian + git yekyll SSG Page - okay working 
 
 
-![](../_asset/2024-09-22-git-blog-repo-shrink_image_9.webp)
+![](../_asset/2024-09-22-git-blog-repo-shrink_image_11.webp)
 
 
 ## Results
