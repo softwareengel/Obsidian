@@ -1,0 +1,570 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"_posts/Die besten kostenlosen Kurse f\303\274r K\303\274nstliche Intelligenz.md"
+"_posts/Die besten kostenlosen Kurse f\303\274r K\303\274nstliche Intelligenz.md"
+.obsidian/community-plugins.json
+.obsidian/plugins/obsidian-git/data.json
+.obsidian/plugins/obsidian-git/main.js
+.obsidian/plugins/obsidian-git/manifest.json
+.obsidian/plugins/obsidian-git/styles.css
+.obsidian_bak/app.json
+.obsidian_bak/app.json
+.obsidian_bak/appearance.json
+.obsidian_bak/appearance.json
+.obsidian_bak/community-plugins.json
+.obsidian_bak/community-plugins.json
+.obsidian_bak/core-plugins-migration.json
+.obsidian_bak/core-plugins-migration.json
+.obsidian_bak/core-plugins.json
+.obsidian_bak/core-plugins.json
+.obsidian_bak/graph.json
+.obsidian_bak/graph.json
+.obsidian_bak/plugins/obsidian-git/data.json
+.obsidian_bak/plugins/obsidian-git/data.json
+.obsidian_bak/plugins/obsidian-git/main.js
+.obsidian_bak/plugins/obsidian-git/main.js
+.obsidian_bak/plugins/obsidian-git/manifest.json
+.obsidian_bak/plugins/obsidian-git/manifest.json
+.obsidian_bak/plugins/obsidian-git/styles.css
+.obsidian_bak/plugins/obsidian-git/styles.css
+.obsidian_bak/templates.json
+.obsidian_bak/templates.json
+.obsidian_bak/workspace.json
+.obsidian_bak/workspace.json
+.trash/2024-02-24_githubcms.md
+.trash/2024-02-24_githubcms.md
+.trash/2024-03-04.md
+.trash/2024-03-04.md
+.trash/Untitled 2 2.md
+.trash/Untitled 2 2.md
+.trash/Untitled 2.md
+.trash/Untitled 2.md
+.trash/Untitled.md
+.trash/Untitled.md
+.trash/Wichtel.md
+.trash/Wichtel.md
+.trash_bak/_ass.md
+.trash_bak/_ass.md
+Excalidraw/2024-03-03 13.48.11.excalidraw.md
+Excalidraw/2024-03-03 13.55.32.excalidraw.md
+Excalidraw/2024-03-03 13.59.27.excalidraw.md
+Excalidraw/2024-03-03 13.59.27.excalidraw.md
+Excalidraw/2024-03-04 14.50.15.excalidraw.md
+Excalidraw/2024-03-04 15.04.49.excalidraw.md
+Excalidraw/2024-03-04 15.04.49.excalidraw.md
+Excalidraw/2024-03-04 20.03.25.excalidraw.md
+Excalidraw/2024-03-04 20.03.25.excalidraw.md
+Excalidraw/2024-03-05 16.42.21.excalidraw.md
+Excalidraw/2024-03-05 16.42.21.excalidraw.md
+Excalidraw/2024-06-10 20.33.38.excalidraw.md
+Excalidraw/2024-06-10 20.33.38.excalidraw.md
+T1.md
+Untitled 1.canvas
+Untitled 1.canvas
+Untitled.canvas
+Untitled.canvas
+Unused_Attachments.zip
+_asset/1f42694d77cdeeb96d14a8e15ee7ceec.jpg
+_asset/2023-10-16-Navidrome_image_3.png
+_asset/2023-10-16-Navidrome_image_3.png
+_asset/2023-11-01-websitesforprogrammers_image_1.webp
+_asset/2023-11-01_websitesforprogrammers_image_1.png
+_asset/2023-11-01_websitesforprogrammers_image_1.png
+_asset/2023-11-13_PostGISDay2023_image_1.png
+_asset/2023-11-14_ FlaskTutorial_image_1.png
+_asset/2024-01-13_notes_image_1.jpg
+_asset/2024-06-25-lemonsqueezy_image_1.png
+_asset/2024-07-15-zapier_image_1.png
+_asset/2024-09-22-git-blog-repo-shrink_image_2.jpg
+_asset/2024-09-22-git-blog-repo-shrink_image_2.webp
+_asset/20240123224120_llm_visualisation.png
+_asset/20240509_115613 1 1.jpg
+_asset/20240509_115613 1.jpg
+_asset/20240509_115613.jpg
+_asset/2e674ad996ff4a98377e7d97f9916c13.jpg
+_asset/OBSBOT_TINY_4K_DB-DE.pdf
+_asset/Pasted Image 20240304145130_364.png
+_asset/Pasted Image 20240610203347_770.png
+_asset/Pasted image 20240129111217.png
+_asset/Pasted image 20240129112300.png
+_asset/Pasted image 20240129112300.png
+_asset/Pasted image 20240131145924.png
+_asset/Pasted image 20240131145924.png
+_asset/Pasted image 20240131172844.png
+_asset/Pasted image 20240202102904.png
+_asset/Pasted image 20240202102929.png
+_asset/Pasted image 20240204140859.png
+_asset/Pasted image 20240204140925.png
+_asset/Pasted image 20240204140947.png
+_asset/Pasted image 20240204143316.png
+_asset/Pasted image 20240210164808.png
+_asset/Pasted image 20240220162845.png
+_asset/Pasted image 20240220165425.png
+_asset/Pasted image 20240220165458.png
+_asset/Pasted image 20240220170241.png
+_asset/Pasted image 20240220170249.png
+_asset/Pasted image 20240221105510.png
+_asset/Pasted image 20240221120448.png
+_asset/Pasted image 20240303142823.png
+_asset/Pasted image 20240606093854.png
+_asset/Pasted image 20240606095120.png
+_asset/Pasted image 20240606095120.png
+_asset/Pasted image 20240610203227.png
+_asset/Pasted image 20240716085739.png
+_asset/Pasted image 20240918093728.png
+_asset/Screenshot_20231209_162619_Brave 1 1.jpg
+_asset/Screenshot_20231209_162619_Brave 1.jpg
+_asset/Screenshot_20231209_162619_Brave.jpg
+_asset/Screenshot_20231209_163517_Obsidian.jpg
+_asset/Screenshot_20231209_164656_Obsidian.jpg
+_asset/Screenshot_20240130_194300_Brave.jpg
+_asset/Screenshot_20240207_181414_Kiwi Browser 1.jpg
+_asset/Screenshot_20240223_181529_Brave 1.jpg
+_asset/Screenshot_20240511_104930_Brave 1.jpg
+_asset/c538507520e4c2c13dcfcd26d4335bf3.jpg
+_asset/e227478f61f575e8b95c25a30905c6a9.jpg
+_asset/f5fd54f90f685540e94e64a8101606d7.jpg
+_asset/tmp1708529325164_2024-01-25_PaperAirplaneDesigns_image_1.png
+_asset/tmp1708530238928_2023-11-25_dosdeck_image_1.png
+_asset/tmp1708530252734_2023-11-25_dosdeck_image_1.png
+_asset/tmp1708540007028_2023-09-18_CryptBoard_image_1.png
+_asset/tmp1708592664044_Clippings_image_1.png
+_asset/tmp1709628336625_2024-02-27_sandspiel_image_1.png
+_asset/tmp1709633988685_2024-02-25_attantiontransformer_image_1.png
+_asset/tmp1709822541728_2023-11-13_PostGISDay2023_image_1.png
+_asset/tmp1717661471469_2023-09-18-18-17-08_illusion pages_image_1.png
+_asset/tmp1718019858405_2024-06-10_image_1.png
+_asset/tmp1720788272266_2024-07-12_image_1.png
+_asset/tmp1721121958391_2024-07-01- linux_image_2.png
+_asset/tmp1721133091308_2024-05-09_image_4.jpg
+_asset/tmp1721146477880_2024-02-24-kiMusik_image_4.png
+_asset/tmp1721150412754_2023-10-16-Navidrome_image_1.png
+_asset/tmp1725970745056_2024-09-10-learningProgramming_image_2.png
+_asset/tmp1725970773383_2024-09-10-learningProgramming_image_1.png
+_asset/tmp1725970787815_2024-09-10-learningProgramming_image_1.png
+_posts/2023-09-18-16-34-57.md
+_posts/2023-09-18-16-34-57_Leafmap.md
+_posts/2023-09-18-18-27-54.md
+_posts/2023-09-18-18-30-25.md
+_posts/2023-09-18-18-31-45.md
+_posts/2023-09-18-18-32-26.md
+_posts/2023-09-18-18-36-56.md
+_posts/2023-09-18-18-49-21.md
+_posts/2023-09-18-18-50-35.md
+_posts/2023-09-18-18-50-56.md
+_posts/2023-09-18-18-51-58.md
+_posts/2023-09-18-18-52-36.md
+_posts/2023-09-18-18-54-07.md
+_posts/2023-09-18-18-55-20.md
+_posts/2023-09-18-18-56-53.md
+_posts/2023-09-18-18-57-11.md
+_posts/2023-09-18-18-57-49.md
+_posts/2023-09-18-19-15-58.md
+_posts/2023-09-18-19-15-58.md
+_posts/2023-09-18-19-16-33.md
+_posts/2023-09-18-19-26-38.md
+_posts/2023-09-18-19-27-59.md
+_posts/2023-09-18-19-27-59.md
+_posts/2023-09-18-19-31-13.md
+_posts/2023-09-18-20-04-06.md
+_posts/2023-09-18-20-04-31.md
+_posts/2023-09-18-20-05-39.md
+_posts/2023-09-18-20-09-33.md
+_posts/2023-09-18-20-34-18.md
+_posts/2023-09-22-AnyBT.md
+_posts/2023-09-22-AnyBT.md
+_posts/2023-09-23-09-51-09.md
+_posts/2023-09-26_collection_videos_programming_history.md
+_posts/2023-10-24-08-51-45.md
+_posts/2023-11-11-11-06-28.md
+_posts/2023-11-11-11-06-28.md
+_posts/2023-11-21-08-37-00.md
+_posts/2023-11-21-08-37-00.md
+_posts/2023-12-09 1.md
+_posts/2023-12-09 networkx.md
+_posts/2023-12-09 networkx.md
+_posts/2023-12-09 t6.md
+_posts/2023-12-09 test.md
+_posts/2023-12-09-19-26-47.md
+_posts/2023-12-09-19-26-47.md
+_posts/2023-12-09-Hallucinations.md
+_posts/2023-12-09-Hallucinations.md
+_posts/2023-12-09.md
+_posts/2023-12-12.md
+_posts/2023-12-14.md
+_posts/2023-12-16.md
+_posts/2023-12-17.md
+_posts/2023-12-17.md
+_posts/2023-12-17_re-bt-le.md
+_posts/2023-12-17_re-bt-le.md
+_posts/2023-12-20.md
+_posts/2023-12-22.md
+_posts/2024-01-07.md
+_posts/2024-01-11.md
+_posts/2024-01-18.md
+_posts/2024-01-18_kanban.md
+_posts/2024-01-25.md
+_posts/2024-01-30.md
+_posts/2024-02-02_leaflet_log.md
+_posts/2024-02-06.md
+_posts/2024-02-08.md
+_posts/2024-02-20visZoo.md
+_posts/2024-02-21GeminiPro.md
+_posts/2024-02-21GeminiPro.md
+_posts/2024-02-25attantiontransformer.md
+_posts/2024-02-25attantiontransformer.md
+_posts/2024-02-25cartosvg.md
+_posts/2024-02-25cartosvg.md
+_posts/2024-02-25gemma.md
+_posts/2024-02-25gemma.md
+_posts/2024-02-25osint.md
+_posts/2024-02-25osint.md
+_posts/2024-02-27.md
+_posts/2024-02-27.md
+_posts/2024-03-04.md
+_posts/2024-03-04.md
+_posts/2024-03-09.md
+_posts/2024-03-09.md
+_posts/2024-03-28scrapeOpenAi.md
+_posts/2024-03-28scrapeOpenAi.md
+_posts/2024-04-07_database.md
+_posts/2024-04-07_database.md
+_posts/2024-05-04momo.md
+_posts/2024-05-04momo.md
+_posts/2024-05-09.md
+_posts/2024-05-09.md
+_posts/2024-05-09bildgeneratoren.md
+_posts/2024-05-09bildgeneratoren.md
+_posts/2024-05-11iit.md
+_posts/2024-05-11iit.md
+_posts/2024-05-18js.md
+_posts/2024-05-18js.md
+_posts/2024-06-10-bpmn.md
+_posts/2024-06-10-bpmn.md
+_posts/2024-06-20.md
+_posts/2024-06-20.md
+_posts/2024-06-21-3dmesh.md
+_posts/2024-06-21-3dmesh.md
+_posts/2024-06-25-IoPaint.md
+_posts/2024-06-25-IoPaint.md
+_posts/2024-06-25.md
+_posts/2024-06-25.md
+_posts/2024-06-27-eliza.md
+_posts/2024-06-27-eliza.md
+_posts/2024-06-27coach.md
+_posts/2024-06-27coach.md
+_posts/2024-07-06- ve-Image.md
+_posts/2024-07-06- ve-Image.md
+_posts/2024-07-08.md
+_posts/2024-07-08.md
+_posts/2024-07-09.md
+_posts/2024-07-09.md
+_posts/2024-07-09TheDeadlockEmpire.md
+_posts/2024-07-09TheDeadlockEmpire.md
+_posts/2024-07-11py.md
+_posts/2024-07-11py.md
+_posts/2024-07-16missuse.md
+_posts/2024-07-16missuse.md
+_posts/2024-07-20garage.md
+_posts/2024-07-20garage.md
+_posts/2024-08-08.md
+_posts/2024-08-08.md
+_posts/2024-08-12.md
+_posts/2024-08-12.md
+_posts/2024-08-18pyscript.md
+_posts/2024-08-18pyscript.md
+_posts/2024-09-01qrcode.md
+_posts/2024-09-01qrcode.md
+_posts/2024-09-03videocourses.md
+_posts/2024-09-03videocourses.md
+_posts/2024-09-04-fileDowlaods.md
+_posts/2024-09-04-fileDowlaods.md
+_posts/2024-09-04-fileDowloads.md
+_posts/2024-09-04-fileDowloads.md
+_posts/2024-09-05-Cyberchef.md
+_posts/2024-09-05-Cyberchef.md
+_posts/2024-09-05NSAToolSlides.md
+_posts/2024-09-05NSAToolSlides.md
+_posts/2024-09-05NSAToolSlides.md
+_posts/2024-09-05NSAToolSlides.md
+_posts/2024-09-10-learningProgramming.md
+_posts/2024-09-10-learningProgramming.md
+_posts/2024-09-12svgedit.md
+_posts/2024-09-12svgedit.md
+_posts/2024-09-14dnstool.md
+_posts/2024-09-14dnstool.md
+_posts/2024-09-14iptv.md
+_posts/2024-09-14iptv.md
+_posts/2024-09-14iptvdramatv.md
+_posts/2024-09-14iptvdramatv.md
+_posts/2024-09-15chess.md
+_posts/2024-09-15chess.md
+_posts/2024-09-15scad.md
+_posts/2024-09-15scad.md
+_posts/2024-09-15searchai.md
+_posts/2024-09-15searchai.md
+_posts/2024-09-17pplm.md
+_posts/2024-09-17pplm.md
+_posts/A 12 Lesson course teaching everything you need to know to start building Generative AI applications.md
+_posts/A 12 Lesson course teaching everything you need to know to start building Generative AI applications.md
+_posts/A BLAZINGLY FAST HUGO CMS APP.md
+_posts/A BLAZINGLY FAST HUGO CMS APP.md
+_posts/A collection of stand-alone Python machine learning recipe.md
+_posts/A collection of stand-alone Python machine learning recipe.md
+_posts/A collection of videos to showcase the magic alchemy of computation.md
+_posts/A curated list of engineering blogs.md
+_posts/A curated list of engineering blogs.md
+_posts/A modest JavaScript framework for the HTML you already have.md
+_posts/A modest JavaScript framework for the HTML you already have.md
+_posts/CS229 - Machine Learning.md
+_posts/Chatgpt Team member.md
+_posts/Clean any webpage.md
+_posts/Create a landing page in seconds.md
+_posts/Create a landing page in seconds.md
+_posts/CryptBoard - encrypted anonymous internet clipboard.md
+_posts/CryptBoard - encrypted anonymous internet clipboard.md
+_posts/CryptBoard - encrypted anonymous internet clipboard_1.md
+_posts/Discover trending open-source projectsand their alternatives.md
+_posts/Discover trending open-source projectsand their alternatives.md
+_posts/Documenting Police Tech in Our Communitieswith Open Source Research.md
+_posts/Excalidraw.md
+_posts/Exercism.md
+_posts/Exercism.md
+_posts/Flutter und.md
+_posts/Generative AI for Beginners - A Course.md
+_posts/Generative AI for Beginners - A Course.md
+_posts/Generative AI for Beginners - A Course.md
+_posts/Get SH-T Done with Prompt Engineering and LangChain-1.md
+_posts/Get SH-T Done with Prompt Engineering and LangChain-1.md
+_posts/Get SH-T Done with Prompt Engineering and LangChain-1.md
+_posts/How I built a MVP in 14 hours.md
+_posts/How I built a MVP in 14 hours.md
+_posts/Ideen privat.md
+_posts/Introducing Solo.md
+_posts/Introducing Solo.md
+_posts/Invoice to Sheet.md
+_posts/Ishkur's Guide to Electronic Music.md
+_posts/Ishkur's Guide to Electronic Music.md
+_posts/Ishkurs Guide to Electronic Music.md
+_posts/Ishkurs Guide to Electronic Music.md
+_posts/Leasingmarkt.de.md
+_posts/Leasingmarkt.de.md
+_posts/Libera Chat.md
+_posts/Libera Chat.md
+_posts/Local-first Software You own your data, in spite of the cloud.md
+_posts/Local-first Software You own your data, in spite of the cloud.md
+_posts/Machine Learning for Beginners - A Curriculum.md
+_posts/Machine Learning for Beginners - A Curriculum.md
+_posts/Magicoder.. Source Code Is All You Need.md
+_posts/Magicoder.. Source Code Is All You Need.md
+_posts/Matplotlib_ Visualization with Python.md
+_posts/Matplotlib_ Visualization with Python.md
+_posts/Post 1.md
+_posts/Post Tag 1.md
+_posts/Prototype Fund.md
+_posts/Schleich 70152 - Eldrador, Schattendrache, Spielfigur.md
+_posts/Schleich 70152 - Eldrador, Schattendrache, Spielfigur.md
+_posts/SinglePaged - Simple Jekyll template_1.md
+_posts/SinglePaged - Simple Jekyll template_1.md
+_posts/Sparplan.md
+_posts/SuperDuperDB_1.md
+_posts/T4.md
+_posts/T5.md
+_posts/Test 3.md
+_posts/The fastest way to learn OpenCV, Object Detection, and Deep Learning.md
+_posts/The fastest way to learn OpenCV, Object Detection, and Deep Learning.md
+_posts/Today I Learned.md
+_posts/Today I Learned.md
+_posts/Untitled 1.md
+_posts/Untitled 1.md
+_posts/Untitled 1.md
+_posts/Untitled 2.md
+_posts/Untitled 2.md
+_posts/Untitled 2.md
+_posts/Untitled 3.md
+_posts/Untitled 4.md
+_posts/Untitled 5.md
+_posts/Untitled 6.md
+_posts/Untitled 7.md
+_posts/Untitled.md
+_posts/Untitled.md
+_posts/Untitled.md
+_posts/Untitled.md
+_posts/Untitled.md
+_posts/Untitled.md
+_posts/Untitled.md
+_posts/Visual Anagrams.md
+_posts/Visual Anagrams.md
+_posts/Wasm Systems.md
+_posts/Wasm Systems.md
+_posts/Wasm.md
+_posts/Web apps in pure Python.md
+_posts/Wichtel.md
+_posts/Wichtel.md
+_posts/dosdeck.md
+_posts/dosdeck.md
+_posts/draw.md
+_posts/draw.md
+_posts/online version of ffmpeg built on ffmpeg.wasm.md
+_posts/online version of ffmpeg built on ffmpeg.wasm.md
+_posts/pytudes.md
+_posts/pytudes.md
+_posts/wat2wasm demo.md
+_posts/x86 virtualization in your browser, recompiling x86 to wasm on the fly.md
+_template/Untitled.md
+assets/images/WhatsApp Bild 2024-06-25 um 14.06.49_54d6d7d1.jpg
+assets/images/WhatsApp Bild 2024-06-25 um 14.06.49_54d6d7d1.png
+assets/images/WhatsApp Bild 2024-06-25 um 14.06.49_54d6d7d1.webp
+assets/images/bio-photo.jpg
+assets/images/bio-photo.jpg.bak.jpg
+broken links output.md
+orphaned files output.md
