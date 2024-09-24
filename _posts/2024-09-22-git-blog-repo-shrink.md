@@ -637,17 +637,34 @@ engels@DESKTOP-P2OAOQD MINGW64 ~/Downloads/gittest/Obsidian.git (BARE:main)
 $ git push
 Enumerating objects: 4499, done.
 ```
-### BFG 2
+### BFG 2. Versuch 
+
+git clone bare 
+
+`git clone --mirror https://github.com/softwareengel/Obsidian.git`
+
 
 find all unused jpg files 
 
 `git log --all --pretty=format: --name-only --diff-filter=D |grep '\.jpg'| sort >allDeletedFilesJpg.txt`
 
+find all png files
+
+`git log --all --pretty=format: --name-only --diff-filter=D |grep '\.png'| sort >allDeletedFilespng.txt`
 
 
 `java -jar bfg-1.14.0.jar -D 1f42694d77cdeeb96d14a8e15ee7ceec.jpg "Obsidian - Kopie"`
 
-` git reflog expire --expire=now --all && git gc --prune=now --aggressive`
+bfg read file - not working 
+
+`java -jar bfg.jar --delete-files files-to-delete.txt repository.git`
+
+sub folder not possible 
+
+`java -jar bfg.jar --delete-files Obsidian.git/allDeletedFilesPng.txt Obsidian.git`
+
+
+`git reflog expire --expire=now --all && git gc --prune=now --aggressive`
 
 `git push origin --force --all`
 
@@ -672,7 +689,513 @@ Beispiel 2
 
 #### Find relevant files
 
+## Python converter and renamer 
 
+https://gist.github.com/juanbretti/7f3dfc98b39e3d4216c275232a56305c
+
+#### conda venv 
+https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/
+```
+(base) PS C:\src\py_hacks> conda -V
+conda 24.1.0
+(base) PS C:\src\py_hacks> conda create -n git-shrink python=3.12 
+Retrieving notices: ...working... done
+Channels:
+ - defaults
+Platform: win-64
+Collecting package metadata (repodata.json): done
+Solving environment: done
+
+## Package Plan ##
+
+  environment location: C:\Users\engels\.conda\envs\git-shrink
+
+  added / updated specs:
+    - python=3.12
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    setuptools-75.1.0          |  py312haa95532_0         2.2 MB
+    ------------------------------------------------------------
+                                           Total:         2.2 MB
+
+The following NEW packages will be INSTALLED:
+
+  bzip2              pkgs/main/win-64::bzip2-1.0.8-h2bbff1b_6
+  ca-certificates    pkgs/main/win-64::ca-certificates-2024.7.2-haa95532_0
+  expat              pkgs/main/win-64::expat-2.6.3-h5da7b33_0
+  libffi             pkgs/main/win-64::libffi-3.4.4-hd77b12b_1
+  openssl            pkgs/main/win-64::openssl-3.0.15-h827c3e9_0
+  pip                pkgs/main/win-64::pip-24.2-py312haa95532_0
+  python             pkgs/main/win-64::python-3.12.5-h14ffc60_1
+  setuptools         pkgs/main/win-64::setuptools-75.1.0-py312haa95532_0
+  sqlite             pkgs/main/win-64::sqlite-3.45.3-h2bbff1b_0
+  tk                 pkgs/main/win-64::tk-8.6.14-h0416ee5_0
+  tzdata             pkgs/main/noarch::tzdata-2024a-h04d1e81_0
+  vc                 pkgs/main/win-64::vc-14.40-h2eaa2aa_1
+  vs2015_runtime     pkgs/main/win-64::vs2015_runtime-14.40.33807-h98bb1dd_1
+  wheel              pkgs/main/win-64::wheel-0.44.0-py312haa95532_0
+  xz                 pkgs/main/win-64::xz-5.4.6-h8cc25b3_1
+  zlib               pkgs/main/win-64::zlib-1.2.13-h8cc25b3_1
+
+
+Proceed ([y]/n)? y
+
+
+Downloading and Extracting Packages:
+
+Preparing transaction: done
+Verifying transaction: done
+Executing transaction: done
+#
+# To activate this environment, use       
+#
+#     $ conda activate git-shrink
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+```
+
+#### Pillow
+
+```
+conda install pillow
+`pip install pillow`
+
+[https://pypi.org/project/pillow/](https://pypi.org/project/pillow/)
+```
+
+
+### PY Result
+```
+(git-shrink) PS C:\src\py_hacks>  c:; cd 'c:\src\py_hacks'; & 'c:\Users\engels\.conda\envs\git-shrink\python.exe' 'c:\Users\engels\.vscode\extensions\ms-python.debugpy-2024.10.0-win32-x64\bundled\libs\debugpy\adapter/../..\debugpy\launcher' '53764' '--' 'c:\src\py_hacks\git-repo-shrink\testrun.py'
+Directory exists
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18 WordPressPlayground_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18 WordPressPlayground_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18 WordPressPlayground_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18 WordPressPlayground_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-18-15-53_Chrome DevTools Protocol_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-18-16-32-PYOBD_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-18-17-08_illusion pages_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-18-31-45_Puckeditor_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-18-47-46_securityheaders_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-18-49-21_Random picker wheel_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-18-50-35_ARSnova_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-18-50-56-tweedback_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-18-50-56-tweedback_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-18-54-07_webvm_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-18-56-53_Devtoolstips_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-19-26-38_WtfPython_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-19-28-30-SweetHome3D_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-20-04-31_Radware Live Threat Map_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-20-30-54_webcam_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-20-34-18_revealjs_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-20-34-18_revealjs_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-CryptBoard_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-CryptBoard_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-Development-of-the-C-Language_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-Exploit Database_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-JSLinux_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-JSLinux_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-JSLinux_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-JSLinux_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-Knots_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-listEngineeringBlogs_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-listEngineeringBlogs_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-n8n_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-Pytudes_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-surfaceLinux_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-swisarmysknife_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-x86-wasm-recompile-browser_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18-x86-wasm-recompile-browser_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_BiggestDataHacks_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_BLAZINGLYFASTHUGOCMSAPP_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_BLAZINGLYFASTHUGOCMSAPP_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_BriefcasePy_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_digitalattackmap_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_DiscoverOSSprojects_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_internetABCLernmodule_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_LiberaChat_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_LiberaChat_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_mentimeter_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_ModernJavaScriptTutorial_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_ModernJavaScriptTutorial_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_OpenMoji_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_ScienceTricksKids_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_ScienceTricksKids_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_TLauncher_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_WorkshopSpielefinden_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_YourAttentionWasStolen_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_YourAttentionWasStolen_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-18_Zeitreihenanalyse_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-19_ImprovingPrivacy_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-21-Counting Ghosts_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-21_WebTorrent_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-22_haskellWasm_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-23-09-51-09_geoTools_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-23-09-51-09_geoTools_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-23-09-51-09_geoTools_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-23-09-51-09_geoTools_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-23-09-51-09_geoTools_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-23-09-51-09_geoTools_image_6.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-23-09-51-09_geoTools_image_7.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-26-Prophet_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-26-Prophet_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-26-Prophet_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-28_modernWebApplicationDevelopmentJavaScript_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-29-xml cheatSheet-Py_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-29-xml cheatSheet-Py_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-29-xml cheatSheet-Py_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-09-29_DetectAI-generatedText_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-03- Local-first Software You own your data, in spite of the cloud_image_1.pngC:/src/github/Obsidian - Kopie/_asset\2023-10-08_JavascriptWithoutBuild_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-09_ElasticTextSearchPostgres_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-11_Red Blob Games_1_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-11_SQLReservedWords_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-13_Clippings_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-14_Documenting Police Tech in Our Communitieswith Open Source Research_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-14_GraphQL for .NET_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-15- online version of ffmpeg built on ffmpeg.wasm_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-16-Navidrome_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-16-Navidrome_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-17_3D Environment_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-18_IshkursGuidetoElectronicMusic_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-18_IshkursGuidetoElectronicMusic_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-18_IshkursGuidetoElectronicMusic_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-20-sounddialuppictured_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-24_Invoice to Sheet_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-10-24_InvoiceNet_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-01-websitesforprogrammers_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-01_HackersGuidetoGit_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-11_Bitcoin in Python_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-11_Browser Debugging_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-11_prettymaps_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-13- Open rigorous and reproducible research_ A practitioners handbook_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-13_feditrends_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-14-A modest JavaScript framework for the HTML you already have_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-14-A modest JavaScript framework for the HTML you already have_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-14_projecteuler_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-15_WasmByExample_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-17_CleanAnyWebpage_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-17_tensorli_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-22_Discover91CoolGPTs_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-22_Wasmv86Systems_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-22_Wasmv86Systems_image_10.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-22_Wasmv86Systems_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-22_Wasmv86Systems_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-22_Wasmv86Systems_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-22_Wasmv86Systems_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-22_Wasmv86Systems_image_6.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-22_Wasmv86Systems_image_7.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-22_Wasmv86Systems_image_8.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-22_Wasmv86Systems_image_9.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-25_DesktopEnvironmentBrowser_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-25_dosdeck_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-25_dosdeck_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-25_dosdeck_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-25_MinecraftReimplementation_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-28_HallucinationsLeaderboard_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-28_Maptiler_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-29_LernVideos_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-11-30_BuildingREPLPython_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-03_Excalidraw_sketch2Code_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-03_Excalidraw_sketch2Code_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-03_Excalidraw_sketch2Code_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-04_LLM_Visualizations_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-05_Termshark_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-08_PrototypeFund_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-09-HallucinationsLeaderBoard_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-09-Magicoder.. Source Code Is All You Need_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-09_GoogleChat_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-10-Trippy_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-10-Trippy_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-10-Trippy_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-10-Trippy_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-10_bard_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-10_WasmEdge_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-13_leafmap_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-13_leafmap_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-13_leafmap_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-13_leafmap_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-13_leafmap_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-13_Solo_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-13_Solo_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-13_Solo_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-13_Solo_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-13_Solo_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-14_delphi-ai_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-20_VisualizingTransformerLanguageModels_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-21-wireflow_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-21-wireflow_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-21-wireflow_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2023-12-21-wireflow_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\20231219172353_winampWeb.png
+C:/src/github/Obsidian - Kopie/_asset\20231219172518_internetArchiveWinamp.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-07_glitch_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-07_TeachableMachine_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-07_TeachableMachine_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-13_notes_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-13_notes_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-18-Artemis_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-18-p5.js_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-18_kanbanBoard_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-19_browserchat_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-24_Flutter_Flet_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-24_Flutter_Flet_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-25_compilinglinuxKernel_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-25_JAVA_JDK_2024_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-25_llmsherpa_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-25_ml-lib_videos_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-25_PaperAirplaneDesigns_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-25_skikit_lern_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-25_sqlitefiddlewasm_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-27_Google Research_GooglesLumiere_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-28_hiscalearchitecture_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-28_placemarkEditor_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-01-29_HowToSpeak_MIT_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-01_Pyodide_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-01_Pyodide_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-02_PageBuilders_WebFlow_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-02_PageBuilders_WebFlow_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-02_PageBuilders_WebFlow_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-04-ioPaint_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-04-ioPaint_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-04-ioPaint_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-04_Website_GithubActionTemplate_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-06-AdGuard_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-06-AdGuard_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-08_BrowsercraftCheerpJ_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-08_BrowsercraftCheerpJ_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-08_MermaidLive Editor_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-08_MermaidLive Editor_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-08_MermaidLive Editor_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-08_openai_logocreator_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-08_openai_logocreator_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-10_droneFylLearnung18s_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-13_Astro_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-13_python_search_80Lines_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_10.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_11.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_12.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_13.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_14.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_15.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_16.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_17.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_6.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_7.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_8.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20-CryptPad_image_9.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20_gpt4all_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20_gpt4all_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20_LM_Studio_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20_LM_Studio_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20_LM_Studio_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20_LM_Studio_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20_SVG_Loading_Spinners_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20_TheNeuralNetworkZoo_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-20_visZoo_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-24-kiMusik_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-24-kiMusik_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-24-kiMusik_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-24-kiMusik_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-24_codemate_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-24_PGlitePostgresWASM_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-25_attantiontransformer_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-25_attantiontransformer_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-25_cartosvg_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-25_cartosvg_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-25_cartosvg_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-25_OpenSourceIntelligence_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-26-wasmdoom_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-26-wasmdoom_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-27-sandspiel_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-02-27_jupyterLite_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-03-01_Testcontainers_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-03-06_ebooks_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-03-06_online  Colab_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-03-06_online  Colab_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-03-06_rubics_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-03-07-eloquentjavascript_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-03-08-DaleCanegie_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-03-09-fingerprinting_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-03-09-fingerprinting_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-03-09_PianoPaper_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-03-22chronos-forecasting_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-03-28-scrapeOpenAi_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-01_py_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-04_obsidian Script_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-04_obsidian Script_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-07-database_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-07-database_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-07-database_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-07-database_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-07-database_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-07-database_image_6.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-07-database_image_7.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-09-py-Datascience_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-09-py-Datascience_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-09-py-Datascience_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-09-The Concise TypeScript Book- A Concise Guide to Effective Development in TypeScript. Free and Open Source_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-11-transformer.js_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-11-transformer.js_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-11-transformer.js_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-11-transformer.js_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-11-transformer.js_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-11-transformer.js_image_6.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-11-transformer.js_image_7.png
+C:/src/github/Obsidian - Kopie/_asset\2024-04-12_LearnDeepLearning_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-05-09-multimodalLLM_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-05-09-multimodalLLM_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-05-09-multimodalLLM_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-06-Create a landing page in seconds_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-06-Create a landing page in seconds_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-AIGenerators_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-AIGenerators_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-atlas.nomic.ai_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-Data-Quality_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-Labor Market_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-Labor Market_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-notbyai.fyi_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-PDF.ai_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-Research_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-undetectable.ai_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-undetectable.ai_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-Visualize Attention_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-Visualize Attention_image_2.gif
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-Visualize Attention_image_3.gif
+C:/src/github/Obsidian - Kopie/_asset\2024-06-10-Visualize Attention_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-12_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-12_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-12_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-12_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-12_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-18-website-generator_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-18-website-generator_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-18-website-generator_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-18-website-generator_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-18-website-generator_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-18-website-generator_image_6.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-18-website-generator_image_7.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-18-website-generator_image_8.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-18-website-generator_image_9.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-18_gartner_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-06-25-try-exalidraw_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-01-linux-backup_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-01-linux-backup_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-05-android-remote_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-05-android-remote_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-05-android-remote_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-05-android-remote_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-05-android-remote_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-07-nand2tetris_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-08-liveportrait_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-09TheDeadlockEmpire_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-12-consensus_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-12-consensus_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-12-suno_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-12-suno_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-12-suno_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-12-suno_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-12-suno_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-12-webvm_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-12-webvm_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-12_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-16-blog-video_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-16-European_green_deal.pdf_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-16-linkedin-proEngels_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-16-linkedin-proEngels_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-16-missuseAI_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-16-missuseAI_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-16-Overleaf_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-16-Overleaf_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-16-Overleaf_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-16-Overleaf_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-16_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-16_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-18-wargames_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-18-wargames_image_10.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-18-wargames_image_11.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-18-wargames_image_12.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-18-wargames_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-18-wargames_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-18-wargames_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-18-wargames_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-18-wargames_image_6.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-18-wargames_image_7.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-18-wargames_image_8.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-18-wargames_image_9.png
+C:/src/github/Obsidian - Kopie/_asset\2024-07-20-garage_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-08-08-aider_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-08-08-cursor_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-08-08-turing-post-twitter-lib_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-08-11-udio_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-08-12-pgwasm_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-08-18-pyscript_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-01-qrcode_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-01-qrcode_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-01-qrcode_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-04-fileDowloads-Pirate-block-list_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-04-fileDowloads-Pirate-block-list_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-04-fileDowloads-Pirate-block-list_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-04-fileDowloads-Pirate-block-list_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-04-fileDowloads-Pirate-block-list_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-04-fileDowloads-Pirate-block-list_image_6.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-04-fileDowloads-Pirate-block-list_image_7.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-05-AnythingLLM_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-05-Cyberchef_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-05-NSAToolSlides_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-10-learningProgramming_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-10-learningProgramming_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-10-learningProgramming_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-10-learningProgramming_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-10-learningProgramming_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-10-learningProgramming_image_6.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-10-learningProgramming_image_7.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-12svgedit_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-12svgedit_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-14-dnstool_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-14-iptvdramatv_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-15-scad_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-18-git-reduce-size_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-22-git-blog-repo-shrink_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-22-git-blog-repo-shrink_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-22-git-blog-repo-shrink_image_3.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-22-git-blog-repo-shrink_image_4.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-22-git-blog-repo-shrink_image_5.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-22-git-blog-repo-shrink_image_6.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-22-git-blog-repo-shrink_image_7.png
+C:/src/github/Obsidian - Kopie/_asset\2024-09-22-git-blog-repo-shrink_image_8.png
+C:/src/github/Obsidian - Kopie/_asset\20240124093601ghidraMario.png
+C:/src/github/Obsidian - Kopie/_asset\20240124093903wpplay.png
+C:/src/github/Obsidian - Kopie/_asset\20240204141508_ipgeo.png
+C:/src/github/Obsidian - Kopie/_asset\20240220162413_wa.png
+C:/src/github/Obsidian - Kopie/_asset\20240220162448wat.png
+C:/src/github/Obsidian - Kopie/_asset\A collection of videos to showcase the magic alchemy of computation_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\grigora_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\Pasted image 20240118181701.png
+C:/src/github/Obsidian - Kopie/_asset\Pasted image 20240118182637.png
+C:/src/github/Obsidian - Kopie/_asset\Pasted image 20240222095404.png
+C:/src/github/Obsidian - Kopie/_asset\Pasted image 20240414135825.png
+C:/src/github/Obsidian - Kopie/_asset\Pasted image 20240625151258.png
+C:/src/github/Obsidian - Kopie/_asset\Pasted image 20240808143955.png
+C:/src/github/Obsidian - Kopie/_asset\PastedImage20240220162230.png
+C:/src/github/Obsidian - Kopie/_asset\PastedImage20240221110355.png
+C:/src/github/Obsidian - Kopie/_asset\Productive Thinking Model_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\Productive Thinking Model_image_2.png
+C:/src/github/Obsidian - Kopie/_asset\README_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\tmp1718022600145_2024-06-10_image_1.png
+C:/src/github/Obsidian - Kopie/_asset\tmp1718183804131_2024-06-12_image_1.png
+```
 
 ## check Webp in Obsidian + git yekyll SSG Page - okay working 
 
