@@ -8,8 +8,6 @@ toc: true
 toc_sticky: true
 ---
 
- 
-
 # Shrink git repo for obsidian android phone usage - wip
 
 
@@ -45,7 +43,7 @@ git verify-pack -v .git/objects/pack/*.idx | sort -k 3 -n | tail -5
 ![](../_asset/2024-09-22-git-blog-repo-shrink_image_4.png)
 
 ![](../_asset/2024-09-22-git-blog-repo-shrink_image_5.png)
-#### Test 2 bfg
+#### Test 2 bfg - working
 
 https://rtyley.github.io/bfg-repo-cleaner/
 
@@ -640,6 +638,7 @@ $ git push
 Enumerating objects: 4499, done.
 ```
 ### BFG 2
+
 find all unused jpg files 
 
 `git log --all --pretty=format: --name-only --diff-filter=D |grep '\.jpg'| sort >allDeletedFilesJpg.txt`
