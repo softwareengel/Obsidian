@@ -9,6 +9,6 @@ Date: 2024-02-21
 
 # Google Bard Chat
 
-![](../_asset/2023-12-09_GoogleChat_image_1.png)
+![](../_asset/2023-12-09_GoogleChat_image_1.jpg)
 
 <https://bard.google.com/?hl=de>

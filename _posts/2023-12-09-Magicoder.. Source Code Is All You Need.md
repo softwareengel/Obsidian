@@ -18,7 +18,7 @@ toc_sticky: true
 - **OSS-Instruct** mitigates the _inherent bias_ of the LLM-synthesized instruction data by empowering them with _a wealth of open-source references_ to produce more diverse, realistic, and controllable data.
 
 
-![](../_asset/2023-12-09-Magicoder..%20Source%20Code%20Is%20All%20You%20Need_image_1.png)
+![](../_asset/2023-12-09-Magicoder..%20Source%20Code%20Is%20All%20You%20Need_image_1.jpg)
 
 <https://huggingface.co/spaces/ise-uiuc/Magicoder-S-DS-6.7B>
 

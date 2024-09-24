@@ -11,7 +11,7 @@ Date: 2024-01-24
 
 # Ghidra-plays-mario
 
-![](20240124093601ghidraMario.png)
+![](20240124093601ghidraMario.jpg)
 
 <https://github.com/nevesnunes/ghidra-plays-mario>
 

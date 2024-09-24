@@ -11,6 +11,6 @@ Date: 2024-02-20
 # Mentimeter
 
 
-![](2023-09-18_mentimeter_image_1.png)
+![](2023-09-18_mentimeter_image_1.jpg)
 
 <https://www.mentimeter.com/>

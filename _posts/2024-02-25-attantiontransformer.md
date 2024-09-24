@@ -12,11 +12,11 @@ Date: 2024-03-05
 
 <https://nlp.seas.harvard.edu/annotated-transformer/>
 
-![](../_asset/2024-02-25_attantiontransformer_image_1.png)
+![](../_asset/2024-02-25_attantiontransformer_image_1.jpg)
 
 # Attention Is All You Need
 <https://arxiv.org/abs/1706.03762>
 
 
 
-![](../_asset/2024-02-25_attantiontransformer_image_2.png)
+![](../_asset/2024-02-25_attantiontransformer_image_2.jpg)

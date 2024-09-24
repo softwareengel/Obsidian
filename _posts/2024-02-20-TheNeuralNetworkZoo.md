@@ -9,4 +9,4 @@ Date: 2024-02-20
 # The Neural Network Zoo
 <https://www.asimovinstitute.org/neural-network-zoo/#>
 
-![](../_asset/2024-02-20_TheNeuralNetworkZoo_image_2.png)
+![](../_asset/2024-02-20_TheNeuralNetworkZoo_image_2.jpg)

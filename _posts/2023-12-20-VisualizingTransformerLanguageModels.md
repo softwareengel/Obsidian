@@ -21,6 +21,6 @@ The Illustrated GPT-2 (Visualizing Transformer Language Models)
 
 ## A Visual Intro to NumPy and Data Representation
 
-![](../_asset/2023-12-20_VisualizingTransformerLanguageModels_image_3.png)
+![](../_asset/2023-12-20_VisualizingTransformerLanguageModels_image_3.jpg)
 [A Visual Intro to NumPy and Data Representation – Jay Alammar – Visualizing machine learning one concept at a time. (jalammar.github.io)](https://jalammar.github.io/visual-numpy/)
 

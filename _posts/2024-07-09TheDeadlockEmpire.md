@@ -15,5 +15,5 @@ https://github.com/deadlockempire/deadlockempire.github.io
 
 https://deadlockempire.github.io/#T1-Interface
 
-![](../_asset/2024-07-09TheDeadlockEmpire_image_1.png)
+![](../_asset/2024-07-09TheDeadlockEmpire_image_1.jpg)
 # 

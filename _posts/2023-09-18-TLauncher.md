@@ -9,6 +9,6 @@ Date: 2024-02-20
 # TLauncher 
 
 
-![](2023-09-18_TLauncher_image_1.png)
+![](2023-09-18_TLauncher_image_1.jpg)
 
 <https://tlauncher.org/>

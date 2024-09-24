@@ -22,7 +22,7 @@ toc_sticky: true
 <script> document.addEventListener('DOMContentLoaded', (event) => { var video = document.getElementById('myVideo'); video.currentTime = 3; video.play(); }); </script>
 
 ![](../_asset/2024-04-11-transformer.js_video_1.mp4)
-![](../_asset/2024-04-11-transformer.js_image_1.png)
+![](../_asset/2024-04-11-transformer.js_image_1.jpg)
 
 
 State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
@@ -40,24 +40,24 @@ For more information, check out the full [documentation](https://huggingface.co
 
 ## Examples 
 
-![](../_asset/2024-04-11-transformer.js_image_2.png)
+![](../_asset/2024-04-11-transformer.js_image_2.jpg)
 ## Demo Site 
 
-![](../_asset/2024-04-11-transformer.js_image_3.png)
+![](../_asset/2024-04-11-transformer.js_image_3.jpg)
 ## Tasks
 
 ## test generation 
 
-![](../_asset/2024-04-11-transformer.js_image_4.png)
+![](../_asset/2024-04-11-transformer.js_image_4.jpg)
 ## text summarization 
 
-![](../_asset/2024-04-11-transformer.js_image_5.png)
+![](../_asset/2024-04-11-transformer.js_image_5.jpg)
 
 ## image classification 
-![](../_asset/2024-04-11-transformer.js_image_6.png)
+![](../_asset/2024-04-11-transformer.js_image_6.jpg)
 ## Translation EN - DEU .. noch Luft nach oben ;-) 
 
-![](../_asset/2024-04-11-transformer.js_image_7.png)
+![](../_asset/2024-04-11-transformer.js_image_7.jpg)
 
 ## Links
 

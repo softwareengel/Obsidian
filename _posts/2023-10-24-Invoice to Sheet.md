@@ -9,7 +9,7 @@ Date: 2024-02-20
 
 # Invoice to Sheet
 
-![](../_asset/2023-10-24_Invoice%20to%20Sheet_image_1.png)
+![](../_asset/2023-10-24_Invoice%20to%20Sheet_image_1.jpg)
 
 Zero-configuration invoice data capture for Gmail. Extract data in one click from your PDF invoices to a Google Sheet automagically thanks to state-of-the-art AI.
 

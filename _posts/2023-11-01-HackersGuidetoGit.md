@@ -11,5 +11,5 @@ Date: 2024-03-05
 # A Hacker’s Guide to Git
 
 
-![](../_asset/2023-11-01_HackersGuidetoGit_image_1.png)
+![](../_asset/2023-11-01_HackersGuidetoGit_image_1.jpg)
 <https://wildlyinaccurate.com/a-hackers-guide-to-git>

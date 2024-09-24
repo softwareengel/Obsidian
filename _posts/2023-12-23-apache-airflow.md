@@ -16,4 +16,4 @@ Apache Airflow - A platform to programmatically author, schedule, and monitor wo
 <https://github.com/apache/airflow/>
 
 
-![[../_asset/Pasted image 20240118181701.png]]
+![[../_asset/Pasted image 20240118181701.jpg]]

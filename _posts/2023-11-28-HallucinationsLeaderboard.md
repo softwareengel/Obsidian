@@ -17,4 +17,4 @@ Date: 2024-03-05
 
 Leaderboard Comparing LLM Performance at Producing Hallucinations when Summarizing Short Documents
 
-![](../_asset/2023-11-28_HallucinationsLeaderboard_image_1.png)
+![](../_asset/2023-11-28_HallucinationsLeaderboard_image_1.jpg)

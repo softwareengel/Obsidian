@@ -17,7 +17,7 @@ toc_sticky: true
 https://github.com/amazon-science/ch
 # chronos-forecasting
 
-![](../_asset/2024-03-22chronos-forecasting_image_1.png)
+![](../_asset/2024-03-22chronos-forecasting_image_1.jpg)
 
 
 Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting

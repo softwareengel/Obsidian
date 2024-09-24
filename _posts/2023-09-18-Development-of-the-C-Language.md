@@ -15,7 +15,7 @@ toc_sticky: true
 # The Development of the C Language
 
 ## png 
-![](../_asset/2023-09-18-Development-of-the-C-Language_image_1.png)
+![](../_asset/2023-09-18-Development-of-the-C-Language_image_1.jpg)
 
 ## png 2 jpg plugin 
 

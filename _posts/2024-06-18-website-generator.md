@@ -16,23 +16,23 @@ Build a website for your business with HubSpot’s free CMS software to drive tr
 
 <https://www.hubspot.com/products/cms>
 
-![](../_asset/2024-06-18-website-generator_image_1.png)
+![](../_asset/2024-06-18-website-generator_image_1.jpg)
 
-![](../_asset/2024-06-18-website-generator_image_2.png)
+![](../_asset/2024-06-18-website-generator_image_2.jpg)
 
 ## Hack Demo 
-![](../_asset/2024-06-18-website-generator_image_3.png)
+![](../_asset/2024-06-18-website-generator_image_3.jpg)
 
-![](../_asset/2024-06-18-website-generator_image_4.png)
+![](../_asset/2024-06-18-website-generator_image_4.jpg)
 
-![](../_asset/2024-06-18-website-generator_image_5.png)
-![](../_asset/2024-06-18-website-generator_image_6.png)
+![](../_asset/2024-06-18-website-generator_image_5.jpg)
+![](../_asset/2024-06-18-website-generator_image_6.jpg)
 
-![](../_asset/2024-06-18-website-generator_image_7.png)
+![](../_asset/2024-06-18-website-generator_image_7.jpg)
 
-![](../_asset/2024-06-18-website-generator_image_8.png)
+![](../_asset/2024-06-18-website-generator_image_8.jpg)
 
-![](../_asset/2024-06-18-website-generator_image_9.png)
+![](../_asset/2024-06-18-website-generator_image_9.jpg)
 
 
 ## Links

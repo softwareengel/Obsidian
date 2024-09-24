@@ -10,6 +10,6 @@ Date: 2024-02-22
 
 # Discover 91 Cool GPTs
 
-![](../_asset/2023-11-22_Discover91CoolGPTs_image_1.png)
+![](../_asset/2023-11-22_Discover91CoolGPTs_image_1.jpg)
 
 <https://coolgpts.ai/>

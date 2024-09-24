@@ -15,13 +15,13 @@ toc_sticky: true
 
 ## TF Artikel 
 
-![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_1.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_1.jpg)
 
-![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_2.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_2.jpg)
 
 ## CUII Block List 
 
-![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_3.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_3.jpg)
 ## Domains 
 
 | Domain                           | Blockiert am* |
@@ -304,17 +304,17 @@ toc_sticky: true
 
 ## CUII DNS Blocker
 
-![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_4.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_4.jpg)
 
 ### Resolver Status 
 
-![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_5.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_5.jpg)
 ## Firefox DNS Schutz 
-![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_6.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_6.jpg)
 
 ## Ohne DNS Blocker 
 
-![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_7.png)
+![](../_asset/2024-09-04-fileDowloads-Pirate-block-list_image_7.jpg)
 ## Links 
 ### Artikel 
 

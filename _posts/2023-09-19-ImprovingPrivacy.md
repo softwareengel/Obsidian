@@ -14,4 +14,4 @@ Date: 2024-02-20
 
 
 
-![](../_asset/2023-09-19_ImprovingPrivacy_image_1.png)
+![](../_asset/2023-09-19_ImprovingPrivacy_image_1.jpg)

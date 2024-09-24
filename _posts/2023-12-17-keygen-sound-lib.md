@@ -24,7 +24,7 @@ Where ist the playlist?
 
 <https://archive.org/details/essential-keygen-music?webamp=default>
 
-![](../_asset/20231219172353_winampWeb.png)
+![](../_asset/20231219172353_winampWeb.jpg)
 
-![](../_asset/20231219172518_internetArchiveWinamp.png)
+![](../_asset/20231219172518_internetArchiveWinamp.jpg)
 

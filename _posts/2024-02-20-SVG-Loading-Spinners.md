@@ -17,4 +17,4 @@ SVG spinners: you've seen them all over, giving us as a visual cue when elements
 
 <https://fffuel.co/svg-spinner/>
 
-![](../_asset/2024-02-20_SVG_Loading_Spinners_image_2.png)
+![](../_asset/2024-02-20_SVG_Loading_Spinners_image_2.jpg)

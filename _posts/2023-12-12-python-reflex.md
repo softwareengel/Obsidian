@@ -16,7 +16,7 @@ Create your whole app in a single language. Don't worry about writing APIs to co
 
 <https://github.com/reflex-dev/reflex>
 
-![](PastedImage20240221110355.png)
+![](PastedImage20240221110355.jpg)
 
 <https://reflex.dev/docs/library/>
 

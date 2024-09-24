@@ -9,7 +9,7 @@ tags:
 Date: 2024-01-24
 ---
 
-![](20240204141508_ipgeo.png)
+![](20240204141508_ipgeo.jpg)
 # Geolocation
 
 <https://ipapi.is/geolocation.html>

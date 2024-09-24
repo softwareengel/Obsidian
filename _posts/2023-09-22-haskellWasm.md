@@ -10,6 +10,6 @@ Date: 2024-02-20
 
 # Haskell webassembly in the browser
 
-![](../_asset/2023-09-22_haskellWasm_image_1.png)
+![](../_asset/2023-09-22_haskellWasm_image_1.jpg)
 
 <https://joeyh.name/blog/entry/Haskell_webassembly_in_the_browser/>

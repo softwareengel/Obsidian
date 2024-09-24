@@ -15,4 +15,4 @@ toc_sticky: true
 
 <https://github.com/xiguaxigua/ffmpeg-online>
 
-![](../_asset/2023-10-15-%20online%20version%20of%20ffmpeg%20built%20on%20ffmpeg.wasm_image_1.png)
+![](../_asset/2023-10-15-%20online%20version%20of%20ffmpeg%20built%20on%20ffmpeg.wasm_image_1.jpg)

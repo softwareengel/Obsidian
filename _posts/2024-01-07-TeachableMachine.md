@@ -18,7 +18,7 @@ Date: 2024-01-07
 
 <https://experiments.withgoogle.com/tiny-sorter/view>
 
-![](../_asset/2024-01-07_TeachableMachine_image_1.png)
+![](../_asset/2024-01-07_TeachableMachine_image_1.jpg)
 
 Tiny Sorter
 A DIY experiment connecting Arduino + Teachable Machine
@@ -28,7 +28,7 @@ A DIY experiment connecting Arduino + Teachable Machine
 
 <https://teachablemachine.withgoogle.com/>
 
-![](../_asset/2024-01-07_TeachableMachine_image_2.png)
+![](../_asset/2024-01-07_TeachableMachine_image_2.jpg)
 # coral.Ai
 <https://coral.ai/>
 A local AI platform to strengthen society, improve the environment, and enrich lives

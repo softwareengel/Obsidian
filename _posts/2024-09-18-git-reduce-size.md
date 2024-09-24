@@ -14,7 +14,7 @@ toc_sticky: true
 git repack -a -d -f --depth=250 --window=250
 ```
 
-![](../_asset/2024-09-18-git-reduce-size_image_1.png)
+![](../_asset/2024-09-18-git-reduce-size_image_1.jpg)
 
 
 ## Links 

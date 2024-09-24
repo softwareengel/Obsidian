@@ -9,7 +9,7 @@ Date: 2024-02-27
 Wasm powered Jupyter running in the browser
 
 
-![](../_asset/2024-02-27_jupyterLite_image_1.png)
+![](../_asset/2024-02-27_jupyterLite_image_1.jpg)
 
 
 <https://github.com/jupyterlite/jupyterlite>

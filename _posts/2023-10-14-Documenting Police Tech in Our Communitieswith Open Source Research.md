@@ -13,6 +13,6 @@ This research was compiled by more than 1,000 students and volunteers, and incor
 # Atlas of Surveillance
 ## Documenting Police Tech in Our Communities with Open Source Research 
 
-![](../_asset/2023-10-14_Documenting%20Police%20Tech%20in%20Our%20Communitieswith%20Open%20Source%20Research_image_1.png)
+![](../_asset/2023-10-14_Documenting%20Police%20Tech%20in%20Our%20Communitieswith%20Open%20Source%20Research_image_1.jpg)
 
 <https://atlasofsurveillance.org/>

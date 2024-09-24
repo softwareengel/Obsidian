@@ -17,7 +17,7 @@ toc_sticky: true
 
 
 
-![2023-11-01-websitesforprogrammers_image_1](../_asset/2023-11-01-websitesforprogrammers_image_1.png)
+![2023-11-01-websitesforprogrammers_image_1](../_asset/2023-11-01-websitesforprogrammers_image_1.jpg)
 
 ## Links 
 

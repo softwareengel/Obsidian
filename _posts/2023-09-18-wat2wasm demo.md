@@ -13,12 +13,12 @@ WebAssembly has a [text format](https://webassembly.github.io/spec/core/text/ind
 Enter WebAssembly text in the textarea on the left. The right side will either show an error, or will show a log with a description of the generated binary file.
 
 # 
-![](PastedImage20240220162230.png)
+![](PastedImage20240220162230.jpg)
 <https://webassembly.github.io/wabt/demo/wat2wasm/index.html>
 
 # WAT Text Format 
 
-![](20240220162413_wa.png)
+![](20240220162413_wa.jpg)
 
 # WAT Binary Format 
-![](20240220162448wat.png)
+![](20240220162448wat.jpg)
