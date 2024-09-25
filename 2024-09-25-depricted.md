@@ -7,7 +7,8 @@ toc: true
 toc_sticky: true
 ---
 
-#  Blog Depricated - Blog Moved to https://softwareengel.github.io/hacker-notes/
+
+# Blog Depricated - Blog Moved to https://softwareengel.github.io/hacker-notes/
 
 
 <https://softwareengel.github.io/hacker-notes/>
